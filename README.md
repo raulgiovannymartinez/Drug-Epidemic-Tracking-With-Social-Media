@@ -7,7 +7,7 @@ UC San Diego
 ## Class
 DSE203: Data Integration and ETL
 
-## Team
+## Collaborators
 Ivan Ulloa (iulloaga@eng.ucsd.edu)
 
 Justin Wahl (justinwahl@gmail.com)

@@ -7,6 +7,9 @@ UC San Diego
 ## Class
 DSE203: Data Integration and ETL
 
+## Key Concepts
+
+
 ## Collaborators
 Ivan Ulloa (iulloaga@eng.ucsd.edu)
 

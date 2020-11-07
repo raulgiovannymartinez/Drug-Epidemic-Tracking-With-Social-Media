@@ -5,7 +5,7 @@ UC San Diego
 
 Class Project for DSE203: Data Integration and ETL
 
-Team:
+***Team:***
 
 Ivan Ulloa (iulloaga@eng.ucsd.edu)
 

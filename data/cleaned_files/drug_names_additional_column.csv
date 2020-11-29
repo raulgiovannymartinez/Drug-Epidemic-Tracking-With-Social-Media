@@ -1,4 +1,5 @@
 name,common_name,name_type,full_common_name
+Fentanyl,fentanyl,generic_name,fentanyl
 Apache,fentanyl,street_name,fentanyl
 Birria,fentanyl,street_name,fentanyl
 Blonde,fentanyl,street_name,fentanyl
@@ -50,7 +51,9 @@ TNT,fentanyl,street_name,fentanyl
 Toe Tag Dope,fentanyl,street_name,fentanyl
 White Girl,fentanyl,street_name,fentanyl
 White Ladies,fentanyl,street_name,fentanyl
-Heroin,heroin,street_name,heroin
+Heroin,heroin,generic_name,heroin
+diacetylmorphine,heroin,brand_name,heroin
+diamorphone,heroin,brand_name,heroin
 Abajo,heroin,street_name,heroin
 A-Bomb,heroin,street_name,heroin
 Achivia,heroin,street_name,heroin
@@ -329,6 +332,7 @@ Wings,heroin,street_name,heroin
 Witch,heroin,street_name,heroin
 Witch Hazel,heroin,street_name,heroin
 Zapapote,heroin,street_name,heroin
+Oxycodone,oxycodone,generic_name,oxycodone
 512s,oxycodone,street_name,oxycodone containing acetaminophen
 Bananas,oxycodone,street_name,oxycodone containing acetaminophen
 Blue,oxycodone,street_name,oxycodone containing acetaminophen
@@ -346,6 +350,7 @@ Rims,oxycodone,street_name,oxycodone containing acetaminophen
 Tires,oxycodone,street_name,oxycodone containing acetaminophen
 Wheels,oxycodone,street_name,oxycodone containing acetaminophen
 Perks,oxycodone,street_name,oxycodone containing acetaminophen
+alprazolam,alprazolam,generic_name,alprazolam
 Xanax,alprazolam,brand_name,alprazolam
 Bars,alprazolam,street_name,alprazolam
 Benzos,alprazolam,street_name,alprazolam
@@ -369,6 +374,7 @@ Yellow Boys,alprazolam,street_name,alprazolam
 Zanbars,alprazolam,street_name,alprazolam
 Zannies,alprazolam,street_name,alprazolam
 Z-Bars,alprazolam,street_name,alprazolam
+amphetamine,amphetamine,generic_name,amphetamine
 Acelerador,amphetamine,street_name,amphetamine
 Amy,amphetamine,street_name,amphetamine
 Amps,amphetamine,street_name,amphetamine
@@ -488,6 +494,7 @@ Study Buddies,amphetamine,street_name,amphetamine and dextroamphetamine combinat
 Study Skittles,amphetamine,street_name,amphetamine and dextroamphetamine combination
 Truck Drivers,amphetamine,street_name,amphetamine and dextroamphetamine combination
 Zing,amphetamine,street_name,amphetamine and dextroamphetamine combination
+buprenorphine,buprenorphine,generic_name,buprenorphine
 Suboxone,buprenorphine,brand_name,buprenorphine and naloxone combination
 Boxes,buprenorphine,street_name,buprenorphine and naloxone combination
 Bupes,buprenorphine,street_name,buprenorphine and naloxone combination
@@ -496,6 +503,7 @@ Sobos,buprenorphine,street_name,buprenorphine and naloxone combination
 Stop Signs,buprenorphine,street_name,buprenorphine and naloxone combination
 Stops,buprenorphine,street_name,buprenorphine and naloxone combination
 Subs,buprenorphine,street_name,buprenorphine and naloxone combination
+clonazepam,clonazepam,generic_name,clonazepam
 Benzos,clonazepam,street_name,clonazepam
 K,clonazepam,street_name,clonazepam
 K-Pin,clonazepam,street_name,clonazepam
@@ -503,6 +511,7 @@ Pin,clonazepam,street_name,clonazepam
 Super Valium,clonazepam,street_name,clonazepam
 Tranks,clonazepam,street_name,clonazepam
 klonopin,clonazepam,street_name,clonazepam
+cocaine,cocaine,generic_name,cocaine
 Regular Kind,cocaine,street_name,cocaine
 Regular Work,cocaine,street_name,cocaine
 Reindeer Dust,cocaine,street_name,cocaine
@@ -866,6 +875,7 @@ Cebolla,cocaine,street_name,cocaine
 Cecil,cocaine,street_name,cocaine
 Cement,cocaine,street_name,cocaine
 Charlie,cocaine,street_name,cocaine
+crack cocaine,crack cocaine,generic_name,crack cocaine
 Crack,crack cocaine,street_name,crack cocaine
 Devil Smoke,crack cocaine,street_name,crack cocaine
 Dice,crack cocaine,street_name,crack cocaine
@@ -1011,6 +1021,7 @@ CRC,crack cocaine,street_name,crack cocaine
 Crib,crack cocaine,street_name,crack cocaine
 Crunch and Munch,crack cocaine,street_name,crack cocaine
 Devil,crack cocaine,street_name,crack cocaine
+ecstasy/MDMA,ecstasy/MDMA,generic_name,ecstasy/MDMA
 Ecstasy,ecstasy/MDMA,street_name,ecstasy/MDMA
 MDMA,ecstasy/MDMA,street_name,ecstasy/MDMA
 Molly,ecstasy/MDMA,street_name,ecstasy/MDMA
@@ -1070,6 +1081,7 @@ White Mercedes,ecstasy/MDMA,street_name,ecstasy/MDMA
 X,ecstasy/MDMA,street_name,ecstasy/MDMA
 XTC,ecstasy/MDMA,street_name,ecstasy/MDMA
 Yokes,ecstasy/MDMA,street_name,ecstasy/MDMA
+hydrocodone,hydrocodone,generic_name,hydrocodone
 Norco,hydrocodone,brand_name,hydrocodone
 Vicodin,hydrocodone,brand_name,hydrocodone
 Lorcet,hydrocodone,brand_name,hydrocodone
@@ -1095,6 +1107,7 @@ D,hydromorphone,street_name,hydromorphone
 Dillies,hydromorphone,street_name,hydromorphone
 K4,hydromorphone,street_name,hydromorphone
 Needle Candy,hydromorphone,street_name,hydromorphone
+methamphetamine,methamphetamine,generic_name,methamphetamine
 Diablo,methamphetamine,street_name,methamphetamine
 Evil Sister,methamphetamine,street_name,methamphetamine
 Eye Glasses,methamphetamine,street_name,methamphetamine
@@ -1243,6 +1256,7 @@ Day,methamphetamine,street_name,methamphetamine
 Diamond,methamphetamine,street_name,methamphetamine
 Dunk,methamphetamine,street_name,methamphetamine
 El Gata,methamphetamine,street_name,methamphetamine
+methylphenidate,methylphenidate,generic_name,methylphenidate
 Ritalin,methylphenidate,brand_name,methylphenidate
 Concerta,methylphenidate,brand_name,methylphenidate
 Daytrana,methylphenidate,brand_name,methylphenidate
@@ -1265,6 +1279,7 @@ Smarties,methylphenidate,street_name,methylphenidate
 Study Buddies,methylphenidate,street_name,methylphenidate
 Truck Drivers,methylphenidate,street_name,methylphenidate
 Vitamin R,methylphenidate,street_name,methylphenidate
+morphine,morphine,generic_name,morphine
 Dreamer,morphine,street_name,morphine
 First Line,morphine,street_name,morphine
 God’s Drug,morphine,street_name,morphine
@@ -1276,6 +1291,7 @@ Morpho,morphine,street_name,morphine
 Unkie,morphine,street_name,morphine
 White Stuff,morphine,street_name,morphine
 M,morphine,street_name,morphine
+opium,opium,generic_name,opium
 Ah-Pen-Yen,opium,street_name,opium
 Auntie,opium,street_name,opium
 Aunt Emma,opium,street_name,opium
@@ -1321,6 +1337,7 @@ Toxy,opium,street_name,opium
 Toys,opium,street_name,opium
 When-Shee,opium,street_name,opium
 Zero,opium,street_name,opium
+oxycodone,oxycodone,generic_name,oxycodone
 Oxaydo,oxycodone,brand_name,oxycodone
 Roxicodone,oxycodone,brand_name,oxycodone
 Oxycontin,oxycodone,brand_name,oxycodone
@@ -1345,362 +1362,367 @@ Roxy,oxycodone,street_name,oxycodone
 Roxy Shorts,oxycodone,street_name,oxycodone
 Whites,oxycodone,street_name,oxycodone
 Oxycat,oxycodone,street_name,oxycodone
+U-47700,U-47700,generic_name,U-47700
+Pink Heroin,U-47700,street_name,U-47700
 Pink,U-47700,street_name,U-47700
 Pinky,U-47700,street_name,U-47700
 U4,U-47700,street_name,U-47700
-Peliroja,marijuana,street_name,marijuana
-Pelosa,marijuana,street_name,marijuana
-Phoenix,marijuana,street_name,marijuana
-Pine,marijuana,street_name,marijuana
-Pink Panther,marijuana,street_name,marijuana
-Pintura,marijuana,street_name,marijuana
-Plant,marijuana,street_name,marijuana
-Platinum Cookies,marijuana,street_name,marijuana
-Platinum Jack,marijuana,street_name,marijuana
-Pocket Rocket,marijuana,street_name,marijuana
-Popcorn,marijuana,street_name,marijuana
-Porro,marijuana,street_name,marijuana
-Pot,marijuana,street_name,marijuana
-Pretendo,marijuana,street_name,marijuana
-Prop 215,marijuana,street_name,marijuana
-Puff,marijuana,street_name,marijuana
-Purple Haze,marijuana,street_name,marijuana
-Purple OG,marijuana,street_name,marijuana
-Queen Anns Lace,marijuana,street_name,marijuana
-Red Hair,marijuana,street_name,marijuana
-Ragweed,marijuana,street_name,marijuana
-Railroad Weed,marijuana,street_name,marijuana
-Rainy Day Woman,marijuana,street_name,marijuana
-Rasta Weed,marijuana,street_name,marijuana
-Red Cross,marijuana,street_name,marijuana
-Red Dirt,marijuana,street_name,marijuana
-Reefer,marijuana,street_name,marijuana
-Reggie,marijuana,street_name,marijuana
-Repollo,marijuana,street_name,marijuana
-Righteous Bush,marijuana,street_name,marijuana
-Root,marijuana,street_name,marijuana
-Rope,marijuana,street_name,marijuana
-Rosa Maria,marijuana,street_name,marijuana
-Salt and Pepper,marijuana,street_name,marijuana
-Santa Marta,marijuana,street_name,marijuana
-Sasafras,marijuana,street_name,marijuana
-Sativa,marijuana,street_name,marijuana
-Shoes,marijuana,street_name,marijuana
-Sinsemilla,marijuana,street_name,marijuana
-Shmagma,marijuana,street_name,marijuana
-Shora,marijuana,street_name,marijuana
-Shrimp,marijuana,street_name,marijuana
-Shwag,marijuana,street_name,marijuana
-Skunk,marijuana,street_name,marijuana
-Skywalker,marijuana,street_name,marijuana
-Smoke,marijuana,street_name,marijuana
-Smoochy Woochy Poochy,marijuana,street_name,marijuana
-Smoke Canada,marijuana,street_name,marijuana
-Sour OG,marijuana,street_name,marijuana
-Spliff,marijuana,street_name,marijuana
-Stems,marijuana,street_name,marijuana
-Sticky,marijuana,street_name,marijuana
-Stink Weed,marijuana,street_name,marijuana
-Sugar Weed,marijuana,street_name,marijuana
-Sweet Lucy,marijuana,street_name,marijuana
-Tahoe,marijuana,street_name,marijuana
-Tangy OG,marijuana,street_name,marijuana
-Terp,marijuana,street_name,marijuana
-Terpenes,marijuana,street_name,marijuana
-Tex-Mex,marijuana,street_name,marijuana
-Texas Tea,marijuana,street_name,marijuana
-Tigitty,marijuana,street_name,marijuana
-Tila,marijuana,street_name,marijuana
-Tims,marijuana,street_name,marijuana
-Top Shelf,marijuana,street_name,marijuana
-Tosca,marijuana,street_name,marijuana
-Train Wreck,marijuana,street_name,marijuana
-Trees,marijuana,street_name,marijuana
-Trinity OG,marijuana,street_name,marijuana
-Tweeds,marijuana,street_name,marijuana
-Valle,marijuana,street_name,marijuana
-Wake and Bake,marijuana,street_name,marijuana
-Weed,marijuana,street_name,marijuana
-Weed Tea,marijuana,street_name,marijuana
-Wet,marijuana,street_name,marijuana
-Wheat,marijuana,street_name,marijuana
-White-Haired Lady,marijuana,street_name,marijuana
-Wooz,marijuana,street_name,marijuana
-Yellow Submarine,marijuana,street_name,marijuana
-Yen Pop,marijuana,street_name,marijuana
-Yerba,marijuana,street_name,marijuana
-Yesca,marijuana,street_name,marijuana
-Young Girls,marijuana,street_name,marijuana
-Zacate,marijuana,street_name,marijuana
-Zacatecas,marijuana,street_name,marijuana
-Zambi,marijuana,street_name,marijuana
-Zip,marijuana,street_name,marijuana
-Zoom,marijuana,street_name,marijuana
-Jon-Jem,marijuana,street_name,marijuana
-Joy Smoke,marijuana,street_name,marijuana
-Juan Valdez,marijuana,street_name,marijuana
-Juanita,marijuana,street_name,marijuana
-Jungle Juice,marijuana,street_name,marijuana
-Kaff,marijuana,street_name,marijuana
-Kali,marijuana,street_name,marijuana
-Kaya,marijuana,street_name,marijuana
-KB,marijuana,street_name,marijuana
-Kentucky Blue,marijuana,street_name,marijuana
-KGB,marijuana,street_name,marijuana
-Khalifa,marijuana,street_name,marijuana
-Kiff,marijuana,street_name,marijuana
-Killa,marijuana,street_name,marijuana
-Kilter,marijuana,street_name,marijuana
-King Louie,marijuana,street_name,marijuana
-Kona Gold,marijuana,street_name,marijuana
-Kumba,marijuana,street_name,marijuana
-Kush,marijuana,street_name,marijuana
-Laughing Grass,marijuana,street_name,marijuana
-Laughing Weed,marijuana,street_name,marijuana
-Leaf,marijuana,street_name,marijuana
-Lechuga,marijuana,street_name,marijuana
-Lemon-Lime,marijuana,street_name,marijuana
-Lea,marijuana,street_name,marijuana
-Liamba,marijuana,street_name,marijuana
-Lime Pillows,marijuana,street_name,marijuana
-Little Green Friends,marijuana,street_name,marijuana
-Little Smoke,marijuana,street_name,marijuana
-Llesca,marijuana,street_name,marijuana
-Loaf,marijuana,street_name,marijuana
-Lobo,marijuana,street_name,marijuana
-Loco Weed,marijuana,street_name,marijuana
-Loud,marijuana,street_name,marijuana
-Love Nuggets,marijuana,street_name,marijuana
-Love Weed,marijuana,street_name,marijuana
-Lucas,marijuana,street_name,marijuana
-M.J.,marijuana,street_name,marijuana
-Machinery,marijuana,street_name,marijuana
-Macoa,marijuana,street_name,marijuana
-Mafafa,marijuana,street_name,marijuana
-Magic Smoke,marijuana,street_name,marijuana
-Manhattan Silver,marijuana,street_name,marijuana
-Manteca,marijuana,street_name,marijuana
-Maracachafa,marijuana,street_name,marijuana
-Maria,marijuana,street_name,marijuana
-Marimba,marijuana,street_name,marijuana
-Mariquita,marijuana,street_name,marijuana
-Mary Ann,marijuana,street_name,marijuana
-Mary Jane,marijuana,street_name,marijuana
-Mary Jones,marijuana,street_name,marijuana
-Mary Warner,marijuana,street_name,marijuana
-Mary Weaver,marijuana,street_name,marijuana
-Matchbox,marijuana,street_name,marijuana
-Matraca,marijuana,street_name,marijuana
-Maui Wowie,marijuana,street_name,marijuana
-Meg,marijuana,street_name,marijuana
-Method,marijuana,street_name,marijuana
-Mersh,marijuana,street_name,marijuana
-Mexican Brown,marijuana,street_name,marijuana
-Mexicali Haze,marijuana,street_name,marijuana
-Mexican Green,marijuana,street_name,marijuana
-Mexican Red,marijuana,street_name,marijuana
-MMJ,marijuana,street_name,marijuana
-Mochie,marijuana,street_name,marijuana
-MoÃ±a,marijuana,street_name,marijuana
-Monte,marijuana,street_name,marijuana
-Moocah,marijuana,street_name,marijuana
-Mootie,marijuana,street_name,marijuana
-Mora,marijuana,street_name,marijuana
-Morisqueta,marijuana,street_name,marijuana
-Mostaza,marijuana,street_name,marijuana
-Mota,marijuana,street_name,marijuana
-Mother,marijuana,street_name,marijuana
-Mowing the Lawn,marijuana,street_name,marijuana
-Muggie,marijuana,street_name,marijuana
-My Brother,marijuana,street_name,marijuana
-Narizona,marijuana,street_name,marijuana
-Northern Lights,marijuana,street_name,marijuana
-Nug,marijuana,street_name,marijuana
-O-Boy,marijuana,street_name,marijuana
-OG,marijuana,street_name,marijuana
-O.J.,marijuana,street_name,marijuana
-Owl,marijuana,street_name,marijuana
-Paja,marijuana,street_name,marijuana
-Palm,marijuana,street_name,marijuana
-Paloma,marijuana,street_name,marijuana
-Palomita,marijuana,street_name,marijuana
-Panama Cut,marijuana,street_name,marijuana
-Panama Gold,marijuana,street_name,marijuana
-Panama Red,marijuana,street_name,marijuana
-Pakalolo,marijuana,street_name,marijuana
-Parsley,marijuana,street_name,marijuana
-Pasto,marijuana,street_name,marijuana
-Pasture,marijuana,street_name,marijuana
-Dew,marijuana,street_name,marijuana
-Diesel,marijuana,street_name,marijuana
-Dimba,marijuana,street_name,marijuana
-Dinkie Dow,marijuana,street_name,marijuana
-Diosa Verde,marijuana,street_name,marijuana
-Dirt Grass,marijuana,street_name,marijuana
-Ditch Weed,marijuana,street_name,marijuana
-Dizz,marijuana,street_name,marijuana
-Djamba,marijuana,street_name,marijuana
-Dody,marijuana,street_name,marijuana
-Dojo,marijuana,street_name,marijuana
-Domestic,marijuana,street_name,marijuana
-Donna Juana,marijuana,street_name,marijuana
-Doobie,marijuana,street_name,marijuana
-Downtown Brown,marijuana,street_name,marijuana
-Drag Weed,marijuana,street_name,marijuana
-Dro,marijuana,street_name,marijuana
-Droski,marijuana,street_name,marijuana
-Dry High,marijuana,street_name,marijuana
-Elefante Pata,marijuana,street_name,marijuana
-Endo,marijuana,street_name,marijuana
-Escoba,marijuana,street_name,marijuana
-Fattie,marijuana,street_name,marijuana
-Fine Stuff,marijuana,street_name,marijuana
-Fire,marijuana,street_name,marijuana
-Flower,marijuana,street_name,marijuana
-Flower Tops,marijuana,street_name,marijuana
-Fluffy,marijuana,street_name,marijuana
-Fuzzy Lady,marijuana,street_name,marijuana
-Gallina,marijuana,street_name,marijuana
-Gallito,marijuana,street_name,marijuana
-Garden,marijuana,street_name,marijuana
-Garifa,marijuana,street_name,marijuana
-Gauge,marijuana,street_name,marijuana
-Gangster,marijuana,street_name,marijuana
-Ganja,marijuana,street_name,marijuana
-Gash,marijuana,street_name,marijuana
-Gato,marijuana,street_name,marijuana
-Ghana,marijuana,street_name,marijuana
-Gigi,marijuana,street_name,marijuana
-Giggle Smoke,marijuana,street_name,marijuana
-Giggle Weed,marijuana,street_name,marijuana
-Girl Scout Cookies,marijuana,street_name,marijuana
-Gloria,marijuana,street_name,marijuana
-Gold,marijuana,street_name,marijuana
-Gold Leaf,marijuana,street_name,marijuana
-Gold Star,marijuana,street_name,marijuana
-Gong,marijuana,street_name,marijuana
-Good Giggles,marijuana,street_name,marijuana
-Gorilla,marijuana,street_name,marijuana
-Gorilla Glue,marijuana,street_name,marijuana
-Grand Daddy Purp,marijuana,street_name,marijuana
-Grass,marijuana,street_name,marijuana
-Grasshopper,marijuana,street_name,marijuana
-Green,marijuana,street_name,marijuana
-Green Crack,marijuana,street_name,marijuana
-Green-Eyed Girl,marijuana,street_name,marijuana
-Green Eyes,marijuana,street_name,marijuana
-Green Goblin,marijuana,street_name,marijuana
-Green Goddess,marijuana,street_name,marijuana
-Green Mercedes Benz,marijuana,street_name,marijuana
-Green Paint,marijuana,street_name,marijuana
-Green Skunk,marijuana,street_name,marijuana
-Greenhouse,marijuana,street_name,marijuana
-Grenuda,marijuana,street_name,marijuana
-Greta,marijuana,street_name,marijuana
-Guardada,marijuana,street_name,marijuana
-Gummy Bears,marijuana,street_name,marijuana
-Gunga,marijuana,street_name,marijuana
-Hairy Ones,marijuana,street_name,marijuana
-Hash,marijuana,street_name,marijuana
-Hawaiian,marijuana,street_name,marijuana
-Hay,marijuana,street_name,marijuana
-Hemp,marijuana,street_name,marijuana
-Herb,marijuana,street_name,marijuana
-Hierba,marijuana,street_name,marijuana
-Holy Grail,marijuana,street_name,marijuana
-Homegrown,marijuana,street_name,marijuana
-Hooch,marijuana,street_name,marijuana
-Hoja,marijuana,street_name,marijuana
-Humo,marijuana,street_name,marijuana
-Hydro,marijuana,street_name,marijuana
-Indian Boy,marijuana,street_name,marijuana
-Indian Hay,marijuana,street_name,marijuana
-Jamaican Gold,marijuana,street_name,marijuana
-Jamaican Red,marijuana,street_name,marijuana
-Jane,marijuana,street_name,marijuana
-Jive,marijuana,street_name,marijuana
-Jolly Green,marijuana,street_name,marijuana
-420,marijuana,street_name,marijuana
-A-Bomb,marijuana,street_name,marijuana
-Acapulco Gold,marijuana,street_name,marijuana
-Acapulco Red,marijuana,street_name,marijuana
-Ace,marijuana,street_name,marijuana
-African Black,marijuana,street_name,marijuana
-African Bush,marijuana,street_name,marijuana
-Airplane,marijuana,street_name,marijuana
-Alfalfa,marijuana,street_name,marijuana
-Alfombra,marijuana,street_name,marijuana
-Alice B Toklas,marijuana,street_name,marijuana
-All-Star,marijuana,street_name,marijuana
-Almohada,marijuana,street_name,marijuana
-Angola,marijuana,street_name,marijuana
-Animal Cookies,marijuana,street_name,marijuana
-Arizona,marijuana,street_name,marijuana
-Ashes,marijuana,street_name,marijuana
-Aunt Mary,marijuana,street_name,marijuana
-AZ,marijuana,street_name,marijuana
-Baby,marijuana,street_name,marijuana
-Bale,marijuana,street_name,marijuana
-Bambalachacha,marijuana,street_name,marijuana
-Barbara Jean,marijuana,street_name,marijuana
-Bareta,marijuana,street_name,marijuana
-Bash,marijuana,street_name,marijuana
-Bazooka,marijuana,street_name,marijuana
-BC Budd,marijuana,street_name,marijuana
-Bernie,marijuana,street_name,marijuana
-Bhang,marijuana,street_name,marijuana
-Big Pillows,marijuana,street_name,marijuana
-Biggy,marijuana,street_name,marijuana
-Bionic,marijuana,street_name,marijuana
-Black Bart,marijuana,street_name,marijuana
-Black Gold,marijuana,street_name,marijuana
-Black Maria,marijuana,street_name,marijuana
-Blondie,marijuana,street_name,marijuana
-Blue Cheese,marijuana,street_name,marijuana
-Blue Crush,marijuana,street_name,marijuana
-Blue Dream,marijuana,street_name,marijuana
-Blue Jeans,marijuana,street_name,marijuana
-Blue Sage,marijuana,street_name,marijuana
-Blueberry,marijuana,street_name,marijuana
-Bobo Bush,marijuana,street_name,marijuana
-Boo,marijuana,street_name,marijuana
-Boom,marijuana,street_name,marijuana
-Branches,marijuana,street_name,marijuana
-Broccoli,marijuana,street_name,marijuana
-Bud,marijuana,street_name,marijuana
-Budda,marijuana,street_name,marijuana
-Burritos Verdes,marijuana,street_name,marijuana
-Bush,marijuana,street_name,marijuana
-Cabbage,marijuana,street_name,marijuana
-CafÃ©,marijuana,street_name,marijuana
-Cajita,marijuana,street_name,marijuana
-Cali,marijuana,street_name,marijuana
-Camara,marijuana,street_name,marijuana
-Canadian Black,marijuana,street_name,marijuana
-Catnip,marijuana,street_name,marijuana
-Cheeba,marijuana,street_name,marijuana
-Chernobyl,marijuana,street_name,marijuana
-Cheese,marijuana,street_name,marijuana
-Chicago Black,marijuana,street_name,marijuana
-Chicago Green,marijuana,street_name,marijuana
-Chippie,marijuana,street_name,marijuana
-Chistosa,marijuana,street_name,marijuana
-Christmas Tree,marijuana,street_name,marijuana
-Chronic,marijuana,street_name,marijuana
-Churro,marijuana,street_name,marijuana
-Cigars,marijuana,street_name,marijuana
-Citrol,marijuana,street_name,marijuana
-Cola,marijuana,street_name,marijuana
-Colorado Cocktail,marijuana,street_name,marijuana
-Cookie,marijuana,street_name,marijuana
-Cotorritos,marijuana,street_name,marijuana
-Crazy Weed,marijuana,street_name,marijuana
-Creeper Bud,marijuana,street_name,marijuana
-Crippy,marijuana,street_name,marijuana
-Crying Weed,marijuana,street_name,marijuana
-Culican,marijuana,street_name,marijuana
-Dank,marijuana,street_name,marijuana
-Devil’s Lettuce,marijuana,street_name,marijuana
+cannabis,cannabis,generic_name,cannabis
+marijuana,cannabis,street_name,cannabis
+Peliroja,cannabis,street_name,cannabis
+Pelosa,cannabis,street_name,cannabis
+Phoenix,cannabis,street_name,cannabis
+Pine,cannabis,street_name,cannabis
+Pink Panther,cannabis,street_name,cannabis
+Pintura,cannabis,street_name,cannabis
+Plant,cannabis,street_name,cannabis
+Platinum Cookies,cannabis,street_name,cannabis
+Platinum Jack,cannabis,street_name,cannabis
+Pocket Rocket,cannabis,street_name,cannabis
+Popcorn,cannabis,street_name,cannabis
+Porro,cannabis,street_name,cannabis
+Pot,cannabis,street_name,cannabis
+Pretendo,cannabis,street_name,cannabis
+Prop 215,cannabis,street_name,cannabis
+Puff,cannabis,street_name,cannabis
+Purple Haze,cannabis,street_name,cannabis
+Purple OG,cannabis,street_name,cannabis
+Queen Anns Lace,cannabis,street_name,cannabis
+Red Hair,cannabis,street_name,cannabis
+Ragweed,cannabis,street_name,cannabis
+Railroad Weed,cannabis,street_name,cannabis
+Rainy Day Woman,cannabis,street_name,cannabis
+Rasta Weed,cannabis,street_name,cannabis
+Red Cross,cannabis,street_name,cannabis
+Red Dirt,cannabis,street_name,cannabis
+Reefer,cannabis,street_name,cannabis
+Reggie,cannabis,street_name,cannabis
+Repollo,cannabis,street_name,cannabis
+Righteous Bush,cannabis,street_name,cannabis
+Root,cannabis,street_name,cannabis
+Rope,cannabis,street_name,cannabis
+Rosa Maria,cannabis,street_name,cannabis
+Salt and Pepper,cannabis,street_name,cannabis
+Santa Marta,cannabis,street_name,cannabis
+Sasafras,cannabis,street_name,cannabis
+Sativa,cannabis,street_name,cannabis
+Shoes,cannabis,street_name,cannabis
+Sinsemilla,cannabis,street_name,cannabis
+Shmagma,cannabis,street_name,cannabis
+Shora,cannabis,street_name,cannabis
+Shrimp,cannabis,street_name,cannabis
+Shwag,cannabis,street_name,cannabis
+Skunk,cannabis,street_name,cannabis
+Skywalker,cannabis,street_name,cannabis
+Smoke,cannabis,street_name,cannabis
+Smoochy Woochy Poochy,cannabis,street_name,cannabis
+Smoke Canada,cannabis,street_name,cannabis
+Sour OG,cannabis,street_name,cannabis
+Spliff,cannabis,street_name,cannabis
+Stems,cannabis,street_name,cannabis
+Sticky,cannabis,street_name,cannabis
+Stink Weed,cannabis,street_name,cannabis
+Sugar Weed,cannabis,street_name,cannabis
+Sweet Lucy,cannabis,street_name,cannabis
+Tahoe,cannabis,street_name,cannabis
+Tangy OG,cannabis,street_name,cannabis
+Terp,cannabis,street_name,cannabis
+Terpenes,cannabis,street_name,cannabis
+Tex-Mex,cannabis,street_name,cannabis
+Texas Tea,cannabis,street_name,cannabis
+Tigitty,cannabis,street_name,cannabis
+Tila,cannabis,street_name,cannabis
+Tims,cannabis,street_name,cannabis
+Top Shelf,cannabis,street_name,cannabis
+Tosca,cannabis,street_name,cannabis
+Train Wreck,cannabis,street_name,cannabis
+Trees,cannabis,street_name,cannabis
+Trinity OG,cannabis,street_name,cannabis
+Tweeds,cannabis,street_name,cannabis
+Valle,cannabis,street_name,cannabis
+Wake and Bake,cannabis,street_name,cannabis
+Weed,cannabis,street_name,cannabis
+Weed Tea,cannabis,street_name,cannabis
+Wet,cannabis,street_name,cannabis
+Wheat,cannabis,street_name,cannabis
+White-Haired Lady,cannabis,street_name,cannabis
+Wooz,cannabis,street_name,cannabis
+Yellow Submarine,cannabis,street_name,cannabis
+Yen Pop,cannabis,street_name,cannabis
+Yerba,cannabis,street_name,cannabis
+Yesca,cannabis,street_name,cannabis
+Young Girls,cannabis,street_name,cannabis
+Zacate,cannabis,street_name,cannabis
+Zacatecas,cannabis,street_name,cannabis
+Zambi,cannabis,street_name,cannabis
+Zip,cannabis,street_name,cannabis
+Zoom,cannabis,street_name,cannabis
+Jon-Jem,cannabis,street_name,cannabis
+Joy Smoke,cannabis,street_name,cannabis
+Juan Valdez,cannabis,street_name,cannabis
+Juanita,cannabis,street_name,cannabis
+Jungle Juice,cannabis,street_name,cannabis
+Kaff,cannabis,street_name,cannabis
+Kali,cannabis,street_name,cannabis
+Kaya,cannabis,street_name,cannabis
+KB,cannabis,street_name,cannabis
+Kentucky Blue,cannabis,street_name,cannabis
+KGB,cannabis,street_name,cannabis
+Khalifa,cannabis,street_name,cannabis
+Kiff,cannabis,street_name,cannabis
+Killa,cannabis,street_name,cannabis
+Kilter,cannabis,street_name,cannabis
+King Louie,cannabis,street_name,cannabis
+Kona Gold,cannabis,street_name,cannabis
+Kumba,cannabis,street_name,cannabis
+Kush,cannabis,street_name,cannabis
+Laughing Grass,cannabis,street_name,cannabis
+Laughing Weed,cannabis,street_name,cannabis
+Leaf,cannabis,street_name,cannabis
+Lechuga,cannabis,street_name,cannabis
+Lemon-Lime,cannabis,street_name,cannabis
+Lea,cannabis,street_name,cannabis
+Liamba,cannabis,street_name,cannabis
+Lime Pillows,cannabis,street_name,cannabis
+Little Green Friends,cannabis,street_name,cannabis
+Little Smoke,cannabis,street_name,cannabis
+Llesca,cannabis,street_name,cannabis
+Loaf,cannabis,street_name,cannabis
+Lobo,cannabis,street_name,cannabis
+Loco Weed,cannabis,street_name,cannabis
+Loud,cannabis,street_name,cannabis
+Love Nuggets,cannabis,street_name,cannabis
+Love Weed,cannabis,street_name,cannabis
+Lucas,cannabis,street_name,cannabis
+M.J.,cannabis,street_name,cannabis
+Machinery,cannabis,street_name,cannabis
+Macoa,cannabis,street_name,cannabis
+Mafafa,cannabis,street_name,cannabis
+Magic Smoke,cannabis,street_name,cannabis
+Manhattan Silver,cannabis,street_name,cannabis
+Manteca,cannabis,street_name,cannabis
+Maracachafa,cannabis,street_name,cannabis
+Maria,cannabis,street_name,cannabis
+Marimba,cannabis,street_name,cannabis
+Mariquita,cannabis,street_name,cannabis
+Mary Ann,cannabis,street_name,cannabis
+Mary Jane,cannabis,street_name,cannabis
+Mary Jones,cannabis,street_name,cannabis
+Mary Warner,cannabis,street_name,cannabis
+Mary Weaver,cannabis,street_name,cannabis
+Matchbox,cannabis,street_name,cannabis
+Matraca,cannabis,street_name,cannabis
+Maui Wowie,cannabis,street_name,cannabis
+Meg,cannabis,street_name,cannabis
+Method,cannabis,street_name,cannabis
+Mersh,cannabis,street_name,cannabis
+Mexican Brown,cannabis,street_name,cannabis
+Mexicali Haze,cannabis,street_name,cannabis
+Mexican Green,cannabis,street_name,cannabis
+Mexican Red,cannabis,street_name,cannabis
+MMJ,cannabis,street_name,cannabis
+Mochie,cannabis,street_name,cannabis
+MoÃ±a,cannabis,street_name,cannabis
+Monte,cannabis,street_name,cannabis
+Moocah,cannabis,street_name,cannabis
+Mootie,cannabis,street_name,cannabis
+Mora,cannabis,street_name,cannabis
+Morisqueta,cannabis,street_name,cannabis
+Mostaza,cannabis,street_name,cannabis
+Mota,cannabis,street_name,cannabis
+Mother,cannabis,street_name,cannabis
+Mowing the Lawn,cannabis,street_name,cannabis
+Muggie,cannabis,street_name,cannabis
+My Brother,cannabis,street_name,cannabis
+Narizona,cannabis,street_name,cannabis
+Northern Lights,cannabis,street_name,cannabis
+Nug,cannabis,street_name,cannabis
+O-Boy,cannabis,street_name,cannabis
+OG,cannabis,street_name,cannabis
+O.J.,cannabis,street_name,cannabis
+Owl,cannabis,street_name,cannabis
+Paja,cannabis,street_name,cannabis
+Palm,cannabis,street_name,cannabis
+Paloma,cannabis,street_name,cannabis
+Palomita,cannabis,street_name,cannabis
+Panama Cut,cannabis,street_name,cannabis
+Panama Gold,cannabis,street_name,cannabis
+Panama Red,cannabis,street_name,cannabis
+Pakalolo,cannabis,street_name,cannabis
+Parsley,cannabis,street_name,cannabis
+Pasto,cannabis,street_name,cannabis
+Pasture,cannabis,street_name,cannabis
+Dew,cannabis,street_name,cannabis
+Diesel,cannabis,street_name,cannabis
+Dimba,cannabis,street_name,cannabis
+Dinkie Dow,cannabis,street_name,cannabis
+Diosa Verde,cannabis,street_name,cannabis
+Dirt Grass,cannabis,street_name,cannabis
+Ditch Weed,cannabis,street_name,cannabis
+Dizz,cannabis,street_name,cannabis
+Djamba,cannabis,street_name,cannabis
+Dody,cannabis,street_name,cannabis
+Dojo,cannabis,street_name,cannabis
+Domestic,cannabis,street_name,cannabis
+Donna Juana,cannabis,street_name,cannabis
+Doobie,cannabis,street_name,cannabis
+Downtown Brown,cannabis,street_name,cannabis
+Drag Weed,cannabis,street_name,cannabis
+Dro,cannabis,street_name,cannabis
+Droski,cannabis,street_name,cannabis
+Dry High,cannabis,street_name,cannabis
+Elefante Pata,cannabis,street_name,cannabis
+Endo,cannabis,street_name,cannabis
+Escoba,cannabis,street_name,cannabis
+Fattie,cannabis,street_name,cannabis
+Fine Stuff,cannabis,street_name,cannabis
+Fire,cannabis,street_name,cannabis
+Flower,cannabis,street_name,cannabis
+Flower Tops,cannabis,street_name,cannabis
+Fluffy,cannabis,street_name,cannabis
+Fuzzy Lady,cannabis,street_name,cannabis
+Gallina,cannabis,street_name,cannabis
+Gallito,cannabis,street_name,cannabis
+Garden,cannabis,street_name,cannabis
+Garifa,cannabis,street_name,cannabis
+Gauge,cannabis,street_name,cannabis
+Gangster,cannabis,street_name,cannabis
+Ganja,cannabis,street_name,cannabis
+Gash,cannabis,street_name,cannabis
+Gato,cannabis,street_name,cannabis
+Ghana,cannabis,street_name,cannabis
+Gigi,cannabis,street_name,cannabis
+Giggle Smoke,cannabis,street_name,cannabis
+Giggle Weed,cannabis,street_name,cannabis
+Girl Scout Cookies,cannabis,street_name,cannabis
+Gloria,cannabis,street_name,cannabis
+Gold,cannabis,street_name,cannabis
+Gold Leaf,cannabis,street_name,cannabis
+Gold Star,cannabis,street_name,cannabis
+Gong,cannabis,street_name,cannabis
+Good Giggles,cannabis,street_name,cannabis
+Gorilla,cannabis,street_name,cannabis
+Gorilla Glue,cannabis,street_name,cannabis
+Grand Daddy Purp,cannabis,street_name,cannabis
+Grass,cannabis,street_name,cannabis
+Grasshopper,cannabis,street_name,cannabis
+Green,cannabis,street_name,cannabis
+Green Crack,cannabis,street_name,cannabis
+Green-Eyed Girl,cannabis,street_name,cannabis
+Green Eyes,cannabis,street_name,cannabis
+Green Goblin,cannabis,street_name,cannabis
+Green Goddess,cannabis,street_name,cannabis
+Green Mercedes Benz,cannabis,street_name,cannabis
+Green Paint,cannabis,street_name,cannabis
+Green Skunk,cannabis,street_name,cannabis
+Greenhouse,cannabis,street_name,cannabis
+Grenuda,cannabis,street_name,cannabis
+Greta,cannabis,street_name,cannabis
+Guardada,cannabis,street_name,cannabis
+Gummy Bears,cannabis,street_name,cannabis
+Gunga,cannabis,street_name,cannabis
+Hairy Ones,cannabis,street_name,cannabis
+Hash,cannabis,street_name,cannabis
+Hawaiian,cannabis,street_name,cannabis
+Hay,cannabis,street_name,cannabis
+Hemp,cannabis,street_name,cannabis
+Herb,cannabis,street_name,cannabis
+Hierba,cannabis,street_name,cannabis
+Holy Grail,cannabis,street_name,cannabis
+Homegrown,cannabis,street_name,cannabis
+Hooch,cannabis,street_name,cannabis
+Hoja,cannabis,street_name,cannabis
+Humo,cannabis,street_name,cannabis
+Hydro,cannabis,street_name,cannabis
+Indian Boy,cannabis,street_name,cannabis
+Indian Hay,cannabis,street_name,cannabis
+Jamaican Gold,cannabis,street_name,cannabis
+Jamaican Red,cannabis,street_name,cannabis
+Jane,cannabis,street_name,cannabis
+Jive,cannabis,street_name,cannabis
+Jolly Green,cannabis,street_name,cannabis
+420,cannabis,street_name,cannabis
+A-Bomb,cannabis,street_name,cannabis
+Acapulco Gold,cannabis,street_name,cannabis
+Acapulco Red,cannabis,street_name,cannabis
+Ace,cannabis,street_name,cannabis
+African Black,cannabis,street_name,cannabis
+African Bush,cannabis,street_name,cannabis
+Airplane,cannabis,street_name,cannabis
+Alfalfa,cannabis,street_name,cannabis
+Alfombra,cannabis,street_name,cannabis
+Alice B Toklas,cannabis,street_name,cannabis
+All-Star,cannabis,street_name,cannabis
+Almohada,cannabis,street_name,cannabis
+Angola,cannabis,street_name,cannabis
+Animal Cookies,cannabis,street_name,cannabis
+Arizona,cannabis,street_name,cannabis
+Ashes,cannabis,street_name,cannabis
+Aunt Mary,cannabis,street_name,cannabis
+AZ,cannabis,street_name,cannabis
+Baby,cannabis,street_name,cannabis
+Bale,cannabis,street_name,cannabis
+Bambalachacha,cannabis,street_name,cannabis
+Barbara Jean,cannabis,street_name,cannabis
+Bareta,cannabis,street_name,cannabis
+Bash,cannabis,street_name,cannabis
+Bazooka,cannabis,street_name,cannabis
+BC Budd,cannabis,street_name,cannabis
+Bernie,cannabis,street_name,cannabis
+Bhang,cannabis,street_name,cannabis
+Big Pillows,cannabis,street_name,cannabis
+Biggy,cannabis,street_name,cannabis
+Bionic,cannabis,street_name,cannabis
+Black Bart,cannabis,street_name,cannabis
+Black Gold,cannabis,street_name,cannabis
+Black Maria,cannabis,street_name,cannabis
+Blondie,cannabis,street_name,cannabis
+Blue Cheese,cannabis,street_name,cannabis
+Blue Crush,cannabis,street_name,cannabis
+Blue Dream,cannabis,street_name,cannabis
+Blue Jeans,cannabis,street_name,cannabis
+Blue Sage,cannabis,street_name,cannabis
+Blueberry,cannabis,street_name,cannabis
+Bobo Bush,cannabis,street_name,cannabis
+Boo,cannabis,street_name,cannabis
+Boom,cannabis,street_name,cannabis
+Branches,cannabis,street_name,cannabis
+Broccoli,cannabis,street_name,cannabis
+Bud,cannabis,street_name,cannabis
+Budda,cannabis,street_name,cannabis
+Burritos Verdes,cannabis,street_name,cannabis
+Bush,cannabis,street_name,cannabis
+Cabbage,cannabis,street_name,cannabis
+CafÃ©,cannabis,street_name,cannabis
+Cajita,cannabis,street_name,cannabis
+Cali,cannabis,street_name,cannabis
+Camara,cannabis,street_name,cannabis
+Canadian Black,cannabis,street_name,cannabis
+Catnip,cannabis,street_name,cannabis
+Cheeba,cannabis,street_name,cannabis
+Chernobyl,cannabis,street_name,cannabis
+Cheese,cannabis,street_name,cannabis
+Chicago Black,cannabis,street_name,cannabis
+Chicago Green,cannabis,street_name,cannabis
+Chippie,cannabis,street_name,cannabis
+Chistosa,cannabis,street_name,cannabis
+Christmas Tree,cannabis,street_name,cannabis
+Chronic,cannabis,street_name,cannabis
+Churro,cannabis,street_name,cannabis
+Cigars,cannabis,street_name,cannabis
+Citrol,cannabis,street_name,cannabis
+Cola,cannabis,street_name,cannabis
+Colorado Cocktail,cannabis,street_name,cannabis
+Cookie,cannabis,street_name,cannabis
+Cotorritos,cannabis,street_name,cannabis
+Crazy Weed,cannabis,street_name,cannabis
+Creeper Bud,cannabis,street_name,cannabis
+Crippy,cannabis,street_name,cannabis
+Crying Weed,cannabis,street_name,cannabis
+Culican,cannabis,street_name,cannabis
+Dank,cannabis,street_name,cannabis
+Devil’s Lettuce,cannabis,street_name,cannabis
+marijuana concentrates/hash oil,marijuana concentrates/hash oil,generic_name,marijuana concentrates/hash oil
 Hash Oil,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
 Hash,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
 710,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
@@ -1746,6 +1768,7 @@ THCA Crystalline,marijuana concentrates/hash oil,street_name,marijuana concentra
 THCA Powder,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
 Trichrome,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
 Wax,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+synthetic cannabinoids,synthetic cannabinoids,generic_name,synthetic cannabinoids
 Abyss,synthetic cannabinoids,street_name,synthetic cannabinoids
 Ace of Spades,synthetic cannabinoids,street_name,synthetic cannabinoids
 AK-47,synthetic cannabinoids,street_name,synthetic cannabinoids
@@ -1845,6 +1868,7 @@ Yucatan Fire,synthetic cannabinoids,street_name,synthetic cannabinoids
 Zero Gravity,synthetic cannabinoids,street_name,synthetic cannabinoids
 Zohai,synthetic cannabinoids,street_name,synthetic cannabinoids
 Zombie,synthetic cannabinoids,street_name,synthetic cannabinoids
+synthetic cathinones,synthetic cathinones,generic_name,synthetic cathinones
 Bath Blow,synthetic cathinones,street_name,synthetic cathinones
 Bath Salts,synthetic cathinones,street_name,synthetic cathinones
 Bliss,synthetic cathinones,street_name,synthetic cathinones
@@ -1884,12 +1908,16 @@ White Lightening,synthetic cathinones,street_name,synthetic cathinones
 White Magic,synthetic cathinones,street_name,synthetic cathinones
 Wicked X,synthetic cathinones,street_name,synthetic cathinones
 Zoom,synthetic cathinones,street_name,synthetic cathinones
+codeine,codeine,generic_name,codeine
 Captain Cody,codeine,street_name,codeine
 Cody,codeine,street_name,codeine
 Schoolboy,codeine,street_name,codeine
 Doors & Fours,codeine,street_name,codeine
 Pancakes & Syrup,codeine,street_name,codeine
 Loads,codeine,street_name,codeine
+isonipecaine,meperidine,brand_name,meperidine;isonipecaine;pethidine
+pethidine,meperidine,brand_name,meperidine;isonipecaine;pethidine
+meperidine,meperidine,generic_name,meperidine;isonipecaine;pethidine
 Demmies,meperidine,street_name,meperidine;isonipecaine;pethidine
 Pain Killer,meperidine,street_name,meperidine;isonipecaine;pethidine
 Abstral,fentanyl,brand_name,fentanyl

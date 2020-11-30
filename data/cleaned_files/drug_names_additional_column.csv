@@ -235,10 +235,12 @@ Mayo,heroin,street_name,heroin
 Mazpan,heroin,street_name,heroin
 Meal,heroin,street_name,heroin
 Menthol,heroin,street_name,heroin
+Mexican Black Tar Heroin,heroin,street_name,heroin
 Mexican Brown,heroin,street_name,heroin
 Mexican Food,heroin,street_name,heroin
 Mexican Horse,heroin,street_name,heroin
 Mexican Mud,heroin,street_name,heroin
+Mexican Tar,heroin,street_name,heroin
 Mexican Treat,heroin,street_name,heroin
 Modelo Negra,heroin,street_name,heroin
 Mojo,heroin,street_name,heroin
@@ -358,6 +360,7 @@ Bicycle Handle Bars,alprazolam,street_name,alprazolam
 Bicycle Parts,alprazolam,street_name,alprazolam
 Bricks,alprazolam,street_name,alprazolam
 Footballs,alprazolam,street_name,alprazolam
+French Fries,alprazolam,street_name,alprazolam
 Handlebars,alprazolam,street_name,alprazolam
 Hulk,alprazolam,street_name,alprazolam
 L7,alprazolam,street_name,alprazolam
@@ -370,9 +373,11 @@ Upjohns,alprazolam,street_name,alprazolam
 White Boys,alprazolam,street_name,alprazolam
 White Girls,alprazolam,street_name,alprazolam
 Xanies,alprazolam,street_name,alprazolam
+Xan,alprazolam,street_name,alprazolam
 Yellow Boys,alprazolam,street_name,alprazolam
 Zanbars,alprazolam,street_name,alprazolam
 Zannies,alprazolam,street_name,alprazolam
+Zan,alprazolam,street_name,alprazolam
 Z-Bars,alprazolam,street_name,alprazolam
 amphetamine,amphetamine,generic_name,amphetamine
 Acelerador,amphetamine,street_name,amphetamine
@@ -483,6 +488,7 @@ Juice,amphetamine,street_name,amphetamine
 Adderall,amphetamine,brand_name,amphetamine and dextroamphetamine combination
 A-Train,amphetamine,street_name,amphetamine and dextroamphetamine combination
 Abby,amphetamine,street_name,amphetamine and dextroamphetamine combination
+Addies,amphetamine,street_name,amphetamine and dextroamphetamine combination
 Addy,amphetamine,street_name,amphetamine and dextroamphetamine combination
 Amps,amphetamine,street_name,amphetamine and dextroamphetamine combination
 Christmas Trees,amphetamine,street_name,amphetamine and dextroamphetamine combination
@@ -494,8 +500,10 @@ Study Buddies,amphetamine,street_name,amphetamine and dextroamphetamine combinat
 Study Skittles,amphetamine,street_name,amphetamine and dextroamphetamine combination
 Truck Drivers,amphetamine,street_name,amphetamine and dextroamphetamine combination
 Zing,amphetamine,street_name,amphetamine and dextroamphetamine combination
+Dexedrine,amphetamine,brand_name,amphetamine
 buprenorphine,buprenorphine,generic_name,buprenorphine
 Suboxone,buprenorphine,brand_name,buprenorphine and naloxone combination
+Subutex,buprenorphine,brand_name,buprenorphine
 Boxes,buprenorphine,street_name,buprenorphine and naloxone combination
 Bupes,buprenorphine,street_name,buprenorphine and naloxone combination
 Oranges,buprenorphine,street_name,buprenorphine and naloxone combination
@@ -503,6 +511,10 @@ Sobos,buprenorphine,street_name,buprenorphine and naloxone combination
 Stop Signs,buprenorphine,street_name,buprenorphine and naloxone combination
 Stops,buprenorphine,street_name,buprenorphine and naloxone combination
 Subs,buprenorphine,street_name,buprenorphine and naloxone combination
+Big Whites,buprenorphine,street_name,buprenorphine and naloxone combination
+Buse,buprenorphine,street_name,buprenorphine and naloxone combination
+Small Whites,buprenorphine,street_name,buprenorphine and naloxone combination
+Strips,buprenorphine,street_name,buprenorphine and naloxone combination
 clonazepam,clonazepam,generic_name,clonazepam
 Benzos,clonazepam,street_name,clonazepam
 K,clonazepam,street_name,clonazepam
@@ -549,6 +561,7 @@ Special,cocaine,street_name,cocaine
 Speedball,cocaine,street_name,cocaine
 Stardust,cocaine,street_name,cocaine
 Star Spangled Powder,cocaine,street_name,cocaine
+Stash,cocaine,street_name,cocaine
 Studio Fuel,cocaine,street_name,cocaine
 Suave,cocaine,street_name,cocaine
 Sugar,cocaine,street_name,cocaine
@@ -707,6 +720,12 @@ Racehorse Charlie,cocaine,street_name,cocaine
 Rambo,cocaine,street_name,cocaine
 Refresco,cocaine,street_name,cocaine
 Refrescas,cocaine,street_name,cocaine
+Pearl,cocaine,street_name,cocaine
+Line,cocaine,street_name,cocaine
+Hubba,cocaine,street_name,cocaine
+Gringa,cocaine,street_name,cocaine
+Flake,cocaine,street_name,cocaine
+Dust,cocaine,street_name,cocaine
 Chevy,cocaine,street_name,cocaine
 Cheyenne,cocaine,street_name,cocaine
 Chica,cocaine,street_name,cocaine
@@ -821,15 +840,19 @@ Apache,cocaine,street_name,cocaine
 Apodo,cocaine,street_name,cocaine
 Arriba,cocaine,street_name,cocaine
 Audi,cocaine,street_name,cocaine
+Aunt,cocaine,street_name,cocaine
 Aunt Nora,cocaine,street_name,cocaine
 Azucar,cocaine,street_name,cocaine
 Baby Powder,cocaine,street_name,cocaine
 Barrato,cocaine,street_name,cocaine
 Basuco,cocaine,street_name,cocaine
+Batman,cocaine,street_name,cocaine
 Bazooka,cocaine,street_name,cocaine
+Bazulco,cannabis,street_name,cocaine
 Beach,cocaine,street_name,cocaine
 Belushi,cocaine,street_name,cocaine
 Bernice,cocaine,street_name,cocaine
+Bernie,cannabis,street_name,cocaine
 Bernie’s Flakes,cocaine,street_name,cocaine
 Bernie’s Gold Dust,cocaine,street_name,cocaine
 Big Bird,cocaine,street_name,cocaine
@@ -847,6 +870,7 @@ Blizzard,cocaine,street_name,cocaine
 Blonde,cocaine,street_name,cocaine
 Blocks,cocaine,street_name,cocaine
 Blow,cocaine,street_name,cocaine
+Blowcaine,cocaine,street_name,cocaine
 BMW,cocaine,street_name,cocaine
 Board,cocaine,street_name,cocaine
 Bobo,cocaine,street_name,cocaine
@@ -875,6 +899,10 @@ Cebolla,cocaine,street_name,cocaine
 Cecil,cocaine,street_name,cocaine
 Cement,cocaine,street_name,cocaine
 Charlie,cocaine,street_name,cocaine
+Colombia,cocaine,street_name,cocaine
+Colombia,cocaine,street_name,cocaine
+Rock,cocaine,street_name,cocaine
+She,cocaine,street_name,cocaine
 crack cocaine,crack cocaine,generic_name,crack cocaine
 Crack,crack cocaine,street_name,crack cocaine
 Devil Smoke,crack cocaine,street_name,crack cocaine
@@ -1043,6 +1071,7 @@ Domex,ecstasy/MDMA,street_name,ecstasy/MDMA
 Drop,ecstasy/MDMA,street_name,ecstasy/MDMA
 E,ecstasy/MDMA,street_name,ecstasy/MDMA
 E-Bomb,ecstasy/MDMA,street_name,ecstasy/MDMA
+Egg Rolls,ecstasy/MDMA,street_name,ecstasy/MDMA
 Essence,ecstasy/MDMA,street_name,ecstasy/MDMA
 Eve,ecstasy/MDMA,street_name,ecstasy/MDMA
 Go,ecstasy/MDMA,street_name,ecstasy/MDMA
@@ -1075,7 +1104,10 @@ Speed for Lovers,ecstasy/MDMA,street_name,ecstasy/MDMA
 Sweets,ecstasy/MDMA,street_name,ecstasy/MDMA
 Tacha,ecstasy/MDMA,street_name,ecstasy/MDMA
 Thizz,ecstasy/MDMA,street_name,ecstasy/MDMA
+Triple Stacks,ecstasy/MDMA,street_name,ecstasy/MDMA
+Uppers,ecstasy/MDMA,street_name,ecstasy/MDMA
 Vitamin E,ecstasy/MDMA,street_name,ecstasy/MDMA
+Vitamin X,ecstasy/MDMA,street_name,ecstasy/MDMA
 Vowels,ecstasy/MDMA,street_name,ecstasy/MDMA
 White Mercedes,ecstasy/MDMA,street_name,ecstasy/MDMA
 X,ecstasy/MDMA,street_name,ecstasy/MDMA
@@ -1101,12 +1133,17 @@ Triple V,hydrocodone,street_name,hydrocodone
 Veeks,hydrocodone,street_name,hydrocodone
 Vics,hydrocodone,street_name,hydrocodone
 Vikes,hydrocodone,street_name,hydrocodone
+V-itamin,hydrocodone,street_name,hydrocodone
+Watsons-387,hydrocodone,street_name,hydrocodone
 Watsons,hydrocodone,street_name,hydrocodone
 Dilaudid,hydromorphone,street_name,hydromorphone
 D,hydromorphone,street_name,hydromorphone
 Dillies,hydromorphone,street_name,hydromorphone
 K4,hydromorphone,street_name,hydromorphone
 Needle Candy,hydromorphone,street_name,hydromorphone
+Footballs,hydromorphone,street_name,hydromorphone
+Juice,hydromorphone,street_name,hydromorphone
+Smack,hydromorphone,street_name,hydromorphone
 methamphetamine,methamphetamine,generic_name,methamphetamine
 Diablo,methamphetamine,street_name,methamphetamine
 Evil Sister,methamphetamine,street_name,methamphetamine
@@ -1277,6 +1314,7 @@ Skippy,methylphenidate,street_name,methylphenidate
 Skittles,methylphenidate,street_name,methylphenidate
 Smarties,methylphenidate,street_name,methylphenidate
 Study Buddies,methylphenidate,street_name,methylphenidate
+The Smart Drug,methylphenidate,street_name,methylphenidate
 Truck Drivers,methylphenidate,street_name,methylphenidate
 Vitamin R,methylphenidate,street_name,methylphenidate
 morphine,morphine,generic_name,morphine
@@ -1345,7 +1383,9 @@ Oxycodone,oxycodone,brand_name,oxycodone
 30s,oxycodone,street_name,oxycodone
 40s,oxycodone,street_name,oxycodone
 512s,oxycodone,street_name,oxycodone
+As,oxycodone,street_name,oxycodone
 Beans,oxycodone,street_name,oxycodone
+Berries,oxycodone,street_name,oxycodone
 Blues,oxycodone,street_name,oxycodone
 Buttons,oxycodone,street_name,oxycodone
 Cotton,oxycodone,street_name,oxycodone
@@ -1357,7 +1397,10 @@ Muchachas,oxycodone,street_name,oxycodone
 Mujeres,oxycodone,street_name,oxycodone
 OC,oxycodone,street_name,oxycodone
 Oxy,oxycodone,street_name,oxycodone
+Oxycet,oxycodone,street_name,oxycodone
+Oxycotton,oxycodone,street_name,oxycodone
 Oxy 80s,oxycodone,street_name,oxycodone
+Ozone,oxycodone,street_name,oxycodone
 Roxy,oxycodone,street_name,oxycodone
 Roxy Shorts,oxycodone,street_name,oxycodone
 Whites,oxycodone,street_name,oxycodone
@@ -1877,6 +1920,7 @@ Blow,synthetic cathinones,street_name,synthetic cathinones
 Blue Silk,synthetic cathinones,street_name,synthetic cathinones
 Bubbles,synthetic cathinones,street_name,synthetic cathinones
 Cloud 9,synthetic cathinones,street_name,synthetic cathinones
+Cloud Nine,synthetic cathinones,street_name,synthetic cathinones
 Cosmic Beast,synthetic cathinones,street_name,synthetic cathinones
 Drone,synthetic cathinones,street_name,synthetic cathinones
 Energy-1,synthetic cathinones,street_name,synthetic cathinones
@@ -1905,6 +1949,7 @@ Vanilla Sky,synthetic cathinones,street_name,synthetic cathinones
 White Dove,synthetic cathinones,street_name,synthetic cathinones
 White Knight,synthetic cathinones,street_name,synthetic cathinones
 White Lightening,synthetic cathinones,street_name,synthetic cathinones
+White Lightning,synthetic cathinones,street_name,synthetic cathinones
 White Magic,synthetic cathinones,street_name,synthetic cathinones
 Wicked X,synthetic cathinones,street_name,synthetic cathinones
 Zoom,synthetic cathinones,street_name,synthetic cathinones
@@ -1915,6 +1960,13 @@ Schoolboy,codeine,street_name,codeine
 Doors & Fours,codeine,street_name,codeine
 Pancakes & Syrup,codeine,street_name,codeine
 Loads,codeine,street_name,codeine
+Little C,codeine,street_name,codeine
+Phenergan,codeine,brand_name,codeine with promethazine
+Act,codeine,street_name,codeine with promethazine
+Lean,codeine,street_name,codeine with promethazine
+Purple Drank,codeine,street_name,codeine with promethazine
+Sizzurp,codeine,street_name,codeine with promethazine
+Texas Tea,codeine,street_name,codeine with promethazine
 isonipecaine,meperidine,brand_name,meperidine;isonipecaine;pethidine
 pethidine,meperidine,brand_name,meperidine;isonipecaine;pethidine
 meperidine,meperidine,generic_name,meperidine;isonipecaine;pethidine
@@ -1931,6 +1983,13 @@ Duragesic,fentanyl,brand_name,fentanyl transdermal system
 Fentora,fentanyl,brand_name,fentanyl
 Hysingla,hydrocodone,brand_name,hydrocodone
 Methadose,methadone,brand_name,methadone
+Amidone,methadone,street_name,methadone
+Dollies,methadone,street_name,methadone
+Dolls,methadone,street_name,methadone
+Fizzies,methadone,street_name,methadone
+Mud,methadone,street_name,methadone
+Red Rock,methadone,street_name,methadone
+Tootisie Roll,methadone,street_name,methadone
 Morphabond,morphine,brand_name,morphine
 Nucynta ER,tapentadol,brand_name,tapentadol extended-release oral tablets
 Onsolis,fentanyl,brand_name,fentanyl
@@ -1955,8 +2014,15 @@ Lorcet Plus,hydrocodone,brand_name,hydrocodone containing acetaminophen
 Lortab,hydrocodone,brand_name,hydrocodone containing acetaminophen
 Maxidone,hydrocodone,brand_name,hydrocodone containing acetaminophen
 MS Contin,morphine,brand_name,morphine sulfate controlled-release tablets
+Duramorph,morphine,brand_name,morphine
 Norco,hydrocodone,brand_name,hydrocodone containing acetaminophen
 Opana ER,oxymorphone,brand_name,oxymorphone hydrochloride extended-release tablets
+Biscuits,oxymorphone,street_name,oxymorphone
+Blue Heaven,oxymorphone,street_name,oxymorphone
+Mrs. O,oxymorphone,street_name,oxymorphone
+O Bomb,oxymorphone,street_name,oxymorphone
+Octagons,oxymorphone,street_name,oxymorphone
+Stop Signs,oxymorphone,street_name,oxymorphone
 OxyContin,oxycodone,brand_name,oxycodone hydrochloride controlled-release tablets
 Oxycet,oxycodone,brand_name,oxycodone containing acetaminophen
 Palladone,hydromorphone,brand_name,hydromorphone hydrochloride extended-release capsules
@@ -1981,3 +2047,292 @@ Zolvit,hydrocodone,brand_name,hydrocodone containing acetaminophen
 Zutripro,hydrocodone,brand_name,hydrocodone containing chlorpheniramine and pseudoephedrine
 Zydone,hydrocodone,brand_name,hydrocodone containing acetaminophen
 Fentanyl,fentanyl,brand_name,fentanyl extended-release transdermal system
+Lysergic acid diethylamide,Lysergic acid diethylamide,generic_name,Lysergic acid diethylamide
+LSD,Lysergic acid diethylamide,street_name,Lysergic acid diethylamide
+Lucy,Lysergic acid diethylamide,street_name,Lysergic acid diethylamide
+Acid,Lysergic acid diethylamide,street_name,Lysergic acid diethylamide
+Blotter,Lysergic acid diethylamide,street_name,Lysergic acid diethylamide
+Dots,Lysergic acid diethylamide,street_name,Lysergic acid diethylamide
+Electric Kool Aid,Lysergic acid diethylamide,street_name,Lysergic acid diethylamide
+Lucy in the Sky with Diamonds,Lysergic acid diethylamide,street_name,Lysergic acid diethylamide
+Purple Haze,Lysergic acid diethylamide,street_name,Lysergic acid diethylamide
+Sugar Cubes,Lysergic acid diethylamide,street_name,Lysergic acid diethylamide
+Yellow Sunshine,Lysergic acid diethylamide,street_name,Lysergic acid diethylamide
+psilocybin,psilocybin,generic_name,psilocybin
+psilocin,psilocybin,brand_name,psilocybin
+mushrooms,psilocybin,street_name,psilocybin
+shrooms,psilocybin,street_name,psilocybin
+shroomies,psilocybin,street_name,psilocybin
+magic mushrooms,psilocybin,street_name,psilocybin
+Alice,psilocybin,street_name,psilocybin
+Boomers,psilocybin,street_name,psilocybin
+Caps,psilocybin,street_name,psilocybin
+Cow Patties,psilocybin,street_name,psilocybin
+Fungus,psilocybin,street_name,psilocybin
+Hongos,psilocybin,street_name,psilocybin
+Magic,psilocybin,street_name,psilocybin
+Mushies,psilocybin,street_name,psilocybin
+Pizza Toppings,psilocybin,street_name,psilocybin
+Tweezes,psilocybin,street_name,psilocybin
+lorazepam,lorazepam,generic_name,lorazepam
+Antivan,lorazepam,brand_name,lorazepam
+Candy,lorazepam,street_name,lorazepam
+Downers,lorazepam,street_name,lorazepam
+Sleeping Pills,lorazepam,street_name,lorazepam
+Tranks,lorazepam,street_name,lorazepam
+triazolam,triazolam,generic_name,triazolam
+Halcion,triazolam,brand_name,triazolam
+Candy,triazolam,street_name,triazolam
+Downers,triazolam,street_name,triazolam
+Sleeping Pills,triazolam,street_name,triazolam
+Tranks,triazolam,street_name,triazolam
+chlordiazepoxide,chlordiazepoxide,generic_name,chlordiazepoxide
+Librium,chlordiazepoxide,brand_name,chlordiazepoxide
+Candy,chlordiazepoxide,street_name,chlordiazepoxide
+Downers,chlordiazepoxide,street_name,chlordiazepoxide
+Sleeping Pills,chlordiazepoxide,street_name,chlordiazepoxide
+Tranks,chlordiazepoxide,street_name,chlordiazepoxide
+flunitrazepam,flunitrazepam,generic_name,flunitrazepam
+Rohypnol,flunitrazepam,brand_name,flunitrazepam
+Circles,flunitrazepam,street_name,flunitrazepam
+Date Rape Drug,flunitrazepam,street_name,flunitrazepam
+Forget-Me Pill,flunitrazepam,street_name,flunitrazepam
+La Rocha,flunitrazepam,street_name,flunitrazepam
+Lunch Money,flunitrazepam,street_name,flunitrazepam
+Mexican Valium,flunitrazepam,street_name,flunitrazepam
+Mind Eraser,flunitrazepam,street_name,flunitrazepam
+Roofies,flunitrazepam,street_name,flunitrazepam
+Wolfies,flunitrazepam,street_name,flunitrazepam
+diazepam,diazepam,generic_name,diazepam
+Valium,diazepam,brand_name,diazepam
+Eggs,diazepam,street_name,diazepam
+Jellies,diazepam,street_name,diazepam
+Moggies,diazepam,street_name,diazepam
+Vallies,diazepam,street_name,diazepam
+ayahuasca,ayahuasca,generic_name,ayahuasca
+Aya,ayahuasca,street_name,ayahuasca
+Hoasca,ayahuasca,street_name,ayahuasca
+Yage,ayahuasca,street_name,ayahuasca
+DMT,DMT,generic_name,DMT
+"N,N-dimethyltryptamine",DMT,brand_name,DMT
+The Spirit Molecule,DMT,street_name,DMT
+Dimitri,DMT,street_name,DMT
+GHB,GHB,generic_name,GHB
+Gamma-Hydroxybutyric,GHB,brand_name,GHB
+Date Rape Drug,GHB,street_name,GHB
+G,GHB,street_name,GHB
+Geeb,GHB,street_name,GHB
+Georgia Home Boy,GHB,street_name,GHB
+Gina,GHB,street_name,GHB
+Goop,GHB,street_name,GHB
+Grievous Bodily Harm,GHB,street_name,GHB
+Liquid E,GHB,street_name,GHB
+Liquid X,GHB,street_name,GHB
+Scoop,GHB,street_name,GHB
+Ketamine,Ketamine,generic_name,Ketamine
+Blind Squid,Ketamine,street_name,Ketamine
+Cat Valium,Ketamine,street_name,Ketamine
+Green,Ketamine,street_name,Ketamine
+Jet,Ketamine,street_name,Ketamine
+K,Ketamine,street_name,Ketamine
+K-Hold,Ketamine,street_name,Ketamine
+Kay,Ketamine,street_name,Ketamine
+Special K,Ketamine,street_name,Ketamine
+Super Acid,Ketamine,street_name,Ketamine
+Vitamin K,Ketamine,street_name,Ketamine
+Khat,Khat,generic_name,Khat
+Abyssinian Tea,Khat,street_name,Khat
+African Salad,Khat,street_name,Khat
+Catha,Khat,street_name,Khat
+Chat,Khat,street_name,Khat
+Kat,Khat,street_name,Khat
+Oat,Khat,street_name,Khat
+Qat,Khat,street_name,Khat
+Kratom,Kratom,generic_name,Kratom
+Biak-biak,Kratom,street_name,Kratom
+Herbal Speedball,Kratom,street_name,Kratom
+Ithang,Kratom,street_name,Kratom
+Kahyam,Kratom,street_name,Kratom
+Ketum,Kratom,street_name,Kratom
+Thom,Kratom,street_name,Kratom
+Mescaline,Mescaline,generic_name,Mescaline
+Big Chief,Mescaline,street_name,Mescaline
+Blue Caps,Mescaline,street_name,Mescaline
+Buttons,Mescaline,street_name,Mescaline
+Cactus,Mescaline,street_name,Mescaline
+Mescal,Mescaline,street_name,Mescaline
+Moon,Mescaline,street_name,Mescaline
+San Pedro,Mescaline,street_name,Mescaline
+Topi,Mescaline,street_name,Mescaline
+phencyclidine,PCP,brand_name,PCP
+PCP,PCP,generic_name,PCP
+Angel,PCP,street_name,PCP
+Angel Dust,PCP,street_name,PCP
+Butt Naked,PCP,street_name,PCP
+Dust,PCP,street_name,PCP
+Purple Rain,PCP,street_name,PCP
+Rocket Fuel,PCP,street_name,PCP
+Stardust,PCP,street_name,PCP
+Water,PCP,street_name,PCP
+Wet,PCP,street_name,PCP
+Yellow Fever,PCP,street_name,PCP
+Zombie,PCP,street_name,PCP
+Peyote,Peyote,generic_name,Peyote
+Black Button,Peyote,street_name,Peyote
+Cactus,Peyote,street_name,Peyote
+Green Button,Peyote,street_name,Peyote
+Half Moon,Peyote,street_name,Peyote
+Nubs,Peyote,street_name,Peyote
+Shaman,Peyote,street_name,Peyote
+Tops,Peyote,street_name,Peyote
+Salvia,Salvia,generic_name,Salvia
+Salvia divinorum,Salvia,brand_name,Salvia
+Diviner’s Sage,Salvia,street_name,Salvia
+Magic Mint,Salvia,street_name,Salvia
+Maria Pastora,Salvia,street_name,Salvia
+Sally-D,Salvia,street_name,Salvia
+Amyl Nitrate,Amyl Nitrate,generic_name,Amyl Nitrate
+Ames,Amyl Nitrate,street_name,Amyl Nitrate
+Amies,Amyl Nitrate,street_name,Amyl Nitrate
+Amys,Amyl Nitrate,street_name,Amyl Nitrate
+Pearls,Amyl Nitrate,street_name,Amyl Nitrate
+Poppers,Amyl Nitrate,street_name,Amyl Nitrate
+Isobutyl Nitrate,Isobutyl Nitrate,generic_name,Isobutyl Nitrate
+Aroma of Men,Isobutyl Nitrate,street_name,Isobutyl Nitrate
+Bolt,Isobutyl Nitrate,street_name,Isobutyl Nitrate
+Bullet,Isobutyl Nitrate,street_name,Isobutyl Nitrate
+Climax,Isobutyl Nitrate,street_name,Isobutyl Nitrate
+Hardware,Isobutyl Nitrate,street_name,Isobutyl Nitrate
+Locker Room,Isobutyl Nitrate,street_name,Isobutyl Nitrate
+Poppers,Isobutyl Nitrate,street_name,Isobutyl Nitrate
+Quicksilver,Isobutyl Nitrate,street_name,Isobutyl Nitrate
+Rush,Isobutyl Nitrate,street_name,Isobutyl Nitrate
+Snappers,Isobutyl Nitrate,street_name,Isobutyl Nitrate
+Thrust,Isobutyl Nitrate,street_name,Isobutyl Nitrate
+Nitrous Oxide,Nitrous Oxide,generic_name,Nitrous Oxide
+Buzz Bomb,Nitrous Oxide,street_name,Nitrous Oxide
+Hippie Crack,Nitrous Oxide,street_name,Nitrous Oxide
+Laughing Gas,Nitrous Oxide,street_name,Nitrous Oxide
+Whippets,Nitrous Oxide,street_name,Nitrous Oxide
+Propoxyphene,Propoxyphene,generic_name,Propoxyphene
+Darvocet,Propoxyphene,brand_name,Propoxyphene
+Darvon,Propoxyphene,brand_name,Propoxyphene
+Footballs,Propoxyphene,street_name,Propoxyphene
+N’s,Propoxyphene,street_name,Propoxyphene
+Pink Footballs,Propoxyphene,street_name,Propoxyphene
+Pinks,Propoxyphene,street_name,Propoxyphene
+Yellow Footballs,Propoxyphene,street_name,Propoxyphene
+65s,Propoxyphene,street_name,Propoxyphene
+Tramadol,Tramadol,generic_name,Tramadol
+Ultram,Tramadol,brand_name,Tramadol
+Chill Pills,Tramadol,street_name,Tramadol
+Trammies,Tramadol,street_name,Tramadol
+Ultras,Tramadol,street_name,Tramadol
+Dimenhydrinate,Dimenhydrinate,generic_name,Dimenhydrinate
+Dramamine,Dimenhydrinate,brand_name,Dimenhydrinate
+Dime,Dimenhydrinate,street_name,Dimenhydrinate
+Dime Tabs,Dimenhydrinate,street_name,Dimenhydrinate
+Substance D,Dimenhydrinate,street_name,Dimenhydrinate
+DXM,DXM,generic_name,DXM
+dextromethorphan,DXM,brand_name,DXM
+Dex,DXM,street_name,DXM
+Dextro,DXM,street_name,DXM
+Drix,DXM,street_name,DXM
+Poor Man’s Ecstasy,DXM,street_name,DXM
+Red Devils,DXM,street_name,DXM
+Robo,DXM,street_name,DXM
+Robotripping,DXM,street_name,DXM
+Triple C,DXM,street_name,DXM
+Tussin,DXM,street_name,DXM
+X,DXM,street_name,DXM
+Pseudoephedrine,Pseudoephedrine,generic_name,Pseudoephedrine
+Pseudoephedrine,Sudafed,brand_name,Pseudoephedrine
+Chalk,Pseudoephedrine,street_name,Pseudoephedrine
+Crank,Pseudoephedrine,street_name,Pseudoephedrine
+Meth,Pseudoephedrine,street_name,Pseudoephedrine
+Speed,Pseudoephedrine,street_name,Pseudoephedrine
+Zolpidem,Zolpidem,generic_name,Zolpidem
+Ambien,Zolpidem,brand_name,Zolpidem
+Date Rape Drug,Zolpidem,street_name,Zolpidem
+Forget-Me Pill,Zolpidem,street_name,Zolpidem
+Mexican Valium,Zolpidem,street_name,Zolpidem
+R2,Zolpidem,street_name,Zolpidem
+Roche,Zolpidem,street_name,Zolpidem
+Roofies,Zolpidem,street_name,Zolpidem
+Roofinol,Zolpidem,street_name,Zolpidem
+Rope,Zolpidem,street_name,Zolpidem
+Rophies,Zolpidem,street_name,Zolpidem
+Eszopiclone,Eszopiclone,generic_name,Eszopiclone
+Lunesta,Eszopiclone,brand_name,Eszopiclone
+Date Rape Drug,Eszopiclone,street_name,Eszopiclone
+Forget-Me Pill,Eszopiclone,street_name,Eszopiclone
+Mexican Valium,Eszopiclone,street_name,Eszopiclone
+R2,Eszopiclone,street_name,Eszopiclone
+Roche,Eszopiclone,street_name,Eszopiclone
+Roofies,Eszopiclone,street_name,Eszopiclone
+Roofinol,Eszopiclone,street_name,Eszopiclone
+Rope,Eszopiclone,street_name,Eszopiclone
+Rophies,Eszopiclone,street_name,Eszopiclone
+Sonata,Zaleplon,brand_name,Zaleplon
+Zaleplon,Zaleplon,generic_name,Zaleplon
+Date Rape Drug,Zaleplon,street_name,Zaleplon
+Forget-Me Pill,Zaleplon,street_name,Zaleplon
+Mexican Valium,Zaleplon,street_name,Zaleplon
+R2,Zaleplon,street_name,Zaleplon
+Roche,Zaleplon,street_name,Zaleplon
+Roofies,Zaleplon,street_name,Zaleplon
+Roofinol,Zaleplon,street_name,Zaleplon
+Rope,Zaleplon,street_name,Zaleplon
+Rophies,Zaleplon,street_name,Zaleplon
+Amobarbital,Amobarbital,generic_name,Amobarbital
+Amytal,Amobarbital,brand_name,Amobarbital
+Barbs,Amobarbital,street_name,Amobarbital
+Red Birds,Amobarbital,street_name,Amobarbital
+Reds,Amobarbital,street_name,Amobarbital
+Yellows,Amobarbital,street_name,Amobarbital
+Yellow Jackets,Amobarbital,street_name,Amobarbital
+Paroxetine,Paroxetine,generic_name,Paroxetine
+Paxil,Paroxetine,brand_name,Paroxetine
+Bottled Smiles,Paroxetine,street_name,Paroxetine
+Happy Pill,Paroxetine,street_name,Paroxetine
+Miracle Drug,Paroxetine,street_name,Paroxetine
+Wonder Drug,Paroxetine,street_name,Paroxetine
+Fluoxetine,Fluoxetine,generic_name,Fluoxetine
+Prozac,Fluoxetine,brand_name,Fluoxetine
+Bottled Smiles,Fluoxetine,street_name,Fluoxetine
+Happy Pill,Fluoxetine,street_name,Fluoxetine
+Miracle Drug,Fluoxetine,street_name,Fluoxetine
+Wonder Drug,Fluoxetine,street_name,Fluoxetine
+Sertraline,Sertraline,generic_name,Sertraline
+Zoloft,Sertraline,brand_name,Sertraline
+Bottled Smiles,Sertraline,street_name,Sertraline
+Happy Pill,Sertraline,street_name,Sertraline
+Miracle Drug,Sertraline,street_name,Sertraline
+Wonder Drug,Sertraline,street_name,Sertraline
+phentermine,phentermine,generic_name,phentermine
+Ionamin,phentermine,brand_name,phentermine
+Adipex,phentermine,brand_name,phentermine
+Crank,phentermine,street_name,phentermine
+Fastin,phentermine,street_name,phentermine
+Fen-Phen,phentermine,street_name,phentermine
+Speed,phentermine,street_name,phentermine
+nandrolone,nandrolone,generic_name,nandrolone
+testosterone,testosterone,generic_name,testosterone
+Arnolds,nandrolone,street_name,nandrolone
+Gym Candy,nandrolone,street_name,nandrolone
+Juice,nandrolone,street_name,nandrolone
+Muscle Builders,nandrolone,street_name,nandrolone
+Pumpers,nandrolone,street_name,nandrolone
+Roids,nandrolone,street_name,nandrolone
+Stackers,nandrolone,street_name,nandrolone
+Weight Gainers,nandrolone,street_name,nandrolone
+Steroids,nandrolone,street_name,nandrolone
+Arnolds,testosterone,street_name,testosterone
+Gym Candy,testosterone,street_name,testosterone
+Juice,testosterone,street_name,testosterone
+Muscle Builders,testosterone,street_name,testosterone
+Pumpers,testosterone,street_name,testosterone
+Roids,testosterone,street_name,testosterone
+Stackers,testosterone,street_name,testosterone
+Weight Gainers,testosterone,street_name,testosterone
+Steroids,testosterone,street_name,testosterone

@@ -1,4 +1,5 @@
 name,common_name,name_type,full_common_name
+Fentanyl,fentanyl,generic_name,fentanyl
 Apache,fentanyl,street_name,fentanyl
 Birria,fentanyl,street_name,fentanyl
 Blonde,fentanyl,street_name,fentanyl
@@ -50,7 +51,9 @@ TNT,fentanyl,street_name,fentanyl
 Toe Tag Dope,fentanyl,street_name,fentanyl
 White Girl,fentanyl,street_name,fentanyl
 White Ladies,fentanyl,street_name,fentanyl
-Herion,heroin,street_name,heroin
+Heroin,heroin,generic_name,heroin
+diacetylmorphine,heroin,brand_name,heroin
+diamorphone,heroin,brand_name,heroin
 Abajo,heroin,street_name,heroin
 A-Bomb,heroin,street_name,heroin
 Achivia,heroin,street_name,heroin
@@ -232,10 +235,12 @@ Mayo,heroin,street_name,heroin
 Mazpan,heroin,street_name,heroin
 Meal,heroin,street_name,heroin
 Menthol,heroin,street_name,heroin
+Mexican Black Tar Heroin,heroin,street_name,heroin
 Mexican Brown,heroin,street_name,heroin
 Mexican Food,heroin,street_name,heroin
 Mexican Horse,heroin,street_name,heroin
 Mexican Mud,heroin,street_name,heroin
+Mexican Tar,heroin,street_name,heroin
 Mexican Treat,heroin,street_name,heroin
 Modelo Negra,heroin,street_name,heroin
 Mojo,heroin,street_name,heroin
@@ -329,45 +334,52 @@ Wings,heroin,street_name,heroin
 Witch,heroin,street_name,heroin
 Witch Hazel,heroin,street_name,heroin
 Zapapote,heroin,street_name,heroin
-512s,percocet,street_name,percocet
-Bananas,percocet,street_name,percocet
-Blue,percocet,street_name,percocet
-Blue Dynamite,percocet,street_name,percocet
-Blueberries,percocet,street_name,percocet
-Buttons,percocet,street_name,percocet
-Ercs,percocet,street_name,percocet
-Greenies,percocet,street_name,percocet
-Hillbilly Heroin,percocet,street_name,percocet
-Kickers,percocet,street_name,percocet
-M-30s,percocet,street_name,percocet
-Paulas,percocet,street_name,percocet
-Percs,percocet,street_name,percocet
-Rims,percocet,street_name,percocet
-Tires,percocet,street_name,percocet
-Wheels,percocet,street_name,percocet
-Perks,percocet,street_name,percocet
-Bars,xanax,street_name,xanax
-Benzos,xanax,street_name,xanax
-Bicycle Handle Bars,xanax,street_name,xanax
-Bicycle Parts,xanax,street_name,xanax
-Bricks,xanax,street_name,xanax
-Footballs,xanax,street_name,xanax
-Handlebars,xanax,street_name,xanax
-Hulk,xanax,street_name,xanax
-L7,xanax,street_name,xanax
-Ladders,xanax,street_name,xanax
-Palitroque,xanax,street_name,xanax
-Planks,xanax,street_name,xanax
-School Bus,xanax,street_name,xanax
-Sticks,xanax,street_name,xanax
-Upjohns,xanax,street_name,xanax
-White Boys,xanax,street_name,xanax
-White Girls,xanax,street_name,xanax
-Xanies,xanax,street_name,xanax
-Yellow Boys,xanax,street_name,xanax
-Zanbars,xanax,street_name,xanax
-Zannies,xanax,street_name,xanax
-Z-Bars,xanax,street_name,xanax
+Oxycodone,oxycodone,generic_name,oxycodone
+512s,oxycodone,street_name,oxycodone containing acetaminophen
+Bananas,oxycodone,street_name,oxycodone containing acetaminophen
+Blue,oxycodone,street_name,oxycodone containing acetaminophen
+Blue Dynamite,oxycodone,street_name,oxycodone containing acetaminophen
+Blueberries,oxycodone,street_name,oxycodone containing acetaminophen
+Buttons,oxycodone,street_name,oxycodone containing acetaminophen
+Ercs,oxycodone,street_name,oxycodone containing acetaminophen
+Greenies,oxycodone,street_name,oxycodone containing acetaminophen
+Hillbilly Heroin,oxycodone,street_name,oxycodone containing acetaminophen
+Kickers,oxycodone,street_name,oxycodone containing acetaminophen
+M-30s,oxycodone,street_name,oxycodone containing acetaminophen
+Paulas,oxycodone,street_name,oxycodone containing acetaminophen
+Percs,oxycodone,street_name,oxycodone containing acetaminophen
+Rims,oxycodone,street_name,oxycodone containing acetaminophen
+Tires,oxycodone,street_name,oxycodone containing acetaminophen
+Wheels,oxycodone,street_name,oxycodone containing acetaminophen
+Perks,oxycodone,street_name,oxycodone containing acetaminophen
+alprazolam,alprazolam,generic_name,alprazolam
+Xanax,alprazolam,brand_name,alprazolam
+Bars,alprazolam,street_name,alprazolam
+Benzos,alprazolam,street_name,alprazolam
+Bicycle Handle Bars,alprazolam,street_name,alprazolam
+Bicycle Parts,alprazolam,street_name,alprazolam
+Bricks,alprazolam,street_name,alprazolam
+Footballs,alprazolam,street_name,alprazolam
+French Fries,alprazolam,street_name,alprazolam
+Handlebars,alprazolam,street_name,alprazolam
+Hulk,alprazolam,street_name,alprazolam
+L7,alprazolam,street_name,alprazolam
+Ladders,alprazolam,street_name,alprazolam
+Palitroque,alprazolam,street_name,alprazolam
+Planks,alprazolam,street_name,alprazolam
+School Bus,alprazolam,street_name,alprazolam
+Sticks,alprazolam,street_name,alprazolam
+Upjohns,alprazolam,street_name,alprazolam
+White Boys,alprazolam,street_name,alprazolam
+White Girls,alprazolam,street_name,alprazolam
+Xanies,alprazolam,street_name,alprazolam
+Xan,alprazolam,street_name,alprazolam
+Yellow Boys,alprazolam,street_name,alprazolam
+Zanbars,alprazolam,street_name,alprazolam
+Zannies,alprazolam,street_name,alprazolam
+Zan,alprazolam,street_name,alprazolam
+Z-Bars,alprazolam,street_name,alprazolam
+amphetamine,amphetamine,generic_name,amphetamine
 Acelerador,amphetamine,street_name,amphetamine
 Amy,amphetamine,street_name,amphetamine
 Amps,amphetamine,street_name,amphetamine
@@ -473,26 +485,37 @@ White Crosses,amphetamine,street_name,amphetamine
 Whites,amphetamine,street_name,amphetamine
 Zoomers,amphetamine,street_name,amphetamine
 Juice,amphetamine,street_name,amphetamine
-A-Train,adderall,street_name,adderall
-Abby,adderall,street_name,adderall
-Addy,adderall,street_name,adderall
-Amps,adderall,street_name,adderall
-Christmas Trees,adderall,street_name,adderall
-Co-Pilots,adderall,street_name,adderall
-Lid Poppers,adderall,street_name,adderall
-Smart Pills,adderall,street_name,adderall
-Smarties,adderall,street_name,adderall
-Study Buddies,adderall,street_name,adderall
-Study Skittles,adderall,street_name,adderall
-Truck Drivers,adderall,street_name,adderall
-Zing,adderall,street_name,adderall
-Boxes,suboxone,street_name,suboxone
-Bupes,suboxone,street_name,suboxone
-Oranges,suboxone,street_name,suboxone
-Sobos,suboxone,street_name,suboxone
-Stop Signs,suboxone,street_name,suboxone
-Stops,suboxone,street_name,suboxone
-Subs,suboxone,street_name,suboxone
+Adderall,amphetamine,brand_name,amphetamine and dextroamphetamine combination
+A-Train,amphetamine,street_name,amphetamine and dextroamphetamine combination
+Abby,amphetamine,street_name,amphetamine and dextroamphetamine combination
+Addies,amphetamine,street_name,amphetamine and dextroamphetamine combination
+Addy,amphetamine,street_name,amphetamine and dextroamphetamine combination
+Amps,amphetamine,street_name,amphetamine and dextroamphetamine combination
+Christmas Trees,amphetamine,street_name,amphetamine and dextroamphetamine combination
+Co-Pilots,amphetamine,street_name,amphetamine and dextroamphetamine combination
+Lid Poppers,amphetamine,street_name,amphetamine and dextroamphetamine combination
+Smart Pills,amphetamine,street_name,amphetamine and dextroamphetamine combination
+Smarties,amphetamine,street_name,amphetamine and dextroamphetamine combination
+Study Buddies,amphetamine,street_name,amphetamine and dextroamphetamine combination
+Study Skittles,amphetamine,street_name,amphetamine and dextroamphetamine combination
+Truck Drivers,amphetamine,street_name,amphetamine and dextroamphetamine combination
+Zing,amphetamine,street_name,amphetamine and dextroamphetamine combination
+Dexedrine,amphetamine,brand_name,amphetamine
+buprenorphine,buprenorphine,generic_name,buprenorphine
+Suboxone,buprenorphine,brand_name,buprenorphine and naloxone combination
+Subutex,buprenorphine,brand_name,buprenorphine
+Boxes,buprenorphine,street_name,buprenorphine and naloxone combination
+Bupes,buprenorphine,street_name,buprenorphine and naloxone combination
+Oranges,buprenorphine,street_name,buprenorphine and naloxone combination
+Sobos,buprenorphine,street_name,buprenorphine and naloxone combination
+Stop Signs,buprenorphine,street_name,buprenorphine and naloxone combination
+Stops,buprenorphine,street_name,buprenorphine and naloxone combination
+Subs,buprenorphine,street_name,buprenorphine and naloxone combination
+Big Whites,buprenorphine,street_name,buprenorphine and naloxone combination
+Buse,buprenorphine,street_name,buprenorphine and naloxone combination
+Small Whites,buprenorphine,street_name,buprenorphine and naloxone combination
+Strips,buprenorphine,street_name,buprenorphine and naloxone combination
+clonazepam,clonazepam,generic_name,clonazepam
 Benzos,clonazepam,street_name,clonazepam
 K,clonazepam,street_name,clonazepam
 K-Pin,clonazepam,street_name,clonazepam
@@ -500,6 +523,7 @@ Pin,clonazepam,street_name,clonazepam
 Super Valium,clonazepam,street_name,clonazepam
 Tranks,clonazepam,street_name,clonazepam
 klonopin,clonazepam,street_name,clonazepam
+cocaine,cocaine,generic_name,cocaine
 Regular Kind,cocaine,street_name,cocaine
 Regular Work,cocaine,street_name,cocaine
 Reindeer Dust,cocaine,street_name,cocaine
@@ -537,6 +561,7 @@ Special,cocaine,street_name,cocaine
 Speedball,cocaine,street_name,cocaine
 Stardust,cocaine,street_name,cocaine
 Star Spangled Powder,cocaine,street_name,cocaine
+Stash,cocaine,street_name,cocaine
 Studio Fuel,cocaine,street_name,cocaine
 Suave,cocaine,street_name,cocaine
 Sugar,cocaine,street_name,cocaine
@@ -695,6 +720,12 @@ Racehorse Charlie,cocaine,street_name,cocaine
 Rambo,cocaine,street_name,cocaine
 Refresco,cocaine,street_name,cocaine
 Refrescas,cocaine,street_name,cocaine
+Pearl,cocaine,street_name,cocaine
+Line,cocaine,street_name,cocaine
+Hubba,cocaine,street_name,cocaine
+Gringa,cocaine,street_name,cocaine
+Flake,cocaine,street_name,cocaine
+Dust,cocaine,street_name,cocaine
 Chevy,cocaine,street_name,cocaine
 Cheyenne,cocaine,street_name,cocaine
 Chica,cocaine,street_name,cocaine
@@ -809,15 +840,19 @@ Apache,cocaine,street_name,cocaine
 Apodo,cocaine,street_name,cocaine
 Arriba,cocaine,street_name,cocaine
 Audi,cocaine,street_name,cocaine
+Aunt,cocaine,street_name,cocaine
 Aunt Nora,cocaine,street_name,cocaine
 Azucar,cocaine,street_name,cocaine
 Baby Powder,cocaine,street_name,cocaine
 Barrato,cocaine,street_name,cocaine
 Basuco,cocaine,street_name,cocaine
+Batman,cocaine,street_name,cocaine
 Bazooka,cocaine,street_name,cocaine
+Bazulco,cannabis,street_name,cocaine
 Beach,cocaine,street_name,cocaine
 Belushi,cocaine,street_name,cocaine
 Bernice,cocaine,street_name,cocaine
+Bernie,cannabis,street_name,cocaine
 Bernie’s Flakes,cocaine,street_name,cocaine
 Bernie’s Gold Dust,cocaine,street_name,cocaine
 Big Bird,cocaine,street_name,cocaine
@@ -835,6 +870,7 @@ Blizzard,cocaine,street_name,cocaine
 Blonde,cocaine,street_name,cocaine
 Blocks,cocaine,street_name,cocaine
 Blow,cocaine,street_name,cocaine
+Blowcaine,cocaine,street_name,cocaine
 BMW,cocaine,street_name,cocaine
 Board,cocaine,street_name,cocaine
 Bobo,cocaine,street_name,cocaine
@@ -863,150 +899,157 @@ Cebolla,cocaine,street_name,cocaine
 Cecil,cocaine,street_name,cocaine
 Cement,cocaine,street_name,cocaine
 Charlie,cocaine,street_name,cocaine
-Devil Smoke,crack,street_name,crack
-Dice,crack,street_name,crack
-Dime Special,crack,street_name,crack
-Dirty Basing,crack,street_name,crack
-Dirty Fentanyl,crack,street_name,crack
-Double Yoke,crack,street_name,crack
-Durin,crack,street_name,crack
-Eastside Player,crack,street_name,crack
-Egg,crack,street_name,crack
-Eye Opener,crack,street_name,crack
-Famous Dimes,crack,street_name,crack
-Fat Bags,crack,street_name,crack
-Fifty-One,crack,street_name,crack
-Fish Scales,crack,street_name,crack
-Freebase,crack,street_name,crack
-French Fries,crack,street_name,crack
-Garbage Rock,crack,street_name,crack
-Geek,crack,street_name,crack
-Glo,crack,street_name,crack
-Gold,crack,street_name,crack
-Golf Ball,crack,street_name,crack
-Gravel,crack,street_name,crack
-Great White Hope,crack,street_name,crack
-Grit,crack,street_name,crack
-Groceries,crack,street_name,crack
-Hail,crack,street_name,crack
-Hamburger Helper,crack,street_name,crack
-Hard,crack,street_name,crack
-Hotcakes,crack,street_name,crack
-Hubba,crack,street_name,crack
-Ice,crack,street_name,crack
-Ice Cubes,crack,street_name,crack
-Issues,crack,street_name,crack
-Jelly Beans,crack,street_name,crack
-Johnson,crack,street_name,crack
-Kangaroo,crack,street_name,crack
-Kokoma,crack,street_name,crack
-Kryptonite,crack,street_name,crack
-Love,crack,street_name,crack
-Mixed Jive,crack,street_name,crack
-Moon Rock,crack,street_name,crack
-Nickle,crack,street_name,crack
-Nuggets,crack,street_name,crack
-One-Fifty-One,crack,street_name,crack
-Paste,crack,street_name,crack
-Pebbles,crack,street_name,crack
-Pee Wee,crack,street_name,crack
-Piedras,crack,street_name,crack
-Pile,crack,street_name,crack
-Pony,crack,street_name,crack
-Primo,crack,street_name,crack
-Quarters,crack,street_name,crack
-Raw,crack,street_name,crack
-Ready Rock,crack,street_name,crack
-Red Caps,crack,street_name,crack
-RIP,crack,street_name,crack
-Roca,crack,street_name,crack
-Rock,crack,street_name,crack
-Rock Attack,crack,street_name,crack
-Rocks of Hell,crack,street_name,crack
-Rocky III,crack,street_name,crack
-Rooster,crack,street_name,crack
-Rox,crack,street_name,crack
-Roxanne,crack,street_name,crack
-Roz,crack,street_name,crack
-Schoolcraft,crack,street_name,crack
-Scotty,crack,street_name,crack
-Scramble,crack,street_name,crack
-Scruples,crack,street_name,crack
-Seven-Up,crack,street_name,crack
-Sherms,crack,street_name,crack
-Sight Ball,crack,street_name,crack
-Slab,crack,street_name,crack
-Sleet,crack,street_name,crack
-Smoke,crack,street_name,crack
-Speed Boat,crack,street_name,crack
-Square Time Bomb,crack,street_name,crack
-Stone,crack,street_name,crack
-Sugar Block,crack,street_name,crack
-Takeover,crack,street_name,crack
-Teeth,crack,street_name,crack
-Tension,crack,street_name,crack
-Tissue,crack,street_name,crack
-Top Gun,crack,street_name,crack
-Troop,crack,street_name,crack
-Ultimate,crack,street_name,crack
-Up,crack,street_name,crack
-Uzi,crack,street_name,crack
-Wave,crack,street_name,crack
-White Ball,crack,street_name,crack
-White Ghost,crack,street_name,crack
-White Sugar,crack,street_name,crack
-White Tornado,crack,street_name,crack
-Wrecking Crew,crack,street_name,crack
-Yahoo,crack,street_name,crack
-Yale,crack,street_name,crack
-Yimyom,crack,street_name,crack
-51s,crack,street_name,crack
-151s,crack,street_name,crack
-501s,crack,street_name,crack
-Apple Jack,crack,street_name,crack
-Baby T,crack,street_name,crack
-Base,crack,street_name,crack
-Baseball,crack,street_name,crack
-Bazooka,crack,street_name,crack
-Beam Me Up,crack,street_name,crack
-Beautiful Boulders,crack,street_name,crack
-Beemer,crack,street_name,crack
-Bill Blass,crack,street_name,crack
-Bings,crack,street_name,crack
-BJ,crack,street_name,crack
-Black Rock,crack,street_name,crack
-Blowcaine,crack,street_name,crack
-Blowout,crack,street_name,crack
-Blue,crack,street_name,crack
-Bobo,crack,street_name,crack
-Bolo,crack,street_name,crack
-Bomb,crack,street_name,crack
-Bone Crusher,crack,street_name,crack
-Bone,crack,street_name,crack
-Boo-Boo,crack,street_name,crack
-Boulder,crack,street_name,crack
-Boy,crack,street_name,crack
-Breakfast of Champions,crack,street_name,crack
-Bubble Gum,crack,street_name,crack
-Bullion,crack,street_name,crack
-Bump,crack,street_name,crack
-Candy,crack,street_name,crack
-Caps,crack,street_name,crack
-Casper the Ghost,crack,street_name,crack
-Caviar,crack,street_name,crack
-CD,crack,street_name,crack
-Cheap Basing,crack,street_name,crack
-Chewies,crack,street_name,crack
-Chingy,crack,street_name,crack
-Clicker,crack,street_name,crack
-Climax,crack,street_name,crack
-Cloud,crack,street_name,crack
-Cloud Nine,crack,street_name,crack
-Cookies,crack,street_name,crack
-CRC,crack,street_name,crack
-Crib,crack,street_name,crack
-Crunch and Munch,crack,street_name,crack
-Devil,crack,street_name,crack
+Colombia,cocaine,street_name,cocaine
+Colombia,cocaine,street_name,cocaine
+Rock,cocaine,street_name,cocaine
+She,cocaine,street_name,cocaine
+crack cocaine,crack cocaine,generic_name,crack cocaine
+Crack,crack cocaine,street_name,crack cocaine
+Devil Smoke,crack cocaine,street_name,crack cocaine
+Dice,crack cocaine,street_name,crack cocaine
+Dime Special,crack cocaine,street_name,crack cocaine
+Dirty Basing,crack cocaine,street_name,crack cocaine
+Dirty Fentanyl,crack cocaine,street_name,crack cocaine
+Double Yoke,crack cocaine,street_name,crack cocaine
+Durin,crack cocaine,street_name,crack cocaine
+Eastside Player,crack cocaine,street_name,crack cocaine
+Egg,crack cocaine,street_name,crack cocaine
+Eye Opener,crack cocaine,street_name,crack cocaine
+Famous Dimes,crack cocaine,street_name,crack cocaine
+Fat Bags,crack cocaine,street_name,crack cocaine
+Fifty-One,crack cocaine,street_name,crack cocaine
+Fish Scales,crack cocaine,street_name,crack cocaine
+Freebase,crack cocaine,street_name,crack cocaine
+French Fries,crack cocaine,street_name,crack cocaine
+Garbage Rock,crack cocaine,street_name,crack cocaine
+Geek,crack cocaine,street_name,crack cocaine
+Glo,crack cocaine,street_name,crack cocaine
+Gold,crack cocaine,street_name,crack cocaine
+Golf Ball,crack cocaine,street_name,crack cocaine
+Gravel,crack cocaine,street_name,crack cocaine
+Great White Hope,crack cocaine,street_name,crack cocaine
+Grit,crack cocaine,street_name,crack cocaine
+Groceries,crack cocaine,street_name,crack cocaine
+Hail,crack cocaine,street_name,crack cocaine
+Hamburger Helper,crack cocaine,street_name,crack cocaine
+Hard,crack cocaine,street_name,crack cocaine
+Hotcakes,crack cocaine,street_name,crack cocaine
+Hubba,crack cocaine,street_name,crack cocaine
+Ice,crack cocaine,street_name,crack cocaine
+Ice Cubes,crack cocaine,street_name,crack cocaine
+Issues,crack cocaine,street_name,crack cocaine
+Jelly Beans,crack cocaine,street_name,crack cocaine
+Johnson,crack cocaine,street_name,crack cocaine
+Kangaroo,crack cocaine,street_name,crack cocaine
+Kokoma,crack cocaine,street_name,crack cocaine
+Kryptonite,crack cocaine,street_name,crack cocaine
+Love,crack cocaine,street_name,crack cocaine
+Mixed Jive,crack cocaine,street_name,crack cocaine
+Moon Rock,crack cocaine,street_name,crack cocaine
+Nickle,crack cocaine,street_name,crack cocaine
+Nuggets,crack cocaine,street_name,crack cocaine
+One-Fifty-One,crack cocaine,street_name,crack cocaine
+Paste,crack cocaine,street_name,crack cocaine
+Pebbles,crack cocaine,street_name,crack cocaine
+Pee Wee,crack cocaine,street_name,crack cocaine
+Piedras,crack cocaine,street_name,crack cocaine
+Pile,crack cocaine,street_name,crack cocaine
+Pony,crack cocaine,street_name,crack cocaine
+Primo,crack cocaine,street_name,crack cocaine
+Quarters,crack cocaine,street_name,crack cocaine
+Raw,crack cocaine,street_name,crack cocaine
+Ready Rock,crack cocaine,street_name,crack cocaine
+Red Caps,crack cocaine,street_name,crack cocaine
+RIP,crack cocaine,street_name,crack cocaine
+Roca,crack cocaine,street_name,crack cocaine
+Rock,crack cocaine,street_name,crack cocaine
+Rock Attack,crack cocaine,street_name,crack cocaine
+Rocks of Hell,crack cocaine,street_name,crack cocaine
+Rocky III,crack cocaine,street_name,crack cocaine
+Rooster,crack cocaine,street_name,crack cocaine
+Rox,crack cocaine,street_name,crack cocaine
+Roxanne,crack cocaine,street_name,crack cocaine
+Roz,crack cocaine,street_name,crack cocaine
+Schoolcraft,crack cocaine,street_name,crack cocaine
+Scotty,crack cocaine,street_name,crack cocaine
+Scramble,crack cocaine,street_name,crack cocaine
+Scruples,crack cocaine,street_name,crack cocaine
+Seven-Up,crack cocaine,street_name,crack cocaine
+Sherms,crack cocaine,street_name,crack cocaine
+Sight Ball,crack cocaine,street_name,crack cocaine
+Slab,crack cocaine,street_name,crack cocaine
+Sleet,crack cocaine,street_name,crack cocaine
+Smoke,crack cocaine,street_name,crack cocaine
+Speed Boat,crack cocaine,street_name,crack cocaine
+Square Time Bomb,crack cocaine,street_name,crack cocaine
+Stone,crack cocaine,street_name,crack cocaine
+Sugar Block,crack cocaine,street_name,crack cocaine
+Takeover,crack cocaine,street_name,crack cocaine
+Teeth,crack cocaine,street_name,crack cocaine
+Tension,crack cocaine,street_name,crack cocaine
+Tissue,crack cocaine,street_name,crack cocaine
+Top Gun,crack cocaine,street_name,crack cocaine
+Troop,crack cocaine,street_name,crack cocaine
+Ultimate,crack cocaine,street_name,crack cocaine
+Up,crack cocaine,street_name,crack cocaine
+Uzi,crack cocaine,street_name,crack cocaine
+Wave,crack cocaine,street_name,crack cocaine
+White Ball,crack cocaine,street_name,crack cocaine
+White Ghost,crack cocaine,street_name,crack cocaine
+White Sugar,crack cocaine,street_name,crack cocaine
+White Tornado,crack cocaine,street_name,crack cocaine
+Wrecking Crew,crack cocaine,street_name,crack cocaine
+Yahoo,crack cocaine,street_name,crack cocaine
+Yale,crack cocaine,street_name,crack cocaine
+Yimyom,crack cocaine,street_name,crack cocaine
+51s,crack cocaine,street_name,crack cocaine
+151s,crack cocaine,street_name,crack cocaine
+501s,crack cocaine,street_name,crack cocaine
+Apple Jack,crack cocaine,street_name,crack cocaine
+Baby T,crack cocaine,street_name,crack cocaine
+Base,crack cocaine,street_name,crack cocaine
+Baseball,crack cocaine,street_name,crack cocaine
+Bazooka,crack cocaine,street_name,crack cocaine
+Beam Me Up,crack cocaine,street_name,crack cocaine
+Beautiful Boulders,crack cocaine,street_name,crack cocaine
+Beemer,crack cocaine,street_name,crack cocaine
+Bill Blass,crack cocaine,street_name,crack cocaine
+Bings,crack cocaine,street_name,crack cocaine
+BJ,crack cocaine,street_name,crack cocaine
+Black Rock,crack cocaine,street_name,crack cocaine
+Blowcaine,crack cocaine,street_name,crack cocaine
+Blowout,crack cocaine,street_name,crack cocaine
+Blue,crack cocaine,street_name,crack cocaine
+Bobo,crack cocaine,street_name,crack cocaine
+Bolo,crack cocaine,street_name,crack cocaine
+Bomb,crack cocaine,street_name,crack cocaine
+Bone Crusher,crack cocaine,street_name,crack cocaine
+Bone,crack cocaine,street_name,crack cocaine
+Boo-Boo,crack cocaine,street_name,crack cocaine
+Boulder,crack cocaine,street_name,crack cocaine
+Boy,crack cocaine,street_name,crack cocaine
+Breakfast of Champions,crack cocaine,street_name,crack cocaine
+Bubble Gum,crack cocaine,street_name,crack cocaine
+Bullion,crack cocaine,street_name,crack cocaine
+Bump,crack cocaine,street_name,crack cocaine
+Candy,crack cocaine,street_name,crack cocaine
+Caps,crack cocaine,street_name,crack cocaine
+Casper the Ghost,crack cocaine,street_name,crack cocaine
+Caviar,crack cocaine,street_name,crack cocaine
+CD,crack cocaine,street_name,crack cocaine
+Cheap Basing,crack cocaine,street_name,crack cocaine
+Chewies,crack cocaine,street_name,crack cocaine
+Chingy,crack cocaine,street_name,crack cocaine
+Clicker,crack cocaine,street_name,crack cocaine
+Climax,crack cocaine,street_name,crack cocaine
+Cloud,crack cocaine,street_name,crack cocaine
+Cloud Nine,crack cocaine,street_name,crack cocaine
+Cookies,crack cocaine,street_name,crack cocaine
+CRC,crack cocaine,street_name,crack cocaine
+Crib,crack cocaine,street_name,crack cocaine
+Crunch and Munch,crack cocaine,street_name,crack cocaine
+Devil,crack cocaine,street_name,crack cocaine
+ecstasy/MDMA,ecstasy/MDMA,generic_name,ecstasy/MDMA
 Ecstasy,ecstasy/MDMA,street_name,ecstasy/MDMA
 MDMA,ecstasy/MDMA,street_name,ecstasy/MDMA
 Molly,ecstasy/MDMA,street_name,ecstasy/MDMA
@@ -1028,6 +1071,7 @@ Domex,ecstasy/MDMA,street_name,ecstasy/MDMA
 Drop,ecstasy/MDMA,street_name,ecstasy/MDMA
 E,ecstasy/MDMA,street_name,ecstasy/MDMA
 E-Bomb,ecstasy/MDMA,street_name,ecstasy/MDMA
+Egg Rolls,ecstasy/MDMA,street_name,ecstasy/MDMA
 Essence,ecstasy/MDMA,street_name,ecstasy/MDMA
 Eve,ecstasy/MDMA,street_name,ecstasy/MDMA
 Go,ecstasy/MDMA,street_name,ecstasy/MDMA
@@ -1060,12 +1104,16 @@ Speed for Lovers,ecstasy/MDMA,street_name,ecstasy/MDMA
 Sweets,ecstasy/MDMA,street_name,ecstasy/MDMA
 Tacha,ecstasy/MDMA,street_name,ecstasy/MDMA
 Thizz,ecstasy/MDMA,street_name,ecstasy/MDMA
+Triple Stacks,ecstasy/MDMA,street_name,ecstasy/MDMA
+Uppers,ecstasy/MDMA,street_name,ecstasy/MDMA
 Vitamin E,ecstasy/MDMA,street_name,ecstasy/MDMA
+Vitamin X,ecstasy/MDMA,street_name,ecstasy/MDMA
 Vowels,ecstasy/MDMA,street_name,ecstasy/MDMA
 White Mercedes,ecstasy/MDMA,street_name,ecstasy/MDMA
 X,ecstasy/MDMA,street_name,ecstasy/MDMA
 XTC,ecstasy/MDMA,street_name,ecstasy/MDMA
 Yokes,ecstasy/MDMA,street_name,ecstasy/MDMA
+hydrocodone,hydrocodone,generic_name,hydrocodone
 Norco,hydrocodone,brand_name,hydrocodone
 Vicodin,hydrocodone,brand_name,hydrocodone
 Lorcet,hydrocodone,brand_name,hydrocodone
@@ -1085,12 +1133,18 @@ Triple V,hydrocodone,street_name,hydrocodone
 Veeks,hydrocodone,street_name,hydrocodone
 Vics,hydrocodone,street_name,hydrocodone
 Vikes,hydrocodone,street_name,hydrocodone
+V-itamin,hydrocodone,street_name,hydrocodone
+Watsons-387,hydrocodone,street_name,hydrocodone
 Watsons,hydrocodone,street_name,hydrocodone
 Dilaudid,hydromorphone,street_name,hydromorphone
 D,hydromorphone,street_name,hydromorphone
 Dillies,hydromorphone,street_name,hydromorphone
 K4,hydromorphone,street_name,hydromorphone
 Needle Candy,hydromorphone,street_name,hydromorphone
+Footballs,hydromorphone,street_name,hydromorphone
+Juice,hydromorphone,street_name,hydromorphone
+Smack,hydromorphone,street_name,hydromorphone
+methamphetamine,methamphetamine,generic_name,methamphetamine
 Diablo,methamphetamine,street_name,methamphetamine
 Evil Sister,methamphetamine,street_name,methamphetamine
 Eye Glasses,methamphetamine,street_name,methamphetamine
@@ -1239,6 +1293,7 @@ Day,methamphetamine,street_name,methamphetamine
 Diamond,methamphetamine,street_name,methamphetamine
 Dunk,methamphetamine,street_name,methamphetamine
 El Gata,methamphetamine,street_name,methamphetamine
+methylphenidate,methylphenidate,generic_name,methylphenidate
 Ritalin,methylphenidate,brand_name,methylphenidate
 Concerta,methylphenidate,brand_name,methylphenidate
 Daytrana,methylphenidate,brand_name,methylphenidate
@@ -1259,8 +1314,10 @@ Skippy,methylphenidate,street_name,methylphenidate
 Skittles,methylphenidate,street_name,methylphenidate
 Smarties,methylphenidate,street_name,methylphenidate
 Study Buddies,methylphenidate,street_name,methylphenidate
+The Smart Drug,methylphenidate,street_name,methylphenidate
 Truck Drivers,methylphenidate,street_name,methylphenidate
 Vitamin R,methylphenidate,street_name,methylphenidate
+morphine,morphine,generic_name,morphine
 Dreamer,morphine,street_name,morphine
 First Line,morphine,street_name,morphine
 God’s Drug,morphine,street_name,morphine
@@ -1272,6 +1329,7 @@ Morpho,morphine,street_name,morphine
 Unkie,morphine,street_name,morphine
 White Stuff,morphine,street_name,morphine
 M,morphine,street_name,morphine
+opium,opium,generic_name,opium
 Ah-Pen-Yen,opium,street_name,opium
 Auntie,opium,street_name,opium
 Aunt Emma,opium,street_name,opium
@@ -1317,6 +1375,7 @@ Toxy,opium,street_name,opium
 Toys,opium,street_name,opium
 When-Shee,opium,street_name,opium
 Zero,opium,street_name,opium
+oxycodone,oxycodone,generic_name,oxycodone
 Oxaydo,oxycodone,brand_name,oxycodone
 Roxicodone,oxycodone,brand_name,oxycodone
 Oxycontin,oxycodone,brand_name,oxycodone
@@ -1324,7 +1383,9 @@ Oxycodone,oxycodone,brand_name,oxycodone
 30s,oxycodone,street_name,oxycodone
 40s,oxycodone,street_name,oxycodone
 512s,oxycodone,street_name,oxycodone
+As,oxycodone,street_name,oxycodone
 Beans,oxycodone,street_name,oxycodone
+Berries,oxycodone,street_name,oxycodone
 Blues,oxycodone,street_name,oxycodone
 Buttons,oxycodone,street_name,oxycodone
 Cotton,oxycodone,street_name,oxycodone
@@ -1336,412 +1397,421 @@ Muchachas,oxycodone,street_name,oxycodone
 Mujeres,oxycodone,street_name,oxycodone
 OC,oxycodone,street_name,oxycodone
 Oxy,oxycodone,street_name,oxycodone
+Oxycet,oxycodone,street_name,oxycodone
+Oxycotton,oxycodone,street_name,oxycodone
 Oxy 80s,oxycodone,street_name,oxycodone
+Ozone,oxycodone,street_name,oxycodone
 Roxy,oxycodone,street_name,oxycodone
 Roxy Shorts,oxycodone,street_name,oxycodone
 Whites,oxycodone,street_name,oxycodone
 Oxycat,oxycodone,street_name,oxycodone
+U-47700,U-47700,generic_name,U-47700
+Pink Heroin,U-47700,street_name,U-47700
 Pink,U-47700,street_name,U-47700
 Pinky,U-47700,street_name,U-47700
 U4,U-47700,street_name,U-47700
-Peliroja,marijuana,street_name,marijuana
-Pelosa,marijuana,street_name,marijuana
-Phoenix,marijuana,street_name,marijuana
-Pine,marijuana,street_name,marijuana
-Pink Panther,marijuana,street_name,marijuana
-Pintura,marijuana,street_name,marijuana
-Plant,marijuana,street_name,marijuana
-Platinum Cookies,marijuana,street_name,marijuana
-Platinum Jack,marijuana,street_name,marijuana
-Pocket Rocket,marijuana,street_name,marijuana
-Popcorn,marijuana,street_name,marijuana
-Porro,marijuana,street_name,marijuana
-Pot,marijuana,street_name,marijuana
-Pretendo,marijuana,street_name,marijuana
-Prop 215,marijuana,street_name,marijuana
-Puff,marijuana,street_name,marijuana
-Purple Haze,marijuana,street_name,marijuana
-Purple OG,marijuana,street_name,marijuana
-Queen Anns Lace,marijuana,street_name,marijuana
-Red Hair,marijuana,street_name,marijuana
-Ragweed,marijuana,street_name,marijuana
-Railroad Weed,marijuana,street_name,marijuana
-Rainy Day Woman,marijuana,street_name,marijuana
-Rasta Weed,marijuana,street_name,marijuana
-Red Cross,marijuana,street_name,marijuana
-Red Dirt,marijuana,street_name,marijuana
-Reefer,marijuana,street_name,marijuana
-Reggie,marijuana,street_name,marijuana
-Repollo,marijuana,street_name,marijuana
-Righteous Bush,marijuana,street_name,marijuana
-Root,marijuana,street_name,marijuana
-Rope,marijuana,street_name,marijuana
-Rosa Maria,marijuana,street_name,marijuana
-Salt and Pepper,marijuana,street_name,marijuana
-Santa Marta,marijuana,street_name,marijuana
-Sasafras,marijuana,street_name,marijuana
-Sativa,marijuana,street_name,marijuana
-Shoes,marijuana,street_name,marijuana
-Sinsemilla,marijuana,street_name,marijuana
-Shmagma,marijuana,street_name,marijuana
-Shora,marijuana,street_name,marijuana
-Shrimp,marijuana,street_name,marijuana
-Shwag,marijuana,street_name,marijuana
-Skunk,marijuana,street_name,marijuana
-Skywalker,marijuana,street_name,marijuana
-Smoke,marijuana,street_name,marijuana
-Smoochy Woochy Poochy,marijuana,street_name,marijuana
-Smoke Canada,marijuana,street_name,marijuana
-Sour OG,marijuana,street_name,marijuana
-Spliff,marijuana,street_name,marijuana
-Stems,marijuana,street_name,marijuana
-Sticky,marijuana,street_name,marijuana
-Stink Weed,marijuana,street_name,marijuana
-Sugar Weed,marijuana,street_name,marijuana
-Sweet Lucy,marijuana,street_name,marijuana
-Tahoe,marijuana,street_name,marijuana
-Tangy OG,marijuana,street_name,marijuana
-Terp,marijuana,street_name,marijuana
-Terpenes,marijuana,street_name,marijuana
-Tex-Mex,marijuana,street_name,marijuana
-Texas Tea,marijuana,street_name,marijuana
-Tigitty,marijuana,street_name,marijuana
-Tila,marijuana,street_name,marijuana
-Tims,marijuana,street_name,marijuana
-Top Shelf,marijuana,street_name,marijuana
-Tosca,marijuana,street_name,marijuana
-Train Wreck,marijuana,street_name,marijuana
-Trees,marijuana,street_name,marijuana
-Trinity OG,marijuana,street_name,marijuana
-Tweeds,marijuana,street_name,marijuana
-Valle,marijuana,street_name,marijuana
-Wake and Bake,marijuana,street_name,marijuana
-Weed,marijuana,street_name,marijuana
-Weed Tea,marijuana,street_name,marijuana
-Wet,marijuana,street_name,marijuana
-Wheat,marijuana,street_name,marijuana
-White-Haired Lady,marijuana,street_name,marijuana
-Wooz,marijuana,street_name,marijuana
-Yellow Submarine,marijuana,street_name,marijuana
-Yen Pop,marijuana,street_name,marijuana
-Yerba,marijuana,street_name,marijuana
-Yesca,marijuana,street_name,marijuana
-Young Girls,marijuana,street_name,marijuana
-Zacate,marijuana,street_name,marijuana
-Zacatecas,marijuana,street_name,marijuana
-Zambi,marijuana,street_name,marijuana
-Zip,marijuana,street_name,marijuana
-Zoom,marijuana,street_name,marijuana
-Jon-Jem,marijuana,street_name,marijuana
-Joy Smoke,marijuana,street_name,marijuana
-Juan Valdez,marijuana,street_name,marijuana
-Juanita,marijuana,street_name,marijuana
-Jungle Juice,marijuana,street_name,marijuana
-Kaff,marijuana,street_name,marijuana
-Kali,marijuana,street_name,marijuana
-Kaya,marijuana,street_name,marijuana
-KB,marijuana,street_name,marijuana
-Kentucky Blue,marijuana,street_name,marijuana
-KGB,marijuana,street_name,marijuana
-Khalifa,marijuana,street_name,marijuana
-Kiff,marijuana,street_name,marijuana
-Killa,marijuana,street_name,marijuana
-Kilter,marijuana,street_name,marijuana
-King Louie,marijuana,street_name,marijuana
-Kona Gold,marijuana,street_name,marijuana
-Kumba,marijuana,street_name,marijuana
-Kush,marijuana,street_name,marijuana
-Laughing Grass,marijuana,street_name,marijuana
-Laughing Weed,marijuana,street_name,marijuana
-Leaf,marijuana,street_name,marijuana
-Lechuga,marijuana,street_name,marijuana
-Lemon-Lime,marijuana,street_name,marijuana
-Lea,marijuana,street_name,marijuana
-Liamba,marijuana,street_name,marijuana
-Lime Pillows,marijuana,street_name,marijuana
-Little Green Friends,marijuana,street_name,marijuana
-Little Smoke,marijuana,street_name,marijuana
-Llesca,marijuana,street_name,marijuana
-Loaf,marijuana,street_name,marijuana
-Lobo,marijuana,street_name,marijuana
-Loco Weed,marijuana,street_name,marijuana
-Loud,marijuana,street_name,marijuana
-Love Nuggets,marijuana,street_name,marijuana
-Love Weed,marijuana,street_name,marijuana
-Lucas,marijuana,street_name,marijuana
-M.J.,marijuana,street_name,marijuana
-Machinery,marijuana,street_name,marijuana
-Macoa,marijuana,street_name,marijuana
-Mafafa,marijuana,street_name,marijuana
-Magic Smoke,marijuana,street_name,marijuana
-Manhattan Silver,marijuana,street_name,marijuana
-Manteca,marijuana,street_name,marijuana
-Maracachafa,marijuana,street_name,marijuana
-Maria,marijuana,street_name,marijuana
-Marimba,marijuana,street_name,marijuana
-Mariquita,marijuana,street_name,marijuana
-Mary Ann,marijuana,street_name,marijuana
-Mary Jane,marijuana,street_name,marijuana
-Mary Jones,marijuana,street_name,marijuana
-Mary Warner,marijuana,street_name,marijuana
-Mary Weaver,marijuana,street_name,marijuana
-Matchbox,marijuana,street_name,marijuana
-Matraca,marijuana,street_name,marijuana
-Maui Wowie,marijuana,street_name,marijuana
-Meg,marijuana,street_name,marijuana
-Method,marijuana,street_name,marijuana
-Mersh,marijuana,street_name,marijuana
-Mexican Brown,marijuana,street_name,marijuana
-Mexicali Haze,marijuana,street_name,marijuana
-Mexican Green,marijuana,street_name,marijuana
-Mexican Red,marijuana,street_name,marijuana
-MMJ,marijuana,street_name,marijuana
-Mochie,marijuana,street_name,marijuana
-MoÃ±a,marijuana,street_name,marijuana
-Monte,marijuana,street_name,marijuana
-Moocah,marijuana,street_name,marijuana
-Mootie,marijuana,street_name,marijuana
-Mora,marijuana,street_name,marijuana
-Morisqueta,marijuana,street_name,marijuana
-Mostaza,marijuana,street_name,marijuana
-Mota,marijuana,street_name,marijuana
-Mother,marijuana,street_name,marijuana
-Mowing the Lawn,marijuana,street_name,marijuana
-Muggie,marijuana,street_name,marijuana
-My Brother,marijuana,street_name,marijuana
-Narizona,marijuana,street_name,marijuana
-Northern Lights,marijuana,street_name,marijuana
-Nug,marijuana,street_name,marijuana
-O-Boy,marijuana,street_name,marijuana
-OG,marijuana,street_name,marijuana
-O.J.,marijuana,street_name,marijuana
-Owl,marijuana,street_name,marijuana
-Paja,marijuana,street_name,marijuana
-Palm,marijuana,street_name,marijuana
-Paloma,marijuana,street_name,marijuana
-Palomita,marijuana,street_name,marijuana
-Panama Cut,marijuana,street_name,marijuana
-Panama Gold,marijuana,street_name,marijuana
-Panama Red,marijuana,street_name,marijuana
-Pakalolo,marijuana,street_name,marijuana
-Parsley,marijuana,street_name,marijuana
-Pasto,marijuana,street_name,marijuana
-Pasture,marijuana,street_name,marijuana
-Dew,marijuana,street_name,marijuana
-Diesel,marijuana,street_name,marijuana
-Dimba,marijuana,street_name,marijuana
-Dinkie Dow,marijuana,street_name,marijuana
-Diosa Verde,marijuana,street_name,marijuana
-Dirt Grass,marijuana,street_name,marijuana
-Ditch Weed,marijuana,street_name,marijuana
-Dizz,marijuana,street_name,marijuana
-Djamba,marijuana,street_name,marijuana
-Dody,marijuana,street_name,marijuana
-Dojo,marijuana,street_name,marijuana
-Domestic,marijuana,street_name,marijuana
-Donna Juana,marijuana,street_name,marijuana
-Doobie,marijuana,street_name,marijuana
-Downtown Brown,marijuana,street_name,marijuana
-Drag Weed,marijuana,street_name,marijuana
-Dro,marijuana,street_name,marijuana
-Droski,marijuana,street_name,marijuana
-Dry High,marijuana,street_name,marijuana
-Elefante Pata,marijuana,street_name,marijuana
-Endo,marijuana,street_name,marijuana
-Escoba,marijuana,street_name,marijuana
-Fattie,marijuana,street_name,marijuana
-Fine Stuff,marijuana,street_name,marijuana
-Fire,marijuana,street_name,marijuana
-Flower,marijuana,street_name,marijuana
-Flower Tops,marijuana,street_name,marijuana
-Fluffy,marijuana,street_name,marijuana
-Fuzzy Lady,marijuana,street_name,marijuana
-Gallina,marijuana,street_name,marijuana
-Gallito,marijuana,street_name,marijuana
-Garden,marijuana,street_name,marijuana
-Garifa,marijuana,street_name,marijuana
-Gauge,marijuana,street_name,marijuana
-Gangster,marijuana,street_name,marijuana
-Ganja,marijuana,street_name,marijuana
-Gash,marijuana,street_name,marijuana
-Gato,marijuana,street_name,marijuana
-Ghana,marijuana,street_name,marijuana
-Gigi,marijuana,street_name,marijuana
-Giggle Smoke,marijuana,street_name,marijuana
-Giggle Weed,marijuana,street_name,marijuana
-Girl Scout Cookies,marijuana,street_name,marijuana
-Gloria,marijuana,street_name,marijuana
-Gold,marijuana,street_name,marijuana
-Gold Leaf,marijuana,street_name,marijuana
-Gold Star,marijuana,street_name,marijuana
-Gong,marijuana,street_name,marijuana
-Good Giggles,marijuana,street_name,marijuana
-Gorilla,marijuana,street_name,marijuana
-Gorilla Glue,marijuana,street_name,marijuana
-Grand Daddy Purp,marijuana,street_name,marijuana
-Grass,marijuana,street_name,marijuana
-Grasshopper,marijuana,street_name,marijuana
-Green,marijuana,street_name,marijuana
-Green Crack,marijuana,street_name,marijuana
-Green-Eyed Girl,marijuana,street_name,marijuana
-Green Eyes,marijuana,street_name,marijuana
-Green Goblin,marijuana,street_name,marijuana
-Green Goddess,marijuana,street_name,marijuana
-Green Mercedes Benz,marijuana,street_name,marijuana
-Green Paint,marijuana,street_name,marijuana
-Green Skunk,marijuana,street_name,marijuana
-Greenhouse,marijuana,street_name,marijuana
-Grenuda,marijuana,street_name,marijuana
-Greta,marijuana,street_name,marijuana
-Guardada,marijuana,street_name,marijuana
-Gummy Bears,marijuana,street_name,marijuana
-Gunga,marijuana,street_name,marijuana
-Hairy Ones,marijuana,street_name,marijuana
-Hash,marijuana,street_name,marijuana
-Hawaiian,marijuana,street_name,marijuana
-Hay,marijuana,street_name,marijuana
-Hemp,marijuana,street_name,marijuana
-Herb,marijuana,street_name,marijuana
-Hierba,marijuana,street_name,marijuana
-Holy Grail,marijuana,street_name,marijuana
-Homegrown,marijuana,street_name,marijuana
-Hooch,marijuana,street_name,marijuana
-Hoja,marijuana,street_name,marijuana
-Humo,marijuana,street_name,marijuana
-Hydro,marijuana,street_name,marijuana
-Indian Boy,marijuana,street_name,marijuana
-Indian Hay,marijuana,street_name,marijuana
-Jamaican Gold,marijuana,street_name,marijuana
-Jamaican Red,marijuana,street_name,marijuana
-Jane,marijuana,street_name,marijuana
-Jive,marijuana,street_name,marijuana
-Jolly Green,marijuana,street_name,marijuana
-420,marijuana,street_name,marijuana
-A-Bomb,marijuana,street_name,marijuana
-Acapulco Gold,marijuana,street_name,marijuana
-Acapulco Red,marijuana,street_name,marijuana
-Ace,marijuana,street_name,marijuana
-African Black,marijuana,street_name,marijuana
-African Bush,marijuana,street_name,marijuana
-Airplane,marijuana,street_name,marijuana
-Alfalfa,marijuana,street_name,marijuana
-Alfombra,marijuana,street_name,marijuana
-Alice B Toklas,marijuana,street_name,marijuana
-All-Star,marijuana,street_name,marijuana
-Almohada,marijuana,street_name,marijuana
-Angola,marijuana,street_name,marijuana
-Animal Cookies,marijuana,street_name,marijuana
-Arizona,marijuana,street_name,marijuana
-Ashes,marijuana,street_name,marijuana
-Aunt Mary,marijuana,street_name,marijuana
-AZ,marijuana,street_name,marijuana
-Baby,marijuana,street_name,marijuana
-Bale,marijuana,street_name,marijuana
-Bambalachacha,marijuana,street_name,marijuana
-Barbara Jean,marijuana,street_name,marijuana
-Bareta,marijuana,street_name,marijuana
-Bash,marijuana,street_name,marijuana
-Bazooka,marijuana,street_name,marijuana
-BC Budd,marijuana,street_name,marijuana
-Bernie,marijuana,street_name,marijuana
-Bhang,marijuana,street_name,marijuana
-Big Pillows,marijuana,street_name,marijuana
-Biggy,marijuana,street_name,marijuana
-Bionic,marijuana,street_name,marijuana
-Black Bart,marijuana,street_name,marijuana
-Black Gold,marijuana,street_name,marijuana
-Black Maria,marijuana,street_name,marijuana
-Blondie,marijuana,street_name,marijuana
-Blue Cheese,marijuana,street_name,marijuana
-Blue Crush,marijuana,street_name,marijuana
-Blue Dream,marijuana,street_name,marijuana
-Blue Jeans,marijuana,street_name,marijuana
-Blue Sage,marijuana,street_name,marijuana
-Blueberry,marijuana,street_name,marijuana
-Bobo Bush,marijuana,street_name,marijuana
-Boo,marijuana,street_name,marijuana
-Boom,marijuana,street_name,marijuana
-Branches,marijuana,street_name,marijuana
-Broccoli,marijuana,street_name,marijuana
-Bud,marijuana,street_name,marijuana
-Budda,marijuana,street_name,marijuana
-Burritos Verdes,marijuana,street_name,marijuana
-Bush,marijuana,street_name,marijuana
-Cabbage,marijuana,street_name,marijuana
-CafÃ©,marijuana,street_name,marijuana
-Cajita,marijuana,street_name,marijuana
-Cali,marijuana,street_name,marijuana
-Camara,marijuana,street_name,marijuana
-Canadian Black,marijuana,street_name,marijuana
-Catnip,marijuana,street_name,marijuana
-Cheeba,marijuana,street_name,marijuana
-Chernobyl,marijuana,street_name,marijuana
-Cheese,marijuana,street_name,marijuana
-Chicago Black,marijuana,street_name,marijuana
-Chicago Green,marijuana,street_name,marijuana
-Chippie,marijuana,street_name,marijuana
-Chistosa,marijuana,street_name,marijuana
-Christmas Tree,marijuana,street_name,marijuana
-Chronic,marijuana,street_name,marijuana
-Churro,marijuana,street_name,marijuana
-Cigars,marijuana,street_name,marijuana
-Citrol,marijuana,street_name,marijuana
-Cola,marijuana,street_name,marijuana
-Colorado Cocktail,marijuana,street_name,marijuana
-Cookie,marijuana,street_name,marijuana
-Cotorritos,marijuana,street_name,marijuana
-Crazy Weed,marijuana,street_name,marijuana
-Creeper Bud,marijuana,street_name,marijuana
-Crippy,marijuana,street_name,marijuana
-Crying Weed,marijuana,street_name,marijuana
-Culican,marijuana,street_name,marijuana
-Dank,marijuana,street_name,marijuana
-Devil’s Lettuce,marijuana,street_name,marijuana
-Hash Oil,hash,street_name,hash
-Hash,hash,street_name,hash
-710,hash,street_name,hash
-BHNO,hash,street_name,hash
-BHO,hash,street_name,hash
-Black Glass,hash,street_name,hash
-Bubble Hash,hash,street_name,hash
-Budder,hash,street_name,hash
-Butane Hash Oil,hash,street_name,hash
-Butane Honey Oil,hash,street_name,hash
-Caviar,hash,street_name,hash
-CBD,hash,street_name,hash
-CBD oil,hash,street_name,hash
-Crystalline,hash,street_name,hash
-Crumble,hash,street_name,hash
-Dabs,hash,street_name,hash
-Dipper,hash,street_name,hash
-Ear Wax,hash,street_name,hash
-Edibles,hash,street_name,hash
-ENail,hash,street_name,hash
-Errl,hash,street_name,hash
-Extract,hash,street_name,hash
-Full Melt,hash,street_name,hash
-Glob,hash,street_name,hash
-Gorilla Glue,hash,street_name,hash
-Heady,hash,street_name,hash
-Honey Oil,hash,street_name,hash
-IWE,hash,street_name,hash
-Ice Water Hash,hash,street_name,hash
-Klear,hash,street_name,hash
-Live Resin,hash,street_name,hash
-Moon Rocks,hash,street_name,hash
-Rosin,hash,street_name,hash
-Rosin Tech,hash,street_name,hash
-SAP,hash,street_name,hash
-Sauce,hash,street_name,hash
-Shatter,hash,street_name,hash
-Solventless,hash,street_name,hash
-Terp Sauce,hash,street_name,hash
-THCA,hash,street_name,hash
-THCA Crystal,hash,street_name,hash
-THCA Crystalline,hash,street_name,hash
-THCA Powder,hash,street_name,hash
-Trichrome,hash,street_name,hash
-Wax,hash,street_name,hash
+cannabis,cannabis,generic_name,cannabis
+marijuana,cannabis,street_name,cannabis
+Peliroja,cannabis,street_name,cannabis
+Pelosa,cannabis,street_name,cannabis
+Phoenix,cannabis,street_name,cannabis
+Pine,cannabis,street_name,cannabis
+Pink Panther,cannabis,street_name,cannabis
+Pintura,cannabis,street_name,cannabis
+Plant,cannabis,street_name,cannabis
+Platinum Cookies,cannabis,street_name,cannabis
+Platinum Jack,cannabis,street_name,cannabis
+Pocket Rocket,cannabis,street_name,cannabis
+Popcorn,cannabis,street_name,cannabis
+Porro,cannabis,street_name,cannabis
+Pot,cannabis,street_name,cannabis
+Pretendo,cannabis,street_name,cannabis
+Prop 215,cannabis,street_name,cannabis
+Puff,cannabis,street_name,cannabis
+Purple Haze,cannabis,street_name,cannabis
+Purple OG,cannabis,street_name,cannabis
+Queen Anns Lace,cannabis,street_name,cannabis
+Red Hair,cannabis,street_name,cannabis
+Ragweed,cannabis,street_name,cannabis
+Railroad Weed,cannabis,street_name,cannabis
+Rainy Day Woman,cannabis,street_name,cannabis
+Rasta Weed,cannabis,street_name,cannabis
+Red Cross,cannabis,street_name,cannabis
+Red Dirt,cannabis,street_name,cannabis
+Reefer,cannabis,street_name,cannabis
+Reggie,cannabis,street_name,cannabis
+Repollo,cannabis,street_name,cannabis
+Righteous Bush,cannabis,street_name,cannabis
+Root,cannabis,street_name,cannabis
+Rope,cannabis,street_name,cannabis
+Rosa Maria,cannabis,street_name,cannabis
+Salt and Pepper,cannabis,street_name,cannabis
+Santa Marta,cannabis,street_name,cannabis
+Sasafras,cannabis,street_name,cannabis
+Sativa,cannabis,street_name,cannabis
+Shoes,cannabis,street_name,cannabis
+Sinsemilla,cannabis,street_name,cannabis
+Shmagma,cannabis,street_name,cannabis
+Shora,cannabis,street_name,cannabis
+Shrimp,cannabis,street_name,cannabis
+Shwag,cannabis,street_name,cannabis
+Skunk,cannabis,street_name,cannabis
+Skywalker,cannabis,street_name,cannabis
+Smoke,cannabis,street_name,cannabis
+Smoochy Woochy Poochy,cannabis,street_name,cannabis
+Smoke Canada,cannabis,street_name,cannabis
+Sour OG,cannabis,street_name,cannabis
+Spliff,cannabis,street_name,cannabis
+Stems,cannabis,street_name,cannabis
+Sticky,cannabis,street_name,cannabis
+Stink Weed,cannabis,street_name,cannabis
+Sugar Weed,cannabis,street_name,cannabis
+Sweet Lucy,cannabis,street_name,cannabis
+Tahoe,cannabis,street_name,cannabis
+Tangy OG,cannabis,street_name,cannabis
+Terp,cannabis,street_name,cannabis
+Terpenes,cannabis,street_name,cannabis
+Tex-Mex,cannabis,street_name,cannabis
+Texas Tea,cannabis,street_name,cannabis
+Tigitty,cannabis,street_name,cannabis
+Tila,cannabis,street_name,cannabis
+Tims,cannabis,street_name,cannabis
+Top Shelf,cannabis,street_name,cannabis
+Tosca,cannabis,street_name,cannabis
+Train Wreck,cannabis,street_name,cannabis
+Trees,cannabis,street_name,cannabis
+Trinity OG,cannabis,street_name,cannabis
+Tweeds,cannabis,street_name,cannabis
+Valle,cannabis,street_name,cannabis
+Wake and Bake,cannabis,street_name,cannabis
+Weed,cannabis,street_name,cannabis
+Weed Tea,cannabis,street_name,cannabis
+Wet,cannabis,street_name,cannabis
+Wheat,cannabis,street_name,cannabis
+White-Haired Lady,cannabis,street_name,cannabis
+Wooz,cannabis,street_name,cannabis
+Yellow Submarine,cannabis,street_name,cannabis
+Yen Pop,cannabis,street_name,cannabis
+Yerba,cannabis,street_name,cannabis
+Yesca,cannabis,street_name,cannabis
+Young Girls,cannabis,street_name,cannabis
+Zacate,cannabis,street_name,cannabis
+Zacatecas,cannabis,street_name,cannabis
+Zambi,cannabis,street_name,cannabis
+Zip,cannabis,street_name,cannabis
+Zoom,cannabis,street_name,cannabis
+Jon-Jem,cannabis,street_name,cannabis
+Joy Smoke,cannabis,street_name,cannabis
+Juan Valdez,cannabis,street_name,cannabis
+Juanita,cannabis,street_name,cannabis
+Jungle Juice,cannabis,street_name,cannabis
+Kaff,cannabis,street_name,cannabis
+Kali,cannabis,street_name,cannabis
+Kaya,cannabis,street_name,cannabis
+KB,cannabis,street_name,cannabis
+Kentucky Blue,cannabis,street_name,cannabis
+KGB,cannabis,street_name,cannabis
+Khalifa,cannabis,street_name,cannabis
+Kiff,cannabis,street_name,cannabis
+Killa,cannabis,street_name,cannabis
+Kilter,cannabis,street_name,cannabis
+King Louie,cannabis,street_name,cannabis
+Kona Gold,cannabis,street_name,cannabis
+Kumba,cannabis,street_name,cannabis
+Kush,cannabis,street_name,cannabis
+Laughing Grass,cannabis,street_name,cannabis
+Laughing Weed,cannabis,street_name,cannabis
+Leaf,cannabis,street_name,cannabis
+Lechuga,cannabis,street_name,cannabis
+Lemon-Lime,cannabis,street_name,cannabis
+Lea,cannabis,street_name,cannabis
+Liamba,cannabis,street_name,cannabis
+Lime Pillows,cannabis,street_name,cannabis
+Little Green Friends,cannabis,street_name,cannabis
+Little Smoke,cannabis,street_name,cannabis
+Llesca,cannabis,street_name,cannabis
+Loaf,cannabis,street_name,cannabis
+Lobo,cannabis,street_name,cannabis
+Loco Weed,cannabis,street_name,cannabis
+Loud,cannabis,street_name,cannabis
+Love Nuggets,cannabis,street_name,cannabis
+Love Weed,cannabis,street_name,cannabis
+Lucas,cannabis,street_name,cannabis
+M.J.,cannabis,street_name,cannabis
+Machinery,cannabis,street_name,cannabis
+Macoa,cannabis,street_name,cannabis
+Mafafa,cannabis,street_name,cannabis
+Magic Smoke,cannabis,street_name,cannabis
+Manhattan Silver,cannabis,street_name,cannabis
+Manteca,cannabis,street_name,cannabis
+Maracachafa,cannabis,street_name,cannabis
+Maria,cannabis,street_name,cannabis
+Marimba,cannabis,street_name,cannabis
+Mariquita,cannabis,street_name,cannabis
+Mary Ann,cannabis,street_name,cannabis
+Mary Jane,cannabis,street_name,cannabis
+Mary Jones,cannabis,street_name,cannabis
+Mary Warner,cannabis,street_name,cannabis
+Mary Weaver,cannabis,street_name,cannabis
+Matchbox,cannabis,street_name,cannabis
+Matraca,cannabis,street_name,cannabis
+Maui Wowie,cannabis,street_name,cannabis
+Meg,cannabis,street_name,cannabis
+Method,cannabis,street_name,cannabis
+Mersh,cannabis,street_name,cannabis
+Mexican Brown,cannabis,street_name,cannabis
+Mexicali Haze,cannabis,street_name,cannabis
+Mexican Green,cannabis,street_name,cannabis
+Mexican Red,cannabis,street_name,cannabis
+MMJ,cannabis,street_name,cannabis
+Mochie,cannabis,street_name,cannabis
+MoÃ±a,cannabis,street_name,cannabis
+Monte,cannabis,street_name,cannabis
+Moocah,cannabis,street_name,cannabis
+Mootie,cannabis,street_name,cannabis
+Mora,cannabis,street_name,cannabis
+Morisqueta,cannabis,street_name,cannabis
+Mostaza,cannabis,street_name,cannabis
+Mota,cannabis,street_name,cannabis
+Mother,cannabis,street_name,cannabis
+Mowing the Lawn,cannabis,street_name,cannabis
+Muggie,cannabis,street_name,cannabis
+My Brother,cannabis,street_name,cannabis
+Narizona,cannabis,street_name,cannabis
+Northern Lights,cannabis,street_name,cannabis
+Nug,cannabis,street_name,cannabis
+O-Boy,cannabis,street_name,cannabis
+OG,cannabis,street_name,cannabis
+O.J.,cannabis,street_name,cannabis
+Owl,cannabis,street_name,cannabis
+Paja,cannabis,street_name,cannabis
+Palm,cannabis,street_name,cannabis
+Paloma,cannabis,street_name,cannabis
+Palomita,cannabis,street_name,cannabis
+Panama Cut,cannabis,street_name,cannabis
+Panama Gold,cannabis,street_name,cannabis
+Panama Red,cannabis,street_name,cannabis
+Pakalolo,cannabis,street_name,cannabis
+Parsley,cannabis,street_name,cannabis
+Pasto,cannabis,street_name,cannabis
+Pasture,cannabis,street_name,cannabis
+Dew,cannabis,street_name,cannabis
+Diesel,cannabis,street_name,cannabis
+Dimba,cannabis,street_name,cannabis
+Dinkie Dow,cannabis,street_name,cannabis
+Diosa Verde,cannabis,street_name,cannabis
+Dirt Grass,cannabis,street_name,cannabis
+Ditch Weed,cannabis,street_name,cannabis
+Dizz,cannabis,street_name,cannabis
+Djamba,cannabis,street_name,cannabis
+Dody,cannabis,street_name,cannabis
+Dojo,cannabis,street_name,cannabis
+Domestic,cannabis,street_name,cannabis
+Donna Juana,cannabis,street_name,cannabis
+Doobie,cannabis,street_name,cannabis
+Downtown Brown,cannabis,street_name,cannabis
+Drag Weed,cannabis,street_name,cannabis
+Dro,cannabis,street_name,cannabis
+Droski,cannabis,street_name,cannabis
+Dry High,cannabis,street_name,cannabis
+Elefante Pata,cannabis,street_name,cannabis
+Endo,cannabis,street_name,cannabis
+Escoba,cannabis,street_name,cannabis
+Fattie,cannabis,street_name,cannabis
+Fine Stuff,cannabis,street_name,cannabis
+Fire,cannabis,street_name,cannabis
+Flower,cannabis,street_name,cannabis
+Flower Tops,cannabis,street_name,cannabis
+Fluffy,cannabis,street_name,cannabis
+Fuzzy Lady,cannabis,street_name,cannabis
+Gallina,cannabis,street_name,cannabis
+Gallito,cannabis,street_name,cannabis
+Garden,cannabis,street_name,cannabis
+Garifa,cannabis,street_name,cannabis
+Gauge,cannabis,street_name,cannabis
+Gangster,cannabis,street_name,cannabis
+Ganja,cannabis,street_name,cannabis
+Gash,cannabis,street_name,cannabis
+Gato,cannabis,street_name,cannabis
+Ghana,cannabis,street_name,cannabis
+Gigi,cannabis,street_name,cannabis
+Giggle Smoke,cannabis,street_name,cannabis
+Giggle Weed,cannabis,street_name,cannabis
+Girl Scout Cookies,cannabis,street_name,cannabis
+Gloria,cannabis,street_name,cannabis
+Gold,cannabis,street_name,cannabis
+Gold Leaf,cannabis,street_name,cannabis
+Gold Star,cannabis,street_name,cannabis
+Gong,cannabis,street_name,cannabis
+Good Giggles,cannabis,street_name,cannabis
+Gorilla,cannabis,street_name,cannabis
+Gorilla Glue,cannabis,street_name,cannabis
+Grand Daddy Purp,cannabis,street_name,cannabis
+Grass,cannabis,street_name,cannabis
+Grasshopper,cannabis,street_name,cannabis
+Green,cannabis,street_name,cannabis
+Green Crack,cannabis,street_name,cannabis
+Green-Eyed Girl,cannabis,street_name,cannabis
+Green Eyes,cannabis,street_name,cannabis
+Green Goblin,cannabis,street_name,cannabis
+Green Goddess,cannabis,street_name,cannabis
+Green Mercedes Benz,cannabis,street_name,cannabis
+Green Paint,cannabis,street_name,cannabis
+Green Skunk,cannabis,street_name,cannabis
+Greenhouse,cannabis,street_name,cannabis
+Grenuda,cannabis,street_name,cannabis
+Greta,cannabis,street_name,cannabis
+Guardada,cannabis,street_name,cannabis
+Gummy Bears,cannabis,street_name,cannabis
+Gunga,cannabis,street_name,cannabis
+Hairy Ones,cannabis,street_name,cannabis
+Hash,cannabis,street_name,cannabis
+Hawaiian,cannabis,street_name,cannabis
+Hay,cannabis,street_name,cannabis
+Hemp,cannabis,street_name,cannabis
+Herb,cannabis,street_name,cannabis
+Hierba,cannabis,street_name,cannabis
+Holy Grail,cannabis,street_name,cannabis
+Homegrown,cannabis,street_name,cannabis
+Hooch,cannabis,street_name,cannabis
+Hoja,cannabis,street_name,cannabis
+Humo,cannabis,street_name,cannabis
+Hydro,cannabis,street_name,cannabis
+Indian Boy,cannabis,street_name,cannabis
+Indian Hay,cannabis,street_name,cannabis
+Jamaican Gold,cannabis,street_name,cannabis
+Jamaican Red,cannabis,street_name,cannabis
+Jane,cannabis,street_name,cannabis
+Jive,cannabis,street_name,cannabis
+Jolly Green,cannabis,street_name,cannabis
+420,cannabis,street_name,cannabis
+A-Bomb,cannabis,street_name,cannabis
+Acapulco Gold,cannabis,street_name,cannabis
+Acapulco Red,cannabis,street_name,cannabis
+Ace,cannabis,street_name,cannabis
+African Black,cannabis,street_name,cannabis
+African Bush,cannabis,street_name,cannabis
+Airplane,cannabis,street_name,cannabis
+Alfalfa,cannabis,street_name,cannabis
+Alfombra,cannabis,street_name,cannabis
+Alice B Toklas,cannabis,street_name,cannabis
+All-Star,cannabis,street_name,cannabis
+Almohada,cannabis,street_name,cannabis
+Angola,cannabis,street_name,cannabis
+Animal Cookies,cannabis,street_name,cannabis
+Arizona,cannabis,street_name,cannabis
+Ashes,cannabis,street_name,cannabis
+Aunt Mary,cannabis,street_name,cannabis
+AZ,cannabis,street_name,cannabis
+Baby,cannabis,street_name,cannabis
+Bale,cannabis,street_name,cannabis
+Bambalachacha,cannabis,street_name,cannabis
+Barbara Jean,cannabis,street_name,cannabis
+Bareta,cannabis,street_name,cannabis
+Bash,cannabis,street_name,cannabis
+Bazooka,cannabis,street_name,cannabis
+BC Budd,cannabis,street_name,cannabis
+Bernie,cannabis,street_name,cannabis
+Bhang,cannabis,street_name,cannabis
+Big Pillows,cannabis,street_name,cannabis
+Biggy,cannabis,street_name,cannabis
+Bionic,cannabis,street_name,cannabis
+Black Bart,cannabis,street_name,cannabis
+Black Gold,cannabis,street_name,cannabis
+Black Maria,cannabis,street_name,cannabis
+Blondie,cannabis,street_name,cannabis
+Blue Cheese,cannabis,street_name,cannabis
+Blue Crush,cannabis,street_name,cannabis
+Blue Dream,cannabis,street_name,cannabis
+Blue Jeans,cannabis,street_name,cannabis
+Blue Sage,cannabis,street_name,cannabis
+Blueberry,cannabis,street_name,cannabis
+Bobo Bush,cannabis,street_name,cannabis
+Boo,cannabis,street_name,cannabis
+Boom,cannabis,street_name,cannabis
+Branches,cannabis,street_name,cannabis
+Broccoli,cannabis,street_name,cannabis
+Bud,cannabis,street_name,cannabis
+Budda,cannabis,street_name,cannabis
+Burritos Verdes,cannabis,street_name,cannabis
+Bush,cannabis,street_name,cannabis
+Cabbage,cannabis,street_name,cannabis
+CafÃ©,cannabis,street_name,cannabis
+Cajita,cannabis,street_name,cannabis
+Cali,cannabis,street_name,cannabis
+Camara,cannabis,street_name,cannabis
+Canadian Black,cannabis,street_name,cannabis
+Catnip,cannabis,street_name,cannabis
+Cheeba,cannabis,street_name,cannabis
+Chernobyl,cannabis,street_name,cannabis
+Cheese,cannabis,street_name,cannabis
+Chicago Black,cannabis,street_name,cannabis
+Chicago Green,cannabis,street_name,cannabis
+Chippie,cannabis,street_name,cannabis
+Chistosa,cannabis,street_name,cannabis
+Christmas Tree,cannabis,street_name,cannabis
+Chronic,cannabis,street_name,cannabis
+Churro,cannabis,street_name,cannabis
+Cigars,cannabis,street_name,cannabis
+Citrol,cannabis,street_name,cannabis
+Cola,cannabis,street_name,cannabis
+Colorado Cocktail,cannabis,street_name,cannabis
+Cookie,cannabis,street_name,cannabis
+Cotorritos,cannabis,street_name,cannabis
+Crazy Weed,cannabis,street_name,cannabis
+Creeper Bud,cannabis,street_name,cannabis
+Crippy,cannabis,street_name,cannabis
+Crying Weed,cannabis,street_name,cannabis
+Culican,cannabis,street_name,cannabis
+Dank,cannabis,street_name,cannabis
+Devil’s Lettuce,cannabis,street_name,cannabis
+marijuana concentrates/hash oil,marijuana concentrates/hash oil,generic_name,marijuana concentrates/hash oil
+Hash Oil,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Hash,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+710,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+BHNO,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+BHO,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Black Glass,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Bubble Hash,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Budder,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Butane Hash Oil,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Butane Honey Oil,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Caviar,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+CBD,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+CBD oil,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Crystalline,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Crumble,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Dabs,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Dipper,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Ear Wax,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Edibles,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+ENail,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Errl,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Extract,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Full Melt,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Glob,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Gorilla Glue,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Heady,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Honey Oil,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+IWE,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Ice Water Hash,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Klear,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Live Resin,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Moon Rocks,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Rosin,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Rosin Tech,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+SAP,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Sauce,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Shatter,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Solventless,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Terp Sauce,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+THCA,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+THCA Crystal,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+THCA Crystalline,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+THCA Powder,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Trichrome,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+Wax,marijuana concentrates/hash oil,street_name,marijuana concentrates/hash oil
+synthetic cannabinoids,synthetic cannabinoids,generic_name,synthetic cannabinoids
 Abyss,synthetic cannabinoids,street_name,synthetic cannabinoids
 Ace of Spades,synthetic cannabinoids,street_name,synthetic cannabinoids
 AK-47,synthetic cannabinoids,street_name,synthetic cannabinoids
@@ -1841,6 +1911,7 @@ Yucatan Fire,synthetic cannabinoids,street_name,synthetic cannabinoids
 Zero Gravity,synthetic cannabinoids,street_name,synthetic cannabinoids
 Zohai,synthetic cannabinoids,street_name,synthetic cannabinoids
 Zombie,synthetic cannabinoids,street_name,synthetic cannabinoids
+synthetic cathinones,synthetic cathinones,generic_name,synthetic cathinones
 Bath Blow,synthetic cathinones,street_name,synthetic cathinones
 Bath Salts,synthetic cathinones,street_name,synthetic cathinones
 Bliss,synthetic cathinones,street_name,synthetic cathinones
@@ -1849,6 +1920,7 @@ Blow,synthetic cathinones,street_name,synthetic cathinones
 Blue Silk,synthetic cathinones,street_name,synthetic cathinones
 Bubbles,synthetic cathinones,street_name,synthetic cathinones
 Cloud 9,synthetic cathinones,street_name,synthetic cathinones
+Cloud Nine,synthetic cathinones,street_name,synthetic cathinones
 Cosmic Beast,synthetic cathinones,street_name,synthetic cathinones
 Drone,synthetic cathinones,street_name,synthetic cathinones
 Energy-1,synthetic cathinones,street_name,synthetic cathinones
@@ -1877,17 +1949,29 @@ Vanilla Sky,synthetic cathinones,street_name,synthetic cathinones
 White Dove,synthetic cathinones,street_name,synthetic cathinones
 White Knight,synthetic cathinones,street_name,synthetic cathinones
 White Lightening,synthetic cathinones,street_name,synthetic cathinones
+White Lightning,synthetic cathinones,street_name,synthetic cathinones
 White Magic,synthetic cathinones,street_name,synthetic cathinones
 Wicked X,synthetic cathinones,street_name,synthetic cathinones
 Zoom,synthetic cathinones,street_name,synthetic cathinones
+codeine,codeine,generic_name,codeine
 Captain Cody,codeine,street_name,codeine
 Cody,codeine,street_name,codeine
 Schoolboy,codeine,street_name,codeine
 Doors & Fours,codeine,street_name,codeine
 Pancakes & Syrup,codeine,street_name,codeine
 Loads,codeine,street_name,codeine
-Demmies,Meperedine,street_name,Meperedine
-Pain Killer,Meperedine,street_name,Meperedine
+Little C,codeine,street_name,codeine
+Phenergan,codeine,brand_name,codeine with promethazine
+Act,codeine,street_name,codeine with promethazine
+Lean,codeine,street_name,codeine with promethazine
+Purple Drank,codeine,street_name,codeine with promethazine
+Sizzurp,codeine,street_name,codeine with promethazine
+Texas Tea,codeine,street_name,codeine with promethazine
+isonipecaine,meperidine,brand_name,meperidine;isonipecaine;pethidine
+pethidine,meperidine,brand_name,meperidine;isonipecaine;pethidine
+meperidine,meperidine,generic_name,meperidine;isonipecaine;pethidine
+Demmies,meperidine,street_name,meperidine;isonipecaine;pethidine
+Pain Killer,meperidine,street_name,meperidine;isonipecaine;pethidine
 Abstral,fentanyl,brand_name,fentanyl
 Actiq,fentanyl,brand_name,fentanyl
 Avinza,morphine,brand_name,morphine sulfate extended-release capsules
@@ -1899,6 +1983,13 @@ Duragesic,fentanyl,brand_name,fentanyl transdermal system
 Fentora,fentanyl,brand_name,fentanyl
 Hysingla,hydrocodone,brand_name,hydrocodone
 Methadose,methadone,brand_name,methadone
+Amidone,methadone,street_name,methadone
+Dollies,methadone,street_name,methadone
+Dolls,methadone,street_name,methadone
+Fizzies,methadone,street_name,methadone
+Mud,methadone,street_name,methadone
+Red Rock,methadone,street_name,methadone
+Tootisie Roll,methadone,street_name,methadone
 Morphabond,morphine,brand_name,morphine
 Nucynta ER,tapentadol,brand_name,tapentadol extended-release oral tablets
 Onsolis,fentanyl,brand_name,fentanyl
@@ -1923,8 +2014,15 @@ Lorcet Plus,hydrocodone,brand_name,hydrocodone containing acetaminophen
 Lortab,hydrocodone,brand_name,hydrocodone containing acetaminophen
 Maxidone,hydrocodone,brand_name,hydrocodone containing acetaminophen
 MS Contin,morphine,brand_name,morphine sulfate controlled-release tablets
+Duramorph,morphine,brand_name,morphine
 Norco,hydrocodone,brand_name,hydrocodone containing acetaminophen
 Opana ER,oxymorphone,brand_name,oxymorphone hydrochloride extended-release tablets
+Biscuits,oxymorphone,street_name,oxymorphone
+Blue Heaven,oxymorphone,street_name,oxymorphone
+Mrs. O,oxymorphone,street_name,oxymorphone
+O Bomb,oxymorphone,street_name,oxymorphone
+Octagons,oxymorphone,street_name,oxymorphone
+Stop Signs,oxymorphone,street_name,oxymorphone
 OxyContin,oxycodone,brand_name,oxycodone hydrochloride controlled-release tablets
 Oxycet,oxycodone,brand_name,oxycodone containing acetaminophen
 Palladone,hydromorphone,brand_name,hydromorphone hydrochloride extended-release capsules
@@ -1949,6 +2047,292 @@ Zolvit,hydrocodone,brand_name,hydrocodone containing acetaminophen
 Zutripro,hydrocodone,brand_name,hydrocodone containing chlorpheniramine and pseudoephedrine
 Zydone,hydrocodone,brand_name,hydrocodone containing acetaminophen
 Fentanyl,fentanyl,brand_name,fentanyl extended-release transdermal system
-Methadone hydrochloride,methadone,brand_name,methadone hydrochloride tablets;methadone hydrochloride oral solution
-Morphine sulfate,morphine,brand_name,morphine sulfate extended-release capsules;morphine sulfate extended-release tablets
-Oxymorphone hydrochloride,oxymorphone,brand_name,oxymorphone hydrochloride extended-release tablets
+Lysergic acid diethylamide,Lysergic acid diethylamide,generic_name,Lysergic acid diethylamide
+LSD,Lysergic acid diethylamide,street_name,Lysergic acid diethylamide
+Lucy,Lysergic acid diethylamide,street_name,Lysergic acid diethylamide
+Acid,Lysergic acid diethylamide,street_name,Lysergic acid diethylamide
+Blotter,Lysergic acid diethylamide,street_name,Lysergic acid diethylamide
+Dots,Lysergic acid diethylamide,street_name,Lysergic acid diethylamide
+Electric Kool Aid,Lysergic acid diethylamide,street_name,Lysergic acid diethylamide
+Lucy in the Sky with Diamonds,Lysergic acid diethylamide,street_name,Lysergic acid diethylamide
+Purple Haze,Lysergic acid diethylamide,street_name,Lysergic acid diethylamide
+Sugar Cubes,Lysergic acid diethylamide,street_name,Lysergic acid diethylamide
+Yellow Sunshine,Lysergic acid diethylamide,street_name,Lysergic acid diethylamide
+psilocybin,psilocybin,generic_name,psilocybin
+psilocin,psilocybin,brand_name,psilocybin
+mushrooms,psilocybin,street_name,psilocybin
+shrooms,psilocybin,street_name,psilocybin
+shroomies,psilocybin,street_name,psilocybin
+magic mushrooms,psilocybin,street_name,psilocybin
+Alice,psilocybin,street_name,psilocybin
+Boomers,psilocybin,street_name,psilocybin
+Caps,psilocybin,street_name,psilocybin
+Cow Patties,psilocybin,street_name,psilocybin
+Fungus,psilocybin,street_name,psilocybin
+Hongos,psilocybin,street_name,psilocybin
+Magic,psilocybin,street_name,psilocybin
+Mushies,psilocybin,street_name,psilocybin
+Pizza Toppings,psilocybin,street_name,psilocybin
+Tweezes,psilocybin,street_name,psilocybin
+lorazepam,lorazepam,generic_name,lorazepam
+Antivan,lorazepam,brand_name,lorazepam
+Candy,lorazepam,street_name,lorazepam
+Downers,lorazepam,street_name,lorazepam
+Sleeping Pills,lorazepam,street_name,lorazepam
+Tranks,lorazepam,street_name,lorazepam
+triazolam,triazolam,generic_name,triazolam
+Halcion,triazolam,brand_name,triazolam
+Candy,triazolam,street_name,triazolam
+Downers,triazolam,street_name,triazolam
+Sleeping Pills,triazolam,street_name,triazolam
+Tranks,triazolam,street_name,triazolam
+chlordiazepoxide,chlordiazepoxide,generic_name,chlordiazepoxide
+Librium,chlordiazepoxide,brand_name,chlordiazepoxide
+Candy,chlordiazepoxide,street_name,chlordiazepoxide
+Downers,chlordiazepoxide,street_name,chlordiazepoxide
+Sleeping Pills,chlordiazepoxide,street_name,chlordiazepoxide
+Tranks,chlordiazepoxide,street_name,chlordiazepoxide
+flunitrazepam,flunitrazepam,generic_name,flunitrazepam
+Rohypnol,flunitrazepam,brand_name,flunitrazepam
+Circles,flunitrazepam,street_name,flunitrazepam
+Date Rape Drug,flunitrazepam,street_name,flunitrazepam
+Forget-Me Pill,flunitrazepam,street_name,flunitrazepam
+La Rocha,flunitrazepam,street_name,flunitrazepam
+Lunch Money,flunitrazepam,street_name,flunitrazepam
+Mexican Valium,flunitrazepam,street_name,flunitrazepam
+Mind Eraser,flunitrazepam,street_name,flunitrazepam
+Roofies,flunitrazepam,street_name,flunitrazepam
+Wolfies,flunitrazepam,street_name,flunitrazepam
+diazepam,diazepam,generic_name,diazepam
+Valium,diazepam,brand_name,diazepam
+Eggs,diazepam,street_name,diazepam
+Jellies,diazepam,street_name,diazepam
+Moggies,diazepam,street_name,diazepam
+Vallies,diazepam,street_name,diazepam
+ayahuasca,ayahuasca,generic_name,ayahuasca
+Aya,ayahuasca,street_name,ayahuasca
+Hoasca,ayahuasca,street_name,ayahuasca
+Yage,ayahuasca,street_name,ayahuasca
+DMT,DMT,generic_name,DMT
+"N,N-dimethyltryptamine",DMT,brand_name,DMT
+The Spirit Molecule,DMT,street_name,DMT
+Dimitri,DMT,street_name,DMT
+GHB,GHB,generic_name,GHB
+Gamma-Hydroxybutyric,GHB,brand_name,GHB
+Date Rape Drug,GHB,street_name,GHB
+G,GHB,street_name,GHB
+Geeb,GHB,street_name,GHB
+Georgia Home Boy,GHB,street_name,GHB
+Gina,GHB,street_name,GHB
+Goop,GHB,street_name,GHB
+Grievous Bodily Harm,GHB,street_name,GHB
+Liquid E,GHB,street_name,GHB
+Liquid X,GHB,street_name,GHB
+Scoop,GHB,street_name,GHB
+Ketamine,Ketamine,generic_name,Ketamine
+Blind Squid,Ketamine,street_name,Ketamine
+Cat Valium,Ketamine,street_name,Ketamine
+Green,Ketamine,street_name,Ketamine
+Jet,Ketamine,street_name,Ketamine
+K,Ketamine,street_name,Ketamine
+K-Hold,Ketamine,street_name,Ketamine
+Kay,Ketamine,street_name,Ketamine
+Special K,Ketamine,street_name,Ketamine
+Super Acid,Ketamine,street_name,Ketamine
+Vitamin K,Ketamine,street_name,Ketamine
+Khat,Khat,generic_name,Khat
+Abyssinian Tea,Khat,street_name,Khat
+African Salad,Khat,street_name,Khat
+Catha,Khat,street_name,Khat
+Chat,Khat,street_name,Khat
+Kat,Khat,street_name,Khat
+Oat,Khat,street_name,Khat
+Qat,Khat,street_name,Khat
+Kratom,Kratom,generic_name,Kratom
+Biak-biak,Kratom,street_name,Kratom
+Herbal Speedball,Kratom,street_name,Kratom
+Ithang,Kratom,street_name,Kratom
+Kahyam,Kratom,street_name,Kratom
+Ketum,Kratom,street_name,Kratom
+Thom,Kratom,street_name,Kratom
+Mescaline,Mescaline,generic_name,Mescaline
+Big Chief,Mescaline,street_name,Mescaline
+Blue Caps,Mescaline,street_name,Mescaline
+Buttons,Mescaline,street_name,Mescaline
+Cactus,Mescaline,street_name,Mescaline
+Mescal,Mescaline,street_name,Mescaline
+Moon,Mescaline,street_name,Mescaline
+San Pedro,Mescaline,street_name,Mescaline
+Topi,Mescaline,street_name,Mescaline
+phencyclidine,PCP,brand_name,PCP
+PCP,PCP,generic_name,PCP
+Angel,PCP,street_name,PCP
+Angel Dust,PCP,street_name,PCP
+Butt Naked,PCP,street_name,PCP
+Dust,PCP,street_name,PCP
+Purple Rain,PCP,street_name,PCP
+Rocket Fuel,PCP,street_name,PCP
+Stardust,PCP,street_name,PCP
+Water,PCP,street_name,PCP
+Wet,PCP,street_name,PCP
+Yellow Fever,PCP,street_name,PCP
+Zombie,PCP,street_name,PCP
+Peyote,Peyote,generic_name,Peyote
+Black Button,Peyote,street_name,Peyote
+Cactus,Peyote,street_name,Peyote
+Green Button,Peyote,street_name,Peyote
+Half Moon,Peyote,street_name,Peyote
+Nubs,Peyote,street_name,Peyote
+Shaman,Peyote,street_name,Peyote
+Tops,Peyote,street_name,Peyote
+Salvia,Salvia,generic_name,Salvia
+Salvia divinorum,Salvia,brand_name,Salvia
+Diviner’s Sage,Salvia,street_name,Salvia
+Magic Mint,Salvia,street_name,Salvia
+Maria Pastora,Salvia,street_name,Salvia
+Sally-D,Salvia,street_name,Salvia
+Amyl Nitrate,Amyl Nitrate,generic_name,Amyl Nitrate
+Ames,Amyl Nitrate,street_name,Amyl Nitrate
+Amies,Amyl Nitrate,street_name,Amyl Nitrate
+Amys,Amyl Nitrate,street_name,Amyl Nitrate
+Pearls,Amyl Nitrate,street_name,Amyl Nitrate
+Poppers,Amyl Nitrate,street_name,Amyl Nitrate
+Isobutyl Nitrate,Isobutyl Nitrate,generic_name,Isobutyl Nitrate
+Aroma of Men,Isobutyl Nitrate,street_name,Isobutyl Nitrate
+Bolt,Isobutyl Nitrate,street_name,Isobutyl Nitrate
+Bullet,Isobutyl Nitrate,street_name,Isobutyl Nitrate
+Climax,Isobutyl Nitrate,street_name,Isobutyl Nitrate
+Hardware,Isobutyl Nitrate,street_name,Isobutyl Nitrate
+Locker Room,Isobutyl Nitrate,street_name,Isobutyl Nitrate
+Poppers,Isobutyl Nitrate,street_name,Isobutyl Nitrate
+Quicksilver,Isobutyl Nitrate,street_name,Isobutyl Nitrate
+Rush,Isobutyl Nitrate,street_name,Isobutyl Nitrate
+Snappers,Isobutyl Nitrate,street_name,Isobutyl Nitrate
+Thrust,Isobutyl Nitrate,street_name,Isobutyl Nitrate
+Nitrous Oxide,Nitrous Oxide,generic_name,Nitrous Oxide
+Buzz Bomb,Nitrous Oxide,street_name,Nitrous Oxide
+Hippie Crack,Nitrous Oxide,street_name,Nitrous Oxide
+Laughing Gas,Nitrous Oxide,street_name,Nitrous Oxide
+Whippets,Nitrous Oxide,street_name,Nitrous Oxide
+Propoxyphene,Propoxyphene,generic_name,Propoxyphene
+Darvocet,Propoxyphene,brand_name,Propoxyphene
+Darvon,Propoxyphene,brand_name,Propoxyphene
+Footballs,Propoxyphene,street_name,Propoxyphene
+N’s,Propoxyphene,street_name,Propoxyphene
+Pink Footballs,Propoxyphene,street_name,Propoxyphene
+Pinks,Propoxyphene,street_name,Propoxyphene
+Yellow Footballs,Propoxyphene,street_name,Propoxyphene
+65s,Propoxyphene,street_name,Propoxyphene
+Tramadol,Tramadol,generic_name,Tramadol
+Ultram,Tramadol,brand_name,Tramadol
+Chill Pills,Tramadol,street_name,Tramadol
+Trammies,Tramadol,street_name,Tramadol
+Ultras,Tramadol,street_name,Tramadol
+Dimenhydrinate,Dimenhydrinate,generic_name,Dimenhydrinate
+Dramamine,Dimenhydrinate,brand_name,Dimenhydrinate
+Dime,Dimenhydrinate,street_name,Dimenhydrinate
+Dime Tabs,Dimenhydrinate,street_name,Dimenhydrinate
+Substance D,Dimenhydrinate,street_name,Dimenhydrinate
+DXM,DXM,generic_name,DXM
+dextromethorphan,DXM,brand_name,DXM
+Dex,DXM,street_name,DXM
+Dextro,DXM,street_name,DXM
+Drix,DXM,street_name,DXM
+Poor Man’s Ecstasy,DXM,street_name,DXM
+Red Devils,DXM,street_name,DXM
+Robo,DXM,street_name,DXM
+Robotripping,DXM,street_name,DXM
+Triple C,DXM,street_name,DXM
+Tussin,DXM,street_name,DXM
+X,DXM,street_name,DXM
+Pseudoephedrine,Pseudoephedrine,generic_name,Pseudoephedrine
+Pseudoephedrine,Sudafed,brand_name,Pseudoephedrine
+Chalk,Pseudoephedrine,street_name,Pseudoephedrine
+Crank,Pseudoephedrine,street_name,Pseudoephedrine
+Meth,Pseudoephedrine,street_name,Pseudoephedrine
+Speed,Pseudoephedrine,street_name,Pseudoephedrine
+Zolpidem,Zolpidem,generic_name,Zolpidem
+Ambien,Zolpidem,brand_name,Zolpidem
+Date Rape Drug,Zolpidem,street_name,Zolpidem
+Forget-Me Pill,Zolpidem,street_name,Zolpidem
+Mexican Valium,Zolpidem,street_name,Zolpidem
+R2,Zolpidem,street_name,Zolpidem
+Roche,Zolpidem,street_name,Zolpidem
+Roofies,Zolpidem,street_name,Zolpidem
+Roofinol,Zolpidem,street_name,Zolpidem
+Rope,Zolpidem,street_name,Zolpidem
+Rophies,Zolpidem,street_name,Zolpidem
+Eszopiclone,Eszopiclone,generic_name,Eszopiclone
+Lunesta,Eszopiclone,brand_name,Eszopiclone
+Date Rape Drug,Eszopiclone,street_name,Eszopiclone
+Forget-Me Pill,Eszopiclone,street_name,Eszopiclone
+Mexican Valium,Eszopiclone,street_name,Eszopiclone
+R2,Eszopiclone,street_name,Eszopiclone
+Roche,Eszopiclone,street_name,Eszopiclone
+Roofies,Eszopiclone,street_name,Eszopiclone
+Roofinol,Eszopiclone,street_name,Eszopiclone
+Rope,Eszopiclone,street_name,Eszopiclone
+Rophies,Eszopiclone,street_name,Eszopiclone
+Sonata,Zaleplon,brand_name,Zaleplon
+Zaleplon,Zaleplon,generic_name,Zaleplon
+Date Rape Drug,Zaleplon,street_name,Zaleplon
+Forget-Me Pill,Zaleplon,street_name,Zaleplon
+Mexican Valium,Zaleplon,street_name,Zaleplon
+R2,Zaleplon,street_name,Zaleplon
+Roche,Zaleplon,street_name,Zaleplon
+Roofies,Zaleplon,street_name,Zaleplon
+Roofinol,Zaleplon,street_name,Zaleplon
+Rope,Zaleplon,street_name,Zaleplon
+Rophies,Zaleplon,street_name,Zaleplon
+Amobarbital,Amobarbital,generic_name,Amobarbital
+Amytal,Amobarbital,brand_name,Amobarbital
+Barbs,Amobarbital,street_name,Amobarbital
+Red Birds,Amobarbital,street_name,Amobarbital
+Reds,Amobarbital,street_name,Amobarbital
+Yellows,Amobarbital,street_name,Amobarbital
+Yellow Jackets,Amobarbital,street_name,Amobarbital
+Paroxetine,Paroxetine,generic_name,Paroxetine
+Paxil,Paroxetine,brand_name,Paroxetine
+Bottled Smiles,Paroxetine,street_name,Paroxetine
+Happy Pill,Paroxetine,street_name,Paroxetine
+Miracle Drug,Paroxetine,street_name,Paroxetine
+Wonder Drug,Paroxetine,street_name,Paroxetine
+Fluoxetine,Fluoxetine,generic_name,Fluoxetine
+Prozac,Fluoxetine,brand_name,Fluoxetine
+Bottled Smiles,Fluoxetine,street_name,Fluoxetine
+Happy Pill,Fluoxetine,street_name,Fluoxetine
+Miracle Drug,Fluoxetine,street_name,Fluoxetine
+Wonder Drug,Fluoxetine,street_name,Fluoxetine
+Sertraline,Sertraline,generic_name,Sertraline
+Zoloft,Sertraline,brand_name,Sertraline
+Bottled Smiles,Sertraline,street_name,Sertraline
+Happy Pill,Sertraline,street_name,Sertraline
+Miracle Drug,Sertraline,street_name,Sertraline
+Wonder Drug,Sertraline,street_name,Sertraline
+phentermine,phentermine,generic_name,phentermine
+Ionamin,phentermine,brand_name,phentermine
+Adipex,phentermine,brand_name,phentermine
+Crank,phentermine,street_name,phentermine
+Fastin,phentermine,street_name,phentermine
+Fen-Phen,phentermine,street_name,phentermine
+Speed,phentermine,street_name,phentermine
+nandrolone,nandrolone,generic_name,nandrolone
+testosterone,testosterone,generic_name,testosterone
+Arnolds,nandrolone,street_name,nandrolone
+Gym Candy,nandrolone,street_name,nandrolone
+Juice,nandrolone,street_name,nandrolone
+Muscle Builders,nandrolone,street_name,nandrolone
+Pumpers,nandrolone,street_name,nandrolone
+Roids,nandrolone,street_name,nandrolone
+Stackers,nandrolone,street_name,nandrolone
+Weight Gainers,nandrolone,street_name,nandrolone
+Steroids,nandrolone,street_name,nandrolone
+Arnolds,testosterone,street_name,testosterone
+Gym Candy,testosterone,street_name,testosterone
+Juice,testosterone,street_name,testosterone
+Muscle Builders,testosterone,street_name,testosterone
+Pumpers,testosterone,street_name,testosterone
+Roids,testosterone,street_name,testosterone
+Stackers,testosterone,street_name,testosterone
+Weight Gainers,testosterone,street_name,testosterone
+Steroids,testosterone,street_name,testosterone

@@ -8,7 +8,9 @@ UC San Diego
 DSE203: Data Integration and ETL
 
 ## Key Concepts
-
+- Entity Matching
+- Graph Databases
+- Data Integration
 
 ## Collaborators
 Ivan Ulloa (iulloaga@eng.ucsd.edu)

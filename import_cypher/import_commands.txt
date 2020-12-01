@@ -1,0 +1,28 @@
+// imported data is on this drive: https://drive.google.com/drive/folders/1n_ZC9UoNQ4eOtR9tJw1NJ_-MFZK4wkSV
+
+// for each csv file:
+// 1) save as sheeet
+// 2) change permissions to be available for anyone
+// 3) File -> Publish to the web -> SELECT Comma-separated values (.csv) -> get link
+
+
+MATCH (n)
+DETACH DELETE n;
+
+// create id constraint to avoid duplicate drug names
+CREATE CONSTRAINT ON (names:Name) ASSERT names.id IS UNIQUE;
+
+
+// load drug names, create COMMON_AS relation, and create generic name node
+LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vRsWddhEBFce--vWvIEFoikq9NL50zE0S9sncMFEobjYyK46bzj4uoztsxcg8ZEhlVkeDvxYnUVx7G5/pub?output=csv" AS csvLine
+
+MERGE (generic:Generic {name: csvLine.FULL_GENERIC_NAME, category: csvLine.CATEGORY, VA_category: csvLine.VA_CATEGORY, FDA_schedule: csvLine.FDA_SCHEDULE, VA_class: csvLine.VA_CLASS})
+
+CREATE (names:Name {id: toInteger(csvLine.id), name: csvLine.NAME, name_type: csvLine.NAME_TYPE})
+
+CREATE (names)-[:COMMON_AS]->(generic);
+
+
+
+DROP CONSTRAINT ON (names:Name) ASSERT names.id IS UNIQUE;
+

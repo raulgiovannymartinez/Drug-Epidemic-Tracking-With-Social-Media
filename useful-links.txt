@@ -1,6 +1,0 @@
-Importing CSV file to Neo4J:
-https://neo4j.com/developer/guide-import-csv/
-
-What is a knowledge graph and how it works?
-https://thenextweb.com/podium/2019/06/11/what-is-a-knowledge-graph-and-how-does-one-work/
-

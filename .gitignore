@@ -1,4 +1,7 @@
+# data files larger than 50MB
 data/usnewspaper-Jun-Aug.csv
 data/usnewspaper-Jun-Aug_cleaned.csv
 data/usnewspaper-Jun-Aug_en_cleaned.xlsx
 data/usnewspaper-Jun-Aug_en_cleaned_relevantNews.csv
+
+# end

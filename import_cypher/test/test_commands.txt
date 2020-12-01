@@ -1,0 +1,41 @@
+
+MATCH (n)
+DETACH DELETE n;
+
+
+CREATE CONSTRAINT ON (person:Person) ASSERT person.id IS UNIQUE;
+
+
+CREATE CONSTRAINT ON (movie:Movie) ASSERT movie.id IS UNIQUE;
+
+
+//CREATE INDEX FOR (c:Country) ON (c.name);
+
+
+LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vSDQwq7yW78dFOhPpQHU2ta4sQnathhtyM7OVUsFb_RywOTL0iLlgAOB15F_JuZojk4J33b2c2bM5lk/pub?output=csv" AS csvLine CREATE (p:Person {id: toInteger(csvLine.id), name: csvLine.name});
+
+
+LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vRuW0w0Piliwjtc_BqYYdSW7M5WgybIqt5XqRxO6X_Ow72GN3jhsMOLcERqdiomqgDcr1PV3YOka3To/pub?output=csv" AS csvLine
+MERGE (country:Country {name: csvLine.country})
+CREATE (movie:Movie {id: toInteger(csvLine.id), title: csvLine.title, year:toInteger(csvLine.year)})
+CREATE (movie)-[:MADE_IN]->(country);
+
+
+
+//USING PERIODIC COMMIT 500
+LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vTHBY4RZoQj8Sgh35wMjvjG39JRFPu4SvugiE5YfJjpg1tNIVcME6b6qrIPdMLRNcqHd8gNFD5T8HF0/pub?output=csv" AS csvLine
+MATCH (person:Person {id: toInteger(csvLine.personId)}),(movie:Movie {id: toInteger(csvLine.movieId)})
+CREATE (person)-[:PLAYED {role: csvLine.role}]->(movie);
+
+
+//DROP CONSTRAINT personIdConstraint
+
+//DROP CONSTRAINT movieIdConstraint
+
+DROP CONSTRAINT ON (person:Person) ASSERT person.id IS UNIQUE;
+
+DROP CONSTRAINT ON (movie:Movie) ASSERT movie.id IS UNIQUE;
+
+
+
+

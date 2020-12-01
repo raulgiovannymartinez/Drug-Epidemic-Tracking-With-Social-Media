@@ -1,0 +1,27 @@
+Opioid related problems
+- Problems: Social media, CDC
+
+Goal: With information aboout drugs, drug supliers, family problems -> construct knowledge graph.
+
+- 3 Kinds of data we would like to intregate. I believe this was Reddit, News, and online data about drugs like CDC etc.
+- Expect to conduct knowledge graphs
+- The nodes will be the drugs, kinds of drugs, treatments. (as examples)
+
+Example:
+Arrest is an event, asociated with location, with kind of drug. 
+What we are expecting to see: Timeview of the events. 
+Say windows of 1 week, we may see different relationships.
+
+- Suplementary data, lists of drgus.
+- Check calissifiction of drugs, (CDC) maybe.
+
+
+1) Go to reddit get an API. Search for r/drugs captura posts. Maybe capture 2 months of data. Break into weeks of data.
+2) Once we choose the 8 weeks the professor will supply us with the news articles. Profssor will supply the lists and 2 news sets.
+3) To show that the knoewledge graph is useful we would do some queries.
+4) Do some graph analysis
+
+Check out:
+Network X python library. This can convert pandas df to graph.
+
+

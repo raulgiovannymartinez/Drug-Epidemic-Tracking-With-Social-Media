@@ -1,0 +1,56 @@
+
+Diagram (see link): https://drive.google.com/file/d/1QyDS4FiBxA-07TtbSd-tquU9aBILNDet/view?usp=sharing
+
+
+Below is the proposal CSV files for generating both nodes and relationships:
+
+
+Data Tables
+---> usnews.csv
+- id (int)
+- src_name (string, NODE NAME)
+- publishdate (string, YYYY-MM-DD)
+- title (string)
+- src (string)
+
+
+---> reddit.csv
+- id (int)
+- author (string, NODE NAME)
+- created (string, convert from UTC to date YYYY-MM-DD)
+- title (string)
+- link_flair_css_class (string)
+- num_comments (int)
+- score (float)
+- upvote_ratio (float)
+
+
+---> drug_names.csv
+- id (int)
+- name (string, NODE NAME)
+- name_type (string, either 'street_name', 'brand_name', or 'generic_name')
+- full_generic_name (string, NODE NAME)
+- category (string)
+- va_category (string)
+- fda_schedule (string)
+
+
+
+Relationships Tables
+---> usnews_relations.csv (-RELATED_TO->)
+- id_usnews
+- id_names
+- matches (string list, format ['Red', 'Blue']) # optional, if we do token overlap
+
+
+--> reddit_relations.csv (-RELATED_TO->)
+- id_reddit
+- id_names
+- matches (string list, format ['Red', 'Blue']) # optional, if we do token overlap
+
+
+
+Notes:
+- Neo4j does not support datetime format, we will use string with format YYYY-MM-DD
+- the matches column in the relation tables is optional, we can display them to show relevance
+- <-COMMON_AS- relations will be generated with the table drug_names.csv between columns 'name' and 'full_generic_name'

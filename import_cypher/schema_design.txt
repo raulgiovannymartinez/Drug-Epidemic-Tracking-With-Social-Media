@@ -19,10 +19,11 @@ Data Tables
 - author (string, NODE NAME)
 - created (string, convert from UTC to date YYYY-MM-DD)
 - title (string)
-- link_flair_css_class (string)
+- link_flair_text (string)
 - num_comments (int)
 - score (float)
 - upvote_ratio (float)
+- reddit_id (string)
 
 
 ---> drug_names.csv
@@ -31,7 +32,6 @@ Data Tables
 - name_type (string, either 'street_name', 'brand_name', or 'generic_name')
 - full_generic_name (string, NODE NAME)
 - category (string)
-- va_category (string)
 - fda_schedule (string)
 
 

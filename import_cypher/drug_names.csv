@@ -57,10 +57,10 @@ id,name,name_type,full_generic_name,category,fda_schedule
 55,diacetylmorphine,brand_name,heroin,painkiller,schedule i
 56,meprodine,generic_name,meprodine,analogue,schedule i
 57,diamorphone,brand_name,heroin,painkiller,schedule i
-58,metazocine,generic_name,metazocine,,schedule ii
+58,metazocine,generic_name,metazocine,unknown,schedule ii
 59,abajo,street_name,heroin,painkiller,schedule i
 60,a-bomb,street_name,heroin,painkiller,schedule i
-61,phenomorphan,generic_name,phenomorphan,,schedule i
+61,phenomorphan,generic_name,phenomorphan,unknown,schedule i
 62,achivia,street_name,heroin,painkiller,schedule i
 63,adormidera,street_name,heroin,painkiller,schedule i
 64,amarilla,street_name,heroin,painkiller,schedule i
@@ -87,7 +87,7 @@ id,name,name_type,full_generic_name,category,fda_schedule
 85,birria blanca,street_name,heroin,painkiller,schedule i
 86,methyltestosterone,generic_name,methyltestosterone,steroid,schedule iii
 87,black bitch,street_name,heroin,painkiller,schedule i
-88,carisoprodol,generic_name,carisoprodol,,schedule iv
+88,carisoprodol,generic_name,carisoprodol,unknown,schedule iv
 89,black goat,street_name,heroin,painkiller,schedule i
 90,black olives,street_name,heroin,painkiller,schedule i
 91,black paint,street_name,heroin,painkiller,schedule i
@@ -125,14 +125,14 @@ id,name,name_type,full_generic_name,category,fda_schedule
 123,chapopote,street_name,heroin,painkiller,schedule i
 124,charlie horse,street_name,heroin,painkiller,schedule i
 125,chavo,street_name,heroin,painkiller,schedule i
-126,benzylmorphine,generic_name,benzylmorphine,,schedule i
+126,benzylmorphine,generic_name,benzylmorphine,unknown,schedule i
 127,cheese,street_name,heroin,painkiller,schedule i
 128,chicle,street_name,heroin,painkiller,schedule i
 129,chiclosa,street_name,heroin,painkiller,schedule i
 130,desomorphine,generic_name,desomorphine,derivative,schedule i
 131,china blanca,street_name,heroin,painkiller,schedule i
 132,china cat,street_name,heroin,painkiller,schedule i
-133,dihydroetorphine,generic_name,dihydroetorphine,,schedule ii
+133,dihydroetorphine,generic_name,dihydroetorphine,unknown,schedule ii
 134,china white,street_name,heroin,painkiller,schedule i
 135,chinese buffet,street_name,heroin,painkiller,schedule i
 136,chinese food,street_name,heroin,painkiller,schedule i
@@ -200,7 +200,7 @@ id,name,name_type,full_generic_name,category,fda_schedule
 198,good and plenty,street_name,heroin,painkiller,schedule i
 199,good h,street_name,heroin,painkiller,schedule i
 200,goofball,street_name,heroin,painkiller,schedule i
-201,3-monoacetylmorphine,generic_name,3-monoacetylmorphine,,schedule i
+201,3-monoacetylmorphine,generic_name,3-monoacetylmorphine,unknown,schedule i
 202,goma,street_name,heroin,painkiller,schedule i
 203,gorda,street_name,heroin,painkiller,schedule i
 204,gras,street_name,heroin,painkiller,schedule i
@@ -222,7 +222,7 @@ id,name,name_type,full_generic_name,category,fda_schedule
 220,helicopter,street_name,heroin,painkiller,schedule i
 221,hell dust,street_name,heroin,painkiller,schedule i
 222,hercules,street_name,heroin,painkiller,schedule i
-223,"3,4-methylenedioxyamphetamine",generic_name,"3,4-methylenedioxyamphetamine",,schedule i
+223,"3,4-methylenedioxyamphetamine",generic_name,"3,4-methylenedioxyamphetamine",unknown,schedule i
 224,adderall,generic_name,adderall,drug,schedule ii
 225,hombre,street_name,heroin,painkiller,schedule i
 226,hot dope,street_name,heroin,painkiller,schedule i
@@ -248,7 +248,7 @@ id,name,name_type,full_generic_name,category,fda_schedule
 246,mazpan,street_name,heroin,painkiller,schedule i
 247,indiplon,generic_name,indiplon,nonbenzodiazepine,schedule iv
 248,menthol,street_name,heroin,painkiller,schedule i
-249,ketobemidone,generic_name,ketobemidone,,schedule i
+249,ketobemidone,generic_name,ketobemidone,unknown,schedule i
 250,mexican black tar heroin,street_name,heroin,painkiller,schedule i
 251,mexican brown,street_name,heroin,painkiller,schedule i
 252,mexican food,street_name,heroin,painkiller,schedule i
@@ -258,23 +258,23 @@ id,name,name_type,full_generic_name,category,fda_schedule
 256,mexican tar,street_name,heroin,painkiller,schedule i
 257,mexican treat,street_name,heroin,painkiller,schedule i
 258,modelo negra,street_name,heroin,painkiller,schedule i
-259,bezitramide,generic_name,bezitramide,,schedule ii
+259,bezitramide,generic_name,bezitramide,unknown,schedule ii
 260,mojo,street_name,heroin,painkiller,schedule i
 261,mole,street_name,heroin,painkiller,schedule i
 262,mongega,street_name,heroin,painkiller,schedule i
 263,morena,street_name,heroin,painkiller,schedule i
 264,morenita,street_name,heroin,painkiller,schedule i
 265,mortal combat,street_name,heroin,painkiller,schedule i
-266,piritramide,generic_name,piritramide,,schedule i
+266,piritramide,generic_name,piritramide,unknown,schedule i
 267,mujer,street_name,heroin,painkiller,schedule i
 268,murcielago,street_name,heroin,painkiller,schedule i
-269,flutemazepam,generic_name,flutemazepam,,schedule iv
+269,flutemazepam,generic_name,flutemazepam,unknown,schedule iv
 270,muzzle,street_name,heroin,painkiller,schedule i
-271,methyldesorphine,generic_name,methyldesorphine,,schedule i
+271,methyldesorphine,generic_name,methyldesorphine,unknown,schedule i
 272,nanoo,street_name,heroin,painkiller,schedule i
 273,methyldihydromorphine,generic_name,methyldihydromorphine,opioid,schedule i
 274,negra,street_name,heroin,painkiller,schedule i
-275,pentamorphone,generic_name,pentamorphone,,schedule i
+275,pentamorphone,generic_name,pentamorphone,unknown,schedule i
 276,negra tomasa,street_name,heroin,painkiller,schedule i
 277,negrita,street_name,heroin,painkiller,schedule i
 278,nice and easy,street_name,heroin,painkiller,schedule i
@@ -288,7 +288,7 @@ id,name,name_type,full_generic_name,category,fda_schedule
 286,plata,street_name,heroin,painkiller,schedule i
 287,poison,street_name,heroin,painkiller,schedule i
 288,polvo,street_name,heroin,painkiller,schedule i
-289,gamma-hydroxybutyric acid,generic_name,gamma-hydroxybutyric acid,,schedule i
+289,gamma-hydroxybutyric acid,generic_name,gamma-hydroxybutyric acid,unknown,schedule i
 290,polvo de alegria,street_name,heroin,painkiller,schedule i
 291,hashish,generic_name,hashish,product,schedule i
 292,polvo de estrellas,street_name,heroin,painkiller,schedule i
@@ -920,12 +920,12 @@ id,name,name_type,full_generic_name,category,fda_schedule
 918,fludiazepam,generic_name,fludiazepam,"anesthetics,mucosal",schedule iv
 919,bazooka,street_name,cocaine,"anesthetics,mucosal",schedule ii
 920,gidazepam,generic_name,gidazepam,"anesthetics,mucosal",schedule iv
-921,bazulco,street_name,cocaine,,schedule i
+921,bazulco,street_name,cocaine,unknown,schedule i
 922,halazepam,generic_name,halazepam,"anesthetics,mucosal",schedule iv
 923,belushi,street_name,cocaine,"anesthetics,mucosal",schedule ii
 924,bernice,street_name,cocaine,"anesthetics,mucosal",schedule ii
 925,ketazolam,generic_name,ketazolam,"anesthetics,mucosal",schedule iv
-926,bernie,street_name,cocaine,,schedule i
+926,bernie,street_name,cocaine,unknown,schedule i
 927,bernie’s flakes,street_name,cocaine,"anesthetics,mucosal",schedule ii
 928,bernie’s gold dust,street_name,cocaine,"anesthetics,mucosal",schedule ii
 929,big bird,street_name,cocaine,"anesthetics,mucosal",schedule ii
@@ -1122,63 +1122,63 @@ id,name,name_type,full_generic_name,category,fda_schedule
 1120,crc,street_name,crack cocaine,"anesthetics,mucosal",schedule ii
 1121,crib,street_name,crack cocaine,"anesthetics,mucosal",schedule ii
 1122,crunch and munch,street_name,crack cocaine,"anesthetics,mucosal",schedule ii
-1123,ecstasy/mdma,generic_name,ecstasy/mdma,,schedule i
-1124,ecstasy,street_name,ecstasy/mdma,,schedule i
-1125,mdma,street_name,ecstasy/mdma,,schedule i
-1126,molly,street_name,ecstasy/mdma,,schedule i
-1127,baby slits,street_name,ecstasy/mdma,,schedule i
-1128,beans,street_name,ecstasy/mdma,,schedule i
-1129,blue kisses,street_name,ecstasy/mdma,,schedule i
-1130,blue superman,street_name,ecstasy/mdma,,schedule i
-1131,booty juice,street_name,ecstasy/mdma,,schedule i
-1132,chocolate chips,street_name,ecstasy/mdma,,schedule i
-1133,dancing shoes,street_name,ecstasy/mdma,,schedule i
-1134,decadence,street_name,ecstasy/mdma,,schedule i
-1135,disco biscuits,street_name,ecstasy/mdma,,schedule i
-1136,domex,street_name,ecstasy/mdma,,schedule i
-1137,e-bomb,street_name,ecstasy/mdma,,schedule i
-1138,egg rolls,street_name,ecstasy/mdma,,schedule i
-1139,goog,street_name,ecstasy/mdma,,schedule i
-1140,green apple,street_name,ecstasy/mdma,,schedule i
-1141,happy pill,street_name,ecstasy/mdma,,schedule i
+1123,ecstasy/mdma,generic_name,ecstasy/mdma,unknown,schedule i
+1124,ecstasy,street_name,ecstasy/mdma,unknown,schedule i
+1125,mdma,street_name,ecstasy/mdma,unknown,schedule i
+1126,molly,street_name,ecstasy/mdma,unknown,schedule i
+1127,baby slits,street_name,ecstasy/mdma,unknown,schedule i
+1128,beans,street_name,ecstasy/mdma,unknown,schedule i
+1129,blue kisses,street_name,ecstasy/mdma,unknown,schedule i
+1130,blue superman,street_name,ecstasy/mdma,unknown,schedule i
+1131,booty juice,street_name,ecstasy/mdma,unknown,schedule i
+1132,chocolate chips,street_name,ecstasy/mdma,unknown,schedule i
+1133,dancing shoes,street_name,ecstasy/mdma,unknown,schedule i
+1134,decadence,street_name,ecstasy/mdma,unknown,schedule i
+1135,disco biscuits,street_name,ecstasy/mdma,unknown,schedule i
+1136,domex,street_name,ecstasy/mdma,unknown,schedule i
+1137,e-bomb,street_name,ecstasy/mdma,unknown,schedule i
+1138,egg rolls,street_name,ecstasy/mdma,unknown,schedule i
+1139,goog,street_name,ecstasy/mdma,unknown,schedule i
+1140,green apple,street_name,ecstasy/mdma,unknown,schedule i
+1141,happy pill,street_name,ecstasy/mdma,unknown,schedule i
 1142,clobazam,generic_name,clobazam,benzodiazepine,schedule iv
-1143,hug,street_name,ecstasy/mdma,,schedule i
-1144,hug drug,street_name,ecstasy/mdma,,schedule i
-1145,kleenex,street_name,ecstasy/mdma,,schedule i
-1146,love doctor,street_name,ecstasy/mdma,,schedule i
-1147,love drug,street_name,ecstasy/mdma,,schedule i
-1148,love flip,street_name,ecstasy/mdma,,schedule i
-1149,love potion #9,street_name,ecstasy/mdma,,schedule i
-1150,love trip,street_name,ecstasy/mdma,,schedule i
-1151,lover’s speed,street_name,ecstasy/mdma,,schedule i
-1152,malcolm x,street_name,ecstasy/mdma,,schedule i
-1153,moon rock,street_name,ecstasy/mdma,,schedule i
-1154,ibogaine,generic_name,ibogaine,,schedule i
-1155,pingaz,street_name,ecstasy/mdma,,schedule i
-1156,pingers,street_name,ecstasy/mdma,,schedule i
-1157,rolls,street_name,ecstasy/mdma,,schedule i
-1158,scooby snacks,street_name,ecstasy/mdma,,schedule i
-1159,skittle,street_name,ecstasy/mdma,,schedule i
+1143,hug,street_name,ecstasy/mdma,unknown,schedule i
+1144,hug drug,street_name,ecstasy/mdma,unknown,schedule i
+1145,kleenex,street_name,ecstasy/mdma,unknown,schedule i
+1146,love doctor,street_name,ecstasy/mdma,unknown,schedule i
+1147,love drug,street_name,ecstasy/mdma,unknown,schedule i
+1148,love flip,street_name,ecstasy/mdma,unknown,schedule i
+1149,love potion #9,street_name,ecstasy/mdma,unknown,schedule i
+1150,love trip,street_name,ecstasy/mdma,unknown,schedule i
+1151,lover’s speed,street_name,ecstasy/mdma,unknown,schedule i
+1152,malcolm x,street_name,ecstasy/mdma,unknown,schedule i
+1153,moon rock,street_name,ecstasy/mdma,unknown,schedule i
+1154,ibogaine,generic_name,ibogaine,unknown,schedule i
+1155,pingaz,street_name,ecstasy/mdma,unknown,schedule i
+1156,pingers,street_name,ecstasy/mdma,unknown,schedule i
+1157,rolls,street_name,ecstasy/mdma,unknown,schedule i
+1158,scooby snacks,street_name,ecstasy/mdma,unknown,schedule i
+1159,skittle,street_name,ecstasy/mdma,unknown,schedule i
 1160,pemoline,generic_name,pemoline,drug,schedule iv
-1161,smacks,street_name,ecstasy/mdma,,schedule i
-1162,slits,street_name,ecstasy/mdma,,schedule i
+1161,smacks,street_name,ecstasy/mdma,unknown,schedule i
+1162,slits,street_name,ecstasy/mdma,unknown,schedule i
 1163,phendimetrazine,generic_name,phendimetrazine,drug,schedule iii
-1164,smarties,street_name,ecstasy/mdma,,schedule i
-1165,speed for lovers,street_name,ecstasy/mdma,,schedule i
-1166,sweets,street_name,ecstasy/mdma,,schedule i
+1164,smarties,street_name,ecstasy/mdma,unknown,schedule i
+1165,speed for lovers,street_name,ecstasy/mdma,unknown,schedule i
+1166,sweets,street_name,ecstasy/mdma,unknown,schedule i
 1167,talbutal,generic_name,talbutal,barbiturate,schedule iii
-1168,tacha,street_name,ecstasy/mdma,,schedule i
-1169,thizz,street_name,ecstasy/mdma,,schedule i
-1170,triple stacks,street_name,ecstasy/mdma,,schedule i
-1171,uppers,street_name,ecstasy/mdma,,schedule i
-1172,vitamin e,street_name,ecstasy/mdma,,schedule i
-1173,vitamin x,street_name,ecstasy/mdma,,schedule i
-1174,vowels,street_name,ecstasy/mdma,,schedule i
-1175,white mercedes,street_name,ecstasy/mdma,,schedule i
+1168,tacha,street_name,ecstasy/mdma,unknown,schedule i
+1169,thizz,street_name,ecstasy/mdma,unknown,schedule i
+1170,triple stacks,street_name,ecstasy/mdma,unknown,schedule i
+1171,uppers,street_name,ecstasy/mdma,unknown,schedule i
+1172,vitamin e,street_name,ecstasy/mdma,unknown,schedule i
+1173,vitamin x,street_name,ecstasy/mdma,unknown,schedule i
+1174,vowels,street_name,ecstasy/mdma,unknown,schedule i
+1175,white mercedes,street_name,ecstasy/mdma,unknown,schedule i
 1176,butabarbital,generic_name,butabarbital,aid,schedule iii
-1177,xtc,street_name,ecstasy/mdma,,schedule i
+1177,xtc,street_name,ecstasy/mdma,unknown,schedule i
 1178,butalbital,generic_name,butalbital,barbiturate,schedule iii
-1179,yokes,street_name,ecstasy/mdma,,schedule i
+1179,yokes,street_name,ecstasy/mdma,unknown,schedule i
 1180,butylone,generic_name,butylone,entactogen,schedule i
 1181,hydrocodone,generic_name,hydrocodone,opioid-containing antitussives/expectorants,schedule ii
 1182,norco,brand_name,hydrocodone,opioid-containing antitussives/expectorants,schedule ii
@@ -1501,519 +1501,519 @@ id,name,name_type,full_generic_name,category,fda_schedule
 1499,roxy,street_name,oxycodone,opioid analgesics,schedule ii
 1500,roxy shorts,street_name,oxycodone,opioid analgesics,schedule ii
 1501,oxycat,street_name,oxycodone,opioid analgesics,schedule ii
-1502,u-47700,generic_name,u-47700,,
-1503,pink heroin,street_name,u-47700,,
-1504,pinky,street_name,u-47700,,
-1505,u4,street_name,u-47700,,
-1506,cannabis,generic_name,cannabis,,schedule i
-1507,marijuana,street_name,cannabis,,schedule i
-1508,peliroja,street_name,cannabis,,schedule i
-1509,pelosa,street_name,cannabis,,schedule i
-1510,phoenix,street_name,cannabis,,schedule i
-1511,pine,street_name,cannabis,,schedule i
-1512,pink panther,street_name,cannabis,,schedule i
-1513,pintura,street_name,cannabis,,schedule i
-1514,platinum cookies,street_name,cannabis,,schedule i
-1515,platinum jack,street_name,cannabis,,schedule i
-1516,pocket rocket,street_name,cannabis,,schedule i
-1517,popcorn,street_name,cannabis,,schedule i
-1518,porro,street_name,cannabis,,schedule i
-1519,pretendo,street_name,cannabis,,schedule i
-1520,prop 215,street_name,cannabis,,schedule i
-1521,puff,street_name,cannabis,,schedule i
-1522,purple haze,street_name,cannabis,,schedule i
-1523,purple og,street_name,cannabis,,schedule i
-1524,queen anns lace,street_name,cannabis,,schedule i
-1525,red hair,street_name,cannabis,,schedule i
-1526,ragweed,street_name,cannabis,,schedule i
-1527,railroad weed,street_name,cannabis,,schedule i
-1528,rainy day woman,street_name,cannabis,,schedule i
-1529,rasta weed,street_name,cannabis,,schedule i
-1530,red cross,street_name,cannabis,,schedule i
-1531,red dirt,street_name,cannabis,,schedule i
-1532,reefer,street_name,cannabis,,schedule i
-1533,reggie,street_name,cannabis,,schedule i
-1534,repollo,street_name,cannabis,,schedule i
-1535,righteous bush,street_name,cannabis,,schedule i
-1536,rosa maria,street_name,cannabis,,schedule i
-1537,salt and pepper,street_name,cannabis,,schedule i
-1538,santa marta,street_name,cannabis,,schedule i
-1539,sasafras,street_name,cannabis,,schedule i
-1540,sativa,street_name,cannabis,,schedule i
-1541,sinsemilla,street_name,cannabis,,schedule i
-1542,shmagma,street_name,cannabis,,schedule i
-1543,shora,street_name,cannabis,,schedule i
-1544,shrimp,street_name,cannabis,,schedule i
-1545,shwag,street_name,cannabis,,schedule i
-1546,skunk,street_name,cannabis,,schedule i
-1547,skywalker,street_name,cannabis,,schedule i
-1548,smoochy woochy poochy,street_name,cannabis,,schedule i
-1549,smoke canada,street_name,cannabis,,schedule i
-1550,sour og,street_name,cannabis,,schedule i
-1551,spliff,street_name,cannabis,,schedule i
-1552,sticky,street_name,cannabis,,schedule i
-1553,stink weed,street_name,cannabis,,schedule i
-1554,sugar weed,street_name,cannabis,,schedule i
-1555,sweet lucy,street_name,cannabis,,schedule i
-1556,tahoe,street_name,cannabis,,schedule i
-1557,tangy og,street_name,cannabis,,schedule i
-1558,terp,street_name,cannabis,,schedule i
-1559,terpenes,street_name,cannabis,,schedule i
-1560,tex-mex,street_name,cannabis,,schedule i
-1561,texas tea,street_name,cannabis,,schedule i
-1562,tigitty,street_name,cannabis,,schedule i
-1563,tila,street_name,cannabis,,schedule i
-1564,tims,street_name,cannabis,,schedule i
-1565,top shelf,street_name,cannabis,,schedule i
-1566,tosca,street_name,cannabis,,schedule i
-1567,train wreck,street_name,cannabis,,schedule i
-1568,trinity og,street_name,cannabis,,schedule i
-1569,tweeds,street_name,cannabis,,schedule i
-1570,valle,street_name,cannabis,,schedule i
-1571,wake and bake,street_name,cannabis,,schedule i
-1572,weed,street_name,cannabis,,schedule i
-1573,weed tea,street_name,cannabis,,schedule i
-1574,wheat,street_name,cannabis,,schedule i
-1575,white-haired lady,street_name,cannabis,,schedule i
-1576,wooz,street_name,cannabis,,schedule i
-1577,yellow submarine,street_name,cannabis,,schedule i
-1578,yen pop,street_name,cannabis,,schedule i
-1579,yerba,street_name,cannabis,,schedule i
-1580,yesca,street_name,cannabis,,schedule i
-1581,young girls,street_name,cannabis,,schedule i
-1582,zacate,street_name,cannabis,,schedule i
-1583,zacatecas,street_name,cannabis,,schedule i
-1584,zambi,street_name,cannabis,,schedule i
-1585,zip,street_name,cannabis,,schedule i
-1586,zoom,street_name,cannabis,,schedule i
-1587,jon-jem,street_name,cannabis,,schedule i
-1588,joy smoke,street_name,cannabis,,schedule i
-1589,juan valdez,street_name,cannabis,,schedule i
-1590,jungle juice,street_name,cannabis,,schedule i
-1591,kaff,street_name,cannabis,,schedule i
-1592,kali,street_name,cannabis,,schedule i
-1593,kaya,street_name,cannabis,,schedule i
-1594,kb,street_name,cannabis,,schedule i
-1595,kentucky blue,street_name,cannabis,,schedule i
-1596,kgb,street_name,cannabis,,schedule i
-1597,khalifa,street_name,cannabis,,schedule i
-1598,kiff,street_name,cannabis,,schedule i
-1599,killa,street_name,cannabis,,schedule i
-1600,kilter,street_name,cannabis,,schedule i
-1601,king louie,street_name,cannabis,,schedule i
-1602,kona gold,street_name,cannabis,,schedule i
-1603,kumba,street_name,cannabis,,schedule i
-1604,kush,street_name,cannabis,,schedule i
-1605,laughing grass,street_name,cannabis,,schedule i
-1606,laughing weed,street_name,cannabis,,schedule i
-1607,leaf,street_name,cannabis,,schedule i
-1608,lechuga,street_name,cannabis,,schedule i
-1609,lemon-lime,street_name,cannabis,,schedule i
-1610,lea,street_name,cannabis,,schedule i
-1611,liamba,street_name,cannabis,,schedule i
-1612,lime pillows,street_name,cannabis,,schedule i
-1613,little green friends,street_name,cannabis,,schedule i
-1614,little smoke,street_name,cannabis,,schedule i
-1615,llesca,street_name,cannabis,,schedule i
-1616,loaf,street_name,cannabis,,schedule i
-1617,lobo,street_name,cannabis,,schedule i
-1618,loco weed,street_name,cannabis,,schedule i
-1619,love nuggets,street_name,cannabis,,schedule i
-1620,love weed,street_name,cannabis,,schedule i
-1621,lucas,street_name,cannabis,,schedule i
-1622,m.j.,street_name,cannabis,,schedule i
-1623,macoa,street_name,cannabis,,schedule i
-1624,mafafa,street_name,cannabis,,schedule i
-1625,magic smoke,street_name,cannabis,,schedule i
-1626,manhattan silver,street_name,cannabis,,schedule i
-1627,manteca,street_name,cannabis,,schedule i
-1628,maracachafa,street_name,cannabis,,schedule i
-1629,maria,street_name,cannabis,,schedule i
-1630,marimba,street_name,cannabis,,schedule i
-1631,mariquita,street_name,cannabis,,schedule i
-1632,mary ann,street_name,cannabis,,schedule i
-1633,mary jane,street_name,cannabis,,schedule i
-1634,mary jones,street_name,cannabis,,schedule i
-1635,mary warner,street_name,cannabis,,schedule i
-1636,mary weaver,street_name,cannabis,,schedule i
-1637,matchbox,street_name,cannabis,,schedule i
-1638,matraca,street_name,cannabis,,schedule i
-1639,maui wowie,street_name,cannabis,,schedule i
-1640,meg,street_name,cannabis,,schedule i
-1641,mersh,street_name,cannabis,,schedule i
-1642,mexican brown,street_name,cannabis,,schedule i
-1643,mexicali haze,street_name,cannabis,,schedule i
-1644,mexican green,street_name,cannabis,,schedule i
-1645,mexican red,street_name,cannabis,,schedule i
-1646,mmj,street_name,cannabis,,schedule i
-1647,mochie,street_name,cannabis,,schedule i
-1648,moã±a,street_name,cannabis,,schedule i
-1649,monte,street_name,cannabis,,schedule i
-1650,moocah,street_name,cannabis,,schedule i
-1651,mootie,street_name,cannabis,,schedule i
-1652,mora,street_name,cannabis,,schedule i
-1653,morisqueta,street_name,cannabis,,schedule i
-1654,mostaza,street_name,cannabis,,schedule i
-1655,mota,street_name,cannabis,,schedule i
-1656,mowing the lawn,street_name,cannabis,,schedule i
-1657,muggie,street_name,cannabis,,schedule i
-1658,my brother,street_name,cannabis,,schedule i
-1659,narizona,street_name,cannabis,,schedule i
-1660,northern lights,street_name,cannabis,,schedule i
-1661,nug,street_name,cannabis,,schedule i
-1662,o-boy,street_name,cannabis,,schedule i
-1663,og,street_name,cannabis,,schedule i
-1664,o.j.,street_name,cannabis,,schedule i
-1665,owl,street_name,cannabis,,schedule i
-1666,paja,street_name,cannabis,,schedule i
-1667,paloma,street_name,cannabis,,schedule i
-1668,palomita,street_name,cannabis,,schedule i
-1669,panama cut,street_name,cannabis,,schedule i
-1670,panama gold,street_name,cannabis,,schedule i
-1671,panama red,street_name,cannabis,,schedule i
-1672,pakalolo,street_name,cannabis,,schedule i
-1673,parsley,street_name,cannabis,,schedule i
-1674,pasto,street_name,cannabis,,schedule i
-1675,pasture,street_name,cannabis,,schedule i
-1676,dew,street_name,cannabis,,schedule i
-1677,diesel,street_name,cannabis,,schedule i
-1678,dimba,street_name,cannabis,,schedule i
-1679,dinkie dow,street_name,cannabis,,schedule i
-1680,diosa verde,street_name,cannabis,,schedule i
-1681,dirt grass,street_name,cannabis,,schedule i
-1682,ditch weed,street_name,cannabis,,schedule i
-1683,dizz,street_name,cannabis,,schedule i
-1684,djamba,street_name,cannabis,,schedule i
-1685,dody,street_name,cannabis,,schedule i
-1686,dojo,street_name,cannabis,,schedule i
-1687,donna juana,street_name,cannabis,,schedule i
-1688,doobie,street_name,cannabis,,schedule i
-1689,downtown brown,street_name,cannabis,,schedule i
-1690,drag weed,street_name,cannabis,,schedule i
-1691,dro,street_name,cannabis,,schedule i
-1692,droski,street_name,cannabis,,schedule i
-1693,dry high,street_name,cannabis,,schedule i
-1694,elefante pata,street_name,cannabis,,schedule i
-1695,endo,street_name,cannabis,,schedule i
-1696,escoba,street_name,cannabis,,schedule i
-1697,fattie,street_name,cannabis,,schedule i
-1698,fine stuff,street_name,cannabis,,schedule i
-1699,flower tops,street_name,cannabis,,schedule i
-1700,fluffy,street_name,cannabis,,schedule i
-1701,fuzzy lady,street_name,cannabis,,schedule i
-1702,gallina,street_name,cannabis,,schedule i
-1703,gallito,street_name,cannabis,,schedule i
-1704,garifa,street_name,cannabis,,schedule i
-1705,gauge,street_name,cannabis,,schedule i
-1706,gangster,street_name,cannabis,,schedule i
-1707,ganja,street_name,cannabis,,schedule i
-1708,gash,street_name,cannabis,,schedule i
-1709,gato,street_name,cannabis,,schedule i
-1710,ghana,street_name,cannabis,,schedule i
-1711,gigi,street_name,cannabis,,schedule i
-1712,giggle smoke,street_name,cannabis,,schedule i
-1713,giggle weed,street_name,cannabis,,schedule i
-1714,girl scout cookies,street_name,cannabis,,schedule i
-1715,gloria,street_name,cannabis,,schedule i
-1716,gold leaf,street_name,cannabis,,schedule i
-1717,gold star,street_name,cannabis,,schedule i
-1718,gong,street_name,cannabis,,schedule i
-1719,good giggles,street_name,cannabis,,schedule i
-1720,gorilla,street_name,cannabis,,schedule i
-1721,gorilla glue,street_name,cannabis,,schedule i
-1722,grand daddy purp,street_name,cannabis,,schedule i
-1723,grasshopper,street_name,cannabis,,schedule i
-1724,green crack,street_name,cannabis,,schedule i
-1725,green-eyed girl,street_name,cannabis,,schedule i
-1726,green eyes,street_name,cannabis,,schedule i
-1727,green goblin,street_name,cannabis,,schedule i
-1728,green goddess,street_name,cannabis,,schedule i
-1729,green mercedes benz,street_name,cannabis,,schedule i
-1730,green paint,street_name,cannabis,,schedule i
-1731,green skunk,street_name,cannabis,,schedule i
-1732,greenhouse,street_name,cannabis,,schedule i
-1733,grenuda,street_name,cannabis,,schedule i
-1734,greta,street_name,cannabis,,schedule i
-1735,guardada,street_name,cannabis,,schedule i
-1736,gummy bears,street_name,cannabis,,schedule i
-1737,gunga,street_name,cannabis,,schedule i
-1738,hairy ones,street_name,cannabis,,schedule i
-1739,hash,street_name,cannabis,,schedule i
-1740,hawaiian,street_name,cannabis,,schedule i
-1741,hemp,street_name,cannabis,,schedule i
-1742,herb,street_name,cannabis,,schedule i
-1743,hierba,street_name,cannabis,,schedule i
-1744,holy grail,street_name,cannabis,,schedule i
-1745,homegrown,street_name,cannabis,,schedule i
-1746,hooch,street_name,cannabis,,schedule i
-1747,hoja,street_name,cannabis,,schedule i
-1748,humo,street_name,cannabis,,schedule i
-1749,hydro,street_name,cannabis,,schedule i
-1750,indian boy,street_name,cannabis,,schedule i
-1751,indian hay,street_name,cannabis,,schedule i
-1752,jamaican gold,street_name,cannabis,,schedule i
-1753,jamaican red,street_name,cannabis,,schedule i
-1754,jive,street_name,cannabis,,schedule i
-1755,jolly green,street_name,cannabis,,schedule i
-1756,420,street_name,cannabis,,schedule i
-1757,a-bomb,street_name,cannabis,,schedule i
-1758,acapulco gold,street_name,cannabis,,schedule i
-1759,acapulco red,street_name,cannabis,,schedule i
-1760,african black,street_name,cannabis,,schedule i
-1761,african bush,street_name,cannabis,,schedule i
-1762,airplane,street_name,cannabis,,schedule i
-1763,alfalfa,street_name,cannabis,,schedule i
-1764,alfombra,street_name,cannabis,,schedule i
-1765,alice b toklas,street_name,cannabis,,schedule i
-1766,all-star,street_name,cannabis,,schedule i
-1767,almohada,street_name,cannabis,,schedule i
-1768,angola,street_name,cannabis,,schedule i
-1769,animal cookies,street_name,cannabis,,schedule i
-1770,arizona,street_name,cannabis,,schedule i
-1771,ashes,street_name,cannabis,,schedule i
-1772,aunt mary,street_name,cannabis,,schedule i
-1773,az,street_name,cannabis,,schedule i
-1774,bale,street_name,cannabis,,schedule i
-1775,bambalachacha,street_name,cannabis,,schedule i
-1776,barbara jean,street_name,cannabis,,schedule i
-1777,bareta,street_name,cannabis,,schedule i
-1778,bash,street_name,cannabis,,schedule i
-1779,bazooka,street_name,cannabis,,schedule i
-1780,bc budd,street_name,cannabis,,schedule i
-1781,bernie,street_name,cannabis,,schedule i
-1782,bhang,street_name,cannabis,,schedule i
-1783,big pillows,street_name,cannabis,,schedule i
-1784,biggy,street_name,cannabis,,schedule i
-1785,bionic,street_name,cannabis,,schedule i
-1786,black bart,street_name,cannabis,,schedule i
-1787,black gold,street_name,cannabis,,schedule i
-1788,black maria,street_name,cannabis,,schedule i
-1789,blondie,street_name,cannabis,,schedule i
-1790,blue cheese,street_name,cannabis,,schedule i
-1791,blue crush,street_name,cannabis,,schedule i
-1792,blue dream,street_name,cannabis,,schedule i
-1793,blue jeans,street_name,cannabis,,schedule i
-1794,blue sage,street_name,cannabis,,schedule i
-1795,blueberry,street_name,cannabis,,schedule i
-1796,bobo bush,street_name,cannabis,,schedule i
-1797,boo,street_name,cannabis,,schedule i
-1798,boom,street_name,cannabis,,schedule i
-1799,broccoli,street_name,cannabis,,schedule i
-1800,bud,street_name,cannabis,,schedule i
-1801,budda,street_name,cannabis,,schedule i
-1802,burritos verdes,street_name,cannabis,,schedule i
-1803,bush,street_name,cannabis,,schedule i
-1804,cabbage,street_name,cannabis,,schedule i
-1805,cafã©,street_name,cannabis,,schedule i
-1806,cajita,street_name,cannabis,,schedule i
-1807,cali,street_name,cannabis,,schedule i
-1808,camara,street_name,cannabis,,schedule i
-1809,canadian black,street_name,cannabis,,schedule i
-1810,catnip,street_name,cannabis,,schedule i
-1811,cheeba,street_name,cannabis,,schedule i
-1812,chernobyl,street_name,cannabis,,schedule i
-1813,cheese,street_name,cannabis,,schedule i
-1814,chicago black,street_name,cannabis,,schedule i
-1815,chicago green,street_name,cannabis,,schedule i
-1816,chippie,street_name,cannabis,,schedule i
-1817,chistosa,street_name,cannabis,,schedule i
-1818,christmas tree,street_name,cannabis,,schedule i
-1819,chronic,street_name,cannabis,,schedule i
-1820,churro,street_name,cannabis,,schedule i
-1821,cigars,street_name,cannabis,,schedule i
-1822,citrol,street_name,cannabis,,schedule i
-1823,cola,street_name,cannabis,,schedule i
-1824,colorado cocktail,street_name,cannabis,,schedule i
-1825,cookie,street_name,cannabis,,schedule i
-1826,cotorritos,street_name,cannabis,,schedule i
-1827,crazy weed,street_name,cannabis,,schedule i
-1828,creeper bud,street_name,cannabis,,schedule i
-1829,crippy,street_name,cannabis,,schedule i
-1830,crying weed,street_name,cannabis,,schedule i
-1831,culican,street_name,cannabis,,schedule i
-1832,dank,street_name,cannabis,,schedule i
-1833,devil’s lettuce,street_name,cannabis,,schedule i
-1834,marijuana concentrates/hash oil,generic_name,marijuana concentrates/hash oil,,
-1835,hash oil,street_name,marijuana concentrates/hash oil,,
-1836,hash,street_name,marijuana concentrates/hash oil,,
-1837,710,street_name,marijuana concentrates/hash oil,,
-1838,bhno,street_name,marijuana concentrates/hash oil,,
-1839,bho,street_name,marijuana concentrates/hash oil,,
-1840,black glass,street_name,marijuana concentrates/hash oil,,
-1841,bubble hash,street_name,marijuana concentrates/hash oil,,
-1842,budder,street_name,marijuana concentrates/hash oil,,
-1843,butane hash oil,street_name,marijuana concentrates/hash oil,,
-1844,butane honey oil,street_name,marijuana concentrates/hash oil,,
-1845,caviar,street_name,marijuana concentrates/hash oil,,
-1846,cbd,street_name,marijuana concentrates/hash oil,,
-1847,cbd oil,street_name,marijuana concentrates/hash oil,,
-1848,crystalline,street_name,marijuana concentrates/hash oil,,
-1849,crumble,street_name,marijuana concentrates/hash oil,,
-1850,dabs,street_name,marijuana concentrates/hash oil,,
-1851,dipper,street_name,marijuana concentrates/hash oil,,
-1852,ear wax,street_name,marijuana concentrates/hash oil,,
-1853,edibles,street_name,marijuana concentrates/hash oil,,
-1854,enail,street_name,marijuana concentrates/hash oil,,
-1855,errl,street_name,marijuana concentrates/hash oil,,
-1856,extract,street_name,marijuana concentrates/hash oil,,
-1857,full melt,street_name,marijuana concentrates/hash oil,,
-1858,glob,street_name,marijuana concentrates/hash oil,,
-1859,gorilla glue,street_name,marijuana concentrates/hash oil,,
-1860,heady,street_name,marijuana concentrates/hash oil,,
-1861,honey oil,street_name,marijuana concentrates/hash oil,,
-1862,iwe,street_name,marijuana concentrates/hash oil,,
-1863,ice water hash,street_name,marijuana concentrates/hash oil,,
-1864,klear,street_name,marijuana concentrates/hash oil,,
-1865,live resin,street_name,marijuana concentrates/hash oil,,
-1866,moon rocks,street_name,marijuana concentrates/hash oil,,
-1867,rosin,street_name,marijuana concentrates/hash oil,,
-1868,rosin tech,street_name,marijuana concentrates/hash oil,,
-1869,sap,street_name,marijuana concentrates/hash oil,,
-1870,shatter,street_name,marijuana concentrates/hash oil,,
-1871,solventless,street_name,marijuana concentrates/hash oil,,
-1872,terp sauce,street_name,marijuana concentrates/hash oil,,
-1873,thca,street_name,marijuana concentrates/hash oil,,
-1874,thca crystal,street_name,marijuana concentrates/hash oil,,
-1875,thca crystalline,street_name,marijuana concentrates/hash oil,,
-1876,thca powder,street_name,marijuana concentrates/hash oil,,
-1877,trichrome,street_name,marijuana concentrates/hash oil,,
-1878,wax,street_name,marijuana concentrates/hash oil,,
-1879,synthetic cannabinoids,generic_name,synthetic cannabinoids,,
-1880,abyss,street_name,synthetic cannabinoids,,
-1881,ace of spades,street_name,synthetic cannabinoids,,
-1882,ak-47,street_name,synthetic cannabinoids,,
-1883,amnesia,street_name,synthetic cannabinoids,,
-1884,atomic blast,street_name,synthetic cannabinoids,,
-1885,big bang,street_name,synthetic cannabinoids,,
-1886,black magic smoke,street_name,synthetic cannabinoids,,
-1887,black mamba,street_name,synthetic cannabinoids,,
-1888,420,street_name,synthetic cannabinoids,,
-1889,blaze,street_name,synthetic cannabinoids,,
-1890,bliss,street_name,synthetic cannabinoids,,
-1891,blue cheese,street_name,synthetic cannabinoids,,
-1892,bombay blue,street_name,synthetic cannabinoids,,
-1893,brain freeze,street_name,synthetic cannabinoids,,
-1894,buzz haze,street_name,synthetic cannabinoids,,
-1895,cherry bomb,street_name,synthetic cannabinoids,,
-1896,chill,street_name,synthetic cannabinoids,,
-1897,chrome,street_name,synthetic cannabinoids,,
-1898,clockwork orange,street_name,synthetic cannabinoids,,
-1899,cloud 10,street_name,synthetic cannabinoids,,
-1900,cowboy kush,street_name,synthetic cannabinoids,,
-1901,crystal skull,street_name,synthetic cannabinoids,,
-1902,dead man,street_name,synthetic cannabinoids,,
-1903,devil’s venom,street_name,synthetic cannabinoids,,
-1904,dr. feel good,street_name,synthetic cannabinoids,,
-1905,dragon eye,street_name,synthetic cannabinoids,,
-1906,earth blend,street_name,synthetic cannabinoids,,
-1907,exodus,street_name,synthetic cannabinoids,,
-1908,fake bake,street_name,synthetic cannabinoids,,
-1909,fruit candy flavors,street_name,synthetic cannabinoids,,
-1910,funky buddha,street_name,synthetic cannabinoids,,
-1911,funky monkey,street_name,synthetic cannabinoids,,
-1912,garden salad,street_name,synthetic cannabinoids,,
-1913,genie,street_name,synthetic cannabinoids,,
-1914,g-force,street_name,synthetic cannabinoids,,
-1915,gi joe,street_name,synthetic cannabinoids,,
-1916,green dream,street_name,synthetic cannabinoids,,
-1917,green peace,street_name,synthetic cannabinoids,,
-1918,hammer head,street_name,synthetic cannabinoids,,
-1919,helix,street_name,synthetic cannabinoids,,
-1920,hipster,street_name,synthetic cannabinoids,,
-1921,hysteria,street_name,synthetic cannabinoids,,
-1922,ice dragon,street_name,synthetic cannabinoids,,
-1923,joker,street_name,synthetic cannabinoids,,
-1924,juicy leaf,street_name,synthetic cannabinoids,,
-1925,jungle juice,street_name,synthetic cannabinoids,,
-1926,just chill,street_name,synthetic cannabinoids,,
-1927,k2,street_name,synthetic cannabinoids,,
-1928,kaos,street_name,synthetic cannabinoids,,
-1929,karma,street_name,synthetic cannabinoids,,
-1930,kong,street_name,synthetic cannabinoids,,
-1931,krazy kandy,street_name,synthetic cannabinoids,,
-1932,kryp2nite,street_name,synthetic cannabinoids,,
-1933,kush,street_name,synthetic cannabinoids,,
-1934,layer cake,street_name,synthetic cannabinoids,,
-1935,limitless,street_name,synthetic cannabinoids,,
-1936,mad hatter,street_name,synthetic cannabinoids,,
-1937,mile high,street_name,synthetic cannabinoids,,
-1938,mystique,street_name,synthetic cannabinoids,,
-1939,ninja,street_name,synthetic cannabinoids,,
-1940,odyssey,street_name,synthetic cannabinoids,,
-1941,omg,street_name,synthetic cannabinoids,,
-1942,pandora’s box,street_name,synthetic cannabinoids,,
-1943,phoenix,street_name,synthetic cannabinoids,,
-1944,pineapple express,street_name,synthetic cannabinoids,,
-1945,posh,street_name,synthetic cannabinoids,,
-1946,potpourri,street_name,synthetic cannabinoids,,
-1947,pow,street_name,synthetic cannabinoids,,
-1948,rapture,street_name,synthetic cannabinoids,,
-1949,red magic,street_name,synthetic cannabinoids,,
-1950,rewind,street_name,synthetic cannabinoids,,
-1951,scooby snax,street_name,synthetic cannabinoids,,
-1952,sexy,street_name,synthetic cannabinoids,,
-1953,sky high,street_name,synthetic cannabinoids,,
-1954,snake bite,street_name,synthetic cannabinoids,,
-1955,solar flare,street_name,synthetic cannabinoids,,
-1956,spice,street_name,synthetic cannabinoids,,
-1957,spike diamond,street_name,synthetic cannabinoids,,
-1958,sweet leaf,street_name,synthetic cannabinoids,,
-1959,synthetic marijuana,street_name,synthetic cannabinoids,,
-1960,terraband,street_name,synthetic cannabinoids,,
-1961,time traveler,street_name,synthetic cannabinoids,,
-1962,top gear,street_name,synthetic cannabinoids,,
-1963,train wreck,street_name,synthetic cannabinoids,,
-1964,viper,street_name,synthetic cannabinoids,,
-1965,voodoo child,street_name,synthetic cannabinoids,,
-1966,wazabi,street_name,synthetic cannabinoids,,
-1967,wicked,street_name,synthetic cannabinoids,,
-1968,wizard,street_name,synthetic cannabinoids,,
-1969,xtreme,street_name,synthetic cannabinoids,,
-1970,yucatan,street_name,synthetic cannabinoids,,
-1971,yucatan fire,street_name,synthetic cannabinoids,,
-1972,zero gravity,street_name,synthetic cannabinoids,,
-1973,zohai,street_name,synthetic cannabinoids,,
-1974,zombie,street_name,synthetic cannabinoids,,
-1975,synthetic cathinones,generic_name,synthetic cathinones,,
-1976,bath blow,street_name,synthetic cathinones,,
-1977,bath salts,street_name,synthetic cathinones,,
-1978,bliss,street_name,synthetic cathinones,,
-1979,bloom,street_name,synthetic cathinones,,
-1980,blue silk,street_name,synthetic cathinones,,
-1981,bubbles,street_name,synthetic cathinones,,
-1982,cloud 9,street_name,synthetic cathinones,,
-1983,cloud nine,street_name,synthetic cathinones,,
-1984,cosmic beast,street_name,synthetic cathinones,,
-1985,drone,street_name,synthetic cathinones,,
-1986,energy-1,street_name,synthetic cathinones,,
-1987,flakka,street_name,synthetic cathinones,,
-1988,gravel,street_name,synthetic cathinones,,
-1989,insect repellent,street_name,synthetic cathinones,,
-1990,ivory wave,street_name,synthetic cathinones,,
-1991,jewelry cleaner,street_name,synthetic cathinones,,
-1992,lunar wave,street_name,synthetic cathinones,,
-1993,m-cat,street_name,synthetic cathinones,,
-1994,meow-meow,street_name,synthetic cathinones,,
-1995,ocean burst,street_name,synthetic cathinones,,
-1996,phone screen cleaner,street_name,synthetic cathinones,,
-1997,plant feeder,street_name,synthetic cathinones,,
-1998,plant food,street_name,synthetic cathinones,,
-1999,pure ivory,street_name,synthetic cathinones,,
-2000,purple wave,street_name,synthetic cathinones,,
-2001,recharge,street_name,synthetic cathinones,,
-2002,red dove,street_name,synthetic cathinones,,
-2003,salting,street_name,synthetic cathinones,,
-2004,scarface,street_name,synthetic cathinones,,
-2005,snow leopard,street_name,synthetic cathinones,,
-2006,stardust,street_name,synthetic cathinones,,
-2007,vanilla sky,street_name,synthetic cathinones,,
-2008,white dove,street_name,synthetic cathinones,,
-2009,white knight,street_name,synthetic cathinones,,
-2010,white lightening,street_name,synthetic cathinones,,
-2011,white lightning,street_name,synthetic cathinones,,
-2012,white magic,street_name,synthetic cathinones,,
-2013,wicked x,street_name,synthetic cathinones,,
-2014,zoom,street_name,synthetic cathinones,,
+1502,u-47700,generic_name,u-47700,unknown,unknown
+1503,pink heroin,street_name,u-47700,unknown,unknown
+1504,pinky,street_name,u-47700,unknown,unknown
+1505,u4,street_name,u-47700,unknown,unknown
+1506,cannabis,generic_name,cannabis,unknown,schedule i
+1507,marijuana,street_name,cannabis,unknown,schedule i
+1508,peliroja,street_name,cannabis,unknown,schedule i
+1509,pelosa,street_name,cannabis,unknown,schedule i
+1510,phoenix,street_name,cannabis,unknown,schedule i
+1511,pine,street_name,cannabis,unknown,schedule i
+1512,pink panther,street_name,cannabis,unknown,schedule i
+1513,pintura,street_name,cannabis,unknown,schedule i
+1514,platinum cookies,street_name,cannabis,unknown,schedule i
+1515,platinum jack,street_name,cannabis,unknown,schedule i
+1516,pocket rocket,street_name,cannabis,unknown,schedule i
+1517,popcorn,street_name,cannabis,unknown,schedule i
+1518,porro,street_name,cannabis,unknown,schedule i
+1519,pretendo,street_name,cannabis,unknown,schedule i
+1520,prop 215,street_name,cannabis,unknown,schedule i
+1521,puff,street_name,cannabis,unknown,schedule i
+1522,purple haze,street_name,cannabis,unknown,schedule i
+1523,purple og,street_name,cannabis,unknown,schedule i
+1524,queen anns lace,street_name,cannabis,unknown,schedule i
+1525,red hair,street_name,cannabis,unknown,schedule i
+1526,ragweed,street_name,cannabis,unknown,schedule i
+1527,railroad weed,street_name,cannabis,unknown,schedule i
+1528,rainy day woman,street_name,cannabis,unknown,schedule i
+1529,rasta weed,street_name,cannabis,unknown,schedule i
+1530,red cross,street_name,cannabis,unknown,schedule i
+1531,red dirt,street_name,cannabis,unknown,schedule i
+1532,reefer,street_name,cannabis,unknown,schedule i
+1533,reggie,street_name,cannabis,unknown,schedule i
+1534,repollo,street_name,cannabis,unknown,schedule i
+1535,righteous bush,street_name,cannabis,unknown,schedule i
+1536,rosa maria,street_name,cannabis,unknown,schedule i
+1537,salt and pepper,street_name,cannabis,unknown,schedule i
+1538,santa marta,street_name,cannabis,unknown,schedule i
+1539,sasafras,street_name,cannabis,unknown,schedule i
+1540,sativa,street_name,cannabis,unknown,schedule i
+1541,sinsemilla,street_name,cannabis,unknown,schedule i
+1542,shmagma,street_name,cannabis,unknown,schedule i
+1543,shora,street_name,cannabis,unknown,schedule i
+1544,shrimp,street_name,cannabis,unknown,schedule i
+1545,shwag,street_name,cannabis,unknown,schedule i
+1546,skunk,street_name,cannabis,unknown,schedule i
+1547,skywalker,street_name,cannabis,unknown,schedule i
+1548,smoochy woochy poochy,street_name,cannabis,unknown,schedule i
+1549,smoke canada,street_name,cannabis,unknown,schedule i
+1550,sour og,street_name,cannabis,unknown,schedule i
+1551,spliff,street_name,cannabis,unknown,schedule i
+1552,sticky,street_name,cannabis,unknown,schedule i
+1553,stink weed,street_name,cannabis,unknown,schedule i
+1554,sugar weed,street_name,cannabis,unknown,schedule i
+1555,sweet lucy,street_name,cannabis,unknown,schedule i
+1556,tahoe,street_name,cannabis,unknown,schedule i
+1557,tangy og,street_name,cannabis,unknown,schedule i
+1558,terp,street_name,cannabis,unknown,schedule i
+1559,terpenes,street_name,cannabis,unknown,schedule i
+1560,tex-mex,street_name,cannabis,unknown,schedule i
+1561,texas tea,street_name,cannabis,unknown,schedule i
+1562,tigitty,street_name,cannabis,unknown,schedule i
+1563,tila,street_name,cannabis,unknown,schedule i
+1564,tims,street_name,cannabis,unknown,schedule i
+1565,top shelf,street_name,cannabis,unknown,schedule i
+1566,tosca,street_name,cannabis,unknown,schedule i
+1567,train wreck,street_name,cannabis,unknown,schedule i
+1568,trinity og,street_name,cannabis,unknown,schedule i
+1569,tweeds,street_name,cannabis,unknown,schedule i
+1570,valle,street_name,cannabis,unknown,schedule i
+1571,wake and bake,street_name,cannabis,unknown,schedule i
+1572,weed,street_name,cannabis,unknown,schedule i
+1573,weed tea,street_name,cannabis,unknown,schedule i
+1574,wheat,street_name,cannabis,unknown,schedule i
+1575,white-haired lady,street_name,cannabis,unknown,schedule i
+1576,wooz,street_name,cannabis,unknown,schedule i
+1577,yellow submarine,street_name,cannabis,unknown,schedule i
+1578,yen pop,street_name,cannabis,unknown,schedule i
+1579,yerba,street_name,cannabis,unknown,schedule i
+1580,yesca,street_name,cannabis,unknown,schedule i
+1581,young girls,street_name,cannabis,unknown,schedule i
+1582,zacate,street_name,cannabis,unknown,schedule i
+1583,zacatecas,street_name,cannabis,unknown,schedule i
+1584,zambi,street_name,cannabis,unknown,schedule i
+1585,zip,street_name,cannabis,unknown,schedule i
+1586,zoom,street_name,cannabis,unknown,schedule i
+1587,jon-jem,street_name,cannabis,unknown,schedule i
+1588,joy smoke,street_name,cannabis,unknown,schedule i
+1589,juan valdez,street_name,cannabis,unknown,schedule i
+1590,jungle juice,street_name,cannabis,unknown,schedule i
+1591,kaff,street_name,cannabis,unknown,schedule i
+1592,kali,street_name,cannabis,unknown,schedule i
+1593,kaya,street_name,cannabis,unknown,schedule i
+1594,kb,street_name,cannabis,unknown,schedule i
+1595,kentucky blue,street_name,cannabis,unknown,schedule i
+1596,kgb,street_name,cannabis,unknown,schedule i
+1597,khalifa,street_name,cannabis,unknown,schedule i
+1598,kiff,street_name,cannabis,unknown,schedule i
+1599,killa,street_name,cannabis,unknown,schedule i
+1600,kilter,street_name,cannabis,unknown,schedule i
+1601,king louie,street_name,cannabis,unknown,schedule i
+1602,kona gold,street_name,cannabis,unknown,schedule i
+1603,kumba,street_name,cannabis,unknown,schedule i
+1604,kush,street_name,cannabis,unknown,schedule i
+1605,laughing grass,street_name,cannabis,unknown,schedule i
+1606,laughing weed,street_name,cannabis,unknown,schedule i
+1607,leaf,street_name,cannabis,unknown,schedule i
+1608,lechuga,street_name,cannabis,unknown,schedule i
+1609,lemon-lime,street_name,cannabis,unknown,schedule i
+1610,lea,street_name,cannabis,unknown,schedule i
+1611,liamba,street_name,cannabis,unknown,schedule i
+1612,lime pillows,street_name,cannabis,unknown,schedule i
+1613,little green friends,street_name,cannabis,unknown,schedule i
+1614,little smoke,street_name,cannabis,unknown,schedule i
+1615,llesca,street_name,cannabis,unknown,schedule i
+1616,loaf,street_name,cannabis,unknown,schedule i
+1617,lobo,street_name,cannabis,unknown,schedule i
+1618,loco weed,street_name,cannabis,unknown,schedule i
+1619,love nuggets,street_name,cannabis,unknown,schedule i
+1620,love weed,street_name,cannabis,unknown,schedule i
+1621,lucas,street_name,cannabis,unknown,schedule i
+1622,m.j.,street_name,cannabis,unknown,schedule i
+1623,macoa,street_name,cannabis,unknown,schedule i
+1624,mafafa,street_name,cannabis,unknown,schedule i
+1625,magic smoke,street_name,cannabis,unknown,schedule i
+1626,manhattan silver,street_name,cannabis,unknown,schedule i
+1627,manteca,street_name,cannabis,unknown,schedule i
+1628,maracachafa,street_name,cannabis,unknown,schedule i
+1629,maria,street_name,cannabis,unknown,schedule i
+1630,marimba,street_name,cannabis,unknown,schedule i
+1631,mariquita,street_name,cannabis,unknown,schedule i
+1632,mary ann,street_name,cannabis,unknown,schedule i
+1633,mary jane,street_name,cannabis,unknown,schedule i
+1634,mary jones,street_name,cannabis,unknown,schedule i
+1635,mary warner,street_name,cannabis,unknown,schedule i
+1636,mary weaver,street_name,cannabis,unknown,schedule i
+1637,matchbox,street_name,cannabis,unknown,schedule i
+1638,matraca,street_name,cannabis,unknown,schedule i
+1639,maui wowie,street_name,cannabis,unknown,schedule i
+1640,meg,street_name,cannabis,unknown,schedule i
+1641,mersh,street_name,cannabis,unknown,schedule i
+1642,mexican brown,street_name,cannabis,unknown,schedule i
+1643,mexicali haze,street_name,cannabis,unknown,schedule i
+1644,mexican green,street_name,cannabis,unknown,schedule i
+1645,mexican red,street_name,cannabis,unknown,schedule i
+1646,mmj,street_name,cannabis,unknown,schedule i
+1647,mochie,street_name,cannabis,unknown,schedule i
+1648,moã±a,street_name,cannabis,unknown,schedule i
+1649,monte,street_name,cannabis,unknown,schedule i
+1650,moocah,street_name,cannabis,unknown,schedule i
+1651,mootie,street_name,cannabis,unknown,schedule i
+1652,mora,street_name,cannabis,unknown,schedule i
+1653,morisqueta,street_name,cannabis,unknown,schedule i
+1654,mostaza,street_name,cannabis,unknown,schedule i
+1655,mota,street_name,cannabis,unknown,schedule i
+1656,mowing the lawn,street_name,cannabis,unknown,schedule i
+1657,muggie,street_name,cannabis,unknown,schedule i
+1658,my brother,street_name,cannabis,unknown,schedule i
+1659,narizona,street_name,cannabis,unknown,schedule i
+1660,northern lights,street_name,cannabis,unknown,schedule i
+1661,nug,street_name,cannabis,unknown,schedule i
+1662,o-boy,street_name,cannabis,unknown,schedule i
+1663,og,street_name,cannabis,unknown,schedule i
+1664,o.j.,street_name,cannabis,unknown,schedule i
+1665,owl,street_name,cannabis,unknown,schedule i
+1666,paja,street_name,cannabis,unknown,schedule i
+1667,paloma,street_name,cannabis,unknown,schedule i
+1668,palomita,street_name,cannabis,unknown,schedule i
+1669,panama cut,street_name,cannabis,unknown,schedule i
+1670,panama gold,street_name,cannabis,unknown,schedule i
+1671,panama red,street_name,cannabis,unknown,schedule i
+1672,pakalolo,street_name,cannabis,unknown,schedule i
+1673,parsley,street_name,cannabis,unknown,schedule i
+1674,pasto,street_name,cannabis,unknown,schedule i
+1675,pasture,street_name,cannabis,unknown,schedule i
+1676,dew,street_name,cannabis,unknown,schedule i
+1677,diesel,street_name,cannabis,unknown,schedule i
+1678,dimba,street_name,cannabis,unknown,schedule i
+1679,dinkie dow,street_name,cannabis,unknown,schedule i
+1680,diosa verde,street_name,cannabis,unknown,schedule i
+1681,dirt grass,street_name,cannabis,unknown,schedule i
+1682,ditch weed,street_name,cannabis,unknown,schedule i
+1683,dizz,street_name,cannabis,unknown,schedule i
+1684,djamba,street_name,cannabis,unknown,schedule i
+1685,dody,street_name,cannabis,unknown,schedule i
+1686,dojo,street_name,cannabis,unknown,schedule i
+1687,donna juana,street_name,cannabis,unknown,schedule i
+1688,doobie,street_name,cannabis,unknown,schedule i
+1689,downtown brown,street_name,cannabis,unknown,schedule i
+1690,drag weed,street_name,cannabis,unknown,schedule i
+1691,dro,street_name,cannabis,unknown,schedule i
+1692,droski,street_name,cannabis,unknown,schedule i
+1693,dry high,street_name,cannabis,unknown,schedule i
+1694,elefante pata,street_name,cannabis,unknown,schedule i
+1695,endo,street_name,cannabis,unknown,schedule i
+1696,escoba,street_name,cannabis,unknown,schedule i
+1697,fattie,street_name,cannabis,unknown,schedule i
+1698,fine stuff,street_name,cannabis,unknown,schedule i
+1699,flower tops,street_name,cannabis,unknown,schedule i
+1700,fluffy,street_name,cannabis,unknown,schedule i
+1701,fuzzy lady,street_name,cannabis,unknown,schedule i
+1702,gallina,street_name,cannabis,unknown,schedule i
+1703,gallito,street_name,cannabis,unknown,schedule i
+1704,garifa,street_name,cannabis,unknown,schedule i
+1705,gauge,street_name,cannabis,unknown,schedule i
+1706,gangster,street_name,cannabis,unknown,schedule i
+1707,ganja,street_name,cannabis,unknown,schedule i
+1708,gash,street_name,cannabis,unknown,schedule i
+1709,gato,street_name,cannabis,unknown,schedule i
+1710,ghana,street_name,cannabis,unknown,schedule i
+1711,gigi,street_name,cannabis,unknown,schedule i
+1712,giggle smoke,street_name,cannabis,unknown,schedule i
+1713,giggle weed,street_name,cannabis,unknown,schedule i
+1714,girl scout cookies,street_name,cannabis,unknown,schedule i
+1715,gloria,street_name,cannabis,unknown,schedule i
+1716,gold leaf,street_name,cannabis,unknown,schedule i
+1717,gold star,street_name,cannabis,unknown,schedule i
+1718,gong,street_name,cannabis,unknown,schedule i
+1719,good giggles,street_name,cannabis,unknown,schedule i
+1720,gorilla,street_name,cannabis,unknown,schedule i
+1721,gorilla glue,street_name,cannabis,unknown,schedule i
+1722,grand daddy purp,street_name,cannabis,unknown,schedule i
+1723,grasshopper,street_name,cannabis,unknown,schedule i
+1724,green crack,street_name,cannabis,unknown,schedule i
+1725,green-eyed girl,street_name,cannabis,unknown,schedule i
+1726,green eyes,street_name,cannabis,unknown,schedule i
+1727,green goblin,street_name,cannabis,unknown,schedule i
+1728,green goddess,street_name,cannabis,unknown,schedule i
+1729,green mercedes benz,street_name,cannabis,unknown,schedule i
+1730,green paint,street_name,cannabis,unknown,schedule i
+1731,green skunk,street_name,cannabis,unknown,schedule i
+1732,greenhouse,street_name,cannabis,unknown,schedule i
+1733,grenuda,street_name,cannabis,unknown,schedule i
+1734,greta,street_name,cannabis,unknown,schedule i
+1735,guardada,street_name,cannabis,unknown,schedule i
+1736,gummy bears,street_name,cannabis,unknown,schedule i
+1737,gunga,street_name,cannabis,unknown,schedule i
+1738,hairy ones,street_name,cannabis,unknown,schedule i
+1739,hash,street_name,cannabis,unknown,schedule i
+1740,hawaiian,street_name,cannabis,unknown,schedule i
+1741,hemp,street_name,cannabis,unknown,schedule i
+1742,herb,street_name,cannabis,unknown,schedule i
+1743,hierba,street_name,cannabis,unknown,schedule i
+1744,holy grail,street_name,cannabis,unknown,schedule i
+1745,homegrown,street_name,cannabis,unknown,schedule i
+1746,hooch,street_name,cannabis,unknown,schedule i
+1747,hoja,street_name,cannabis,unknown,schedule i
+1748,humo,street_name,cannabis,unknown,schedule i
+1749,hydro,street_name,cannabis,unknown,schedule i
+1750,indian boy,street_name,cannabis,unknown,schedule i
+1751,indian hay,street_name,cannabis,unknown,schedule i
+1752,jamaican gold,street_name,cannabis,unknown,schedule i
+1753,jamaican red,street_name,cannabis,unknown,schedule i
+1754,jive,street_name,cannabis,unknown,schedule i
+1755,jolly green,street_name,cannabis,unknown,schedule i
+1756,420,street_name,cannabis,unknown,schedule i
+1757,a-bomb,street_name,cannabis,unknown,schedule i
+1758,acapulco gold,street_name,cannabis,unknown,schedule i
+1759,acapulco red,street_name,cannabis,unknown,schedule i
+1760,african black,street_name,cannabis,unknown,schedule i
+1761,african bush,street_name,cannabis,unknown,schedule i
+1762,airplane,street_name,cannabis,unknown,schedule i
+1763,alfalfa,street_name,cannabis,unknown,schedule i
+1764,alfombra,street_name,cannabis,unknown,schedule i
+1765,alice b toklas,street_name,cannabis,unknown,schedule i
+1766,all-star,street_name,cannabis,unknown,schedule i
+1767,almohada,street_name,cannabis,unknown,schedule i
+1768,angola,street_name,cannabis,unknown,schedule i
+1769,animal cookies,street_name,cannabis,unknown,schedule i
+1770,arizona,street_name,cannabis,unknown,schedule i
+1771,ashes,street_name,cannabis,unknown,schedule i
+1772,aunt mary,street_name,cannabis,unknown,schedule i
+1773,az,street_name,cannabis,unknown,schedule i
+1774,bale,street_name,cannabis,unknown,schedule i
+1775,bambalachacha,street_name,cannabis,unknown,schedule i
+1776,barbara jean,street_name,cannabis,unknown,schedule i
+1777,bareta,street_name,cannabis,unknown,schedule i
+1778,bash,street_name,cannabis,unknown,schedule i
+1779,bazooka,street_name,cannabis,unknown,schedule i
+1780,bc budd,street_name,cannabis,unknown,schedule i
+1781,bernie,street_name,cannabis,unknown,schedule i
+1782,bhang,street_name,cannabis,unknown,schedule i
+1783,big pillows,street_name,cannabis,unknown,schedule i
+1784,biggy,street_name,cannabis,unknown,schedule i
+1785,bionic,street_name,cannabis,unknown,schedule i
+1786,black bart,street_name,cannabis,unknown,schedule i
+1787,black gold,street_name,cannabis,unknown,schedule i
+1788,black maria,street_name,cannabis,unknown,schedule i
+1789,blondie,street_name,cannabis,unknown,schedule i
+1790,blue cheese,street_name,cannabis,unknown,schedule i
+1791,blue crush,street_name,cannabis,unknown,schedule i
+1792,blue dream,street_name,cannabis,unknown,schedule i
+1793,blue jeans,street_name,cannabis,unknown,schedule i
+1794,blue sage,street_name,cannabis,unknown,schedule i
+1795,blueberry,street_name,cannabis,unknown,schedule i
+1796,bobo bush,street_name,cannabis,unknown,schedule i
+1797,boo,street_name,cannabis,unknown,schedule i
+1798,boom,street_name,cannabis,unknown,schedule i
+1799,broccoli,street_name,cannabis,unknown,schedule i
+1800,bud,street_name,cannabis,unknown,schedule i
+1801,budda,street_name,cannabis,unknown,schedule i
+1802,burritos verdes,street_name,cannabis,unknown,schedule i
+1803,bush,street_name,cannabis,unknown,schedule i
+1804,cabbage,street_name,cannabis,unknown,schedule i
+1805,cafã©,street_name,cannabis,unknown,schedule i
+1806,cajita,street_name,cannabis,unknown,schedule i
+1807,cali,street_name,cannabis,unknown,schedule i
+1808,camara,street_name,cannabis,unknown,schedule i
+1809,canadian black,street_name,cannabis,unknown,schedule i
+1810,catnip,street_name,cannabis,unknown,schedule i
+1811,cheeba,street_name,cannabis,unknown,schedule i
+1812,chernobyl,street_name,cannabis,unknown,schedule i
+1813,cheese,street_name,cannabis,unknown,schedule i
+1814,chicago black,street_name,cannabis,unknown,schedule i
+1815,chicago green,street_name,cannabis,unknown,schedule i
+1816,chippie,street_name,cannabis,unknown,schedule i
+1817,chistosa,street_name,cannabis,unknown,schedule i
+1818,christmas tree,street_name,cannabis,unknown,schedule i
+1819,chronic,street_name,cannabis,unknown,schedule i
+1820,churro,street_name,cannabis,unknown,schedule i
+1821,cigars,street_name,cannabis,unknown,schedule i
+1822,citrol,street_name,cannabis,unknown,schedule i
+1823,cola,street_name,cannabis,unknown,schedule i
+1824,colorado cocktail,street_name,cannabis,unknown,schedule i
+1825,cookie,street_name,cannabis,unknown,schedule i
+1826,cotorritos,street_name,cannabis,unknown,schedule i
+1827,crazy weed,street_name,cannabis,unknown,schedule i
+1828,creeper bud,street_name,cannabis,unknown,schedule i
+1829,crippy,street_name,cannabis,unknown,schedule i
+1830,crying weed,street_name,cannabis,unknown,schedule i
+1831,culican,street_name,cannabis,unknown,schedule i
+1832,dank,street_name,cannabis,unknown,schedule i
+1833,devil’s lettuce,street_name,cannabis,unknown,schedule i
+1834,marijuana concentrates/hash oil,generic_name,marijuana concentrates/hash oil,unknown,unknown
+1835,hash oil,street_name,marijuana concentrates/hash oil,unknown,unknown
+1836,hash,street_name,marijuana concentrates/hash oil,unknown,unknown
+1837,710,street_name,marijuana concentrates/hash oil,unknown,unknown
+1838,bhno,street_name,marijuana concentrates/hash oil,unknown,unknown
+1839,bho,street_name,marijuana concentrates/hash oil,unknown,unknown
+1840,black glass,street_name,marijuana concentrates/hash oil,unknown,unknown
+1841,bubble hash,street_name,marijuana concentrates/hash oil,unknown,unknown
+1842,budder,street_name,marijuana concentrates/hash oil,unknown,unknown
+1843,butane hash oil,street_name,marijuana concentrates/hash oil,unknown,unknown
+1844,butane honey oil,street_name,marijuana concentrates/hash oil,unknown,unknown
+1845,caviar,street_name,marijuana concentrates/hash oil,unknown,unknown
+1846,cbd,street_name,marijuana concentrates/hash oil,unknown,unknown
+1847,cbd oil,street_name,marijuana concentrates/hash oil,unknown,unknown
+1848,crystalline,street_name,marijuana concentrates/hash oil,unknown,unknown
+1849,crumble,street_name,marijuana concentrates/hash oil,unknown,unknown
+1850,dabs,street_name,marijuana concentrates/hash oil,unknown,unknown
+1851,dipper,street_name,marijuana concentrates/hash oil,unknown,unknown
+1852,ear wax,street_name,marijuana concentrates/hash oil,unknown,unknown
+1853,edibles,street_name,marijuana concentrates/hash oil,unknown,unknown
+1854,enail,street_name,marijuana concentrates/hash oil,unknown,unknown
+1855,errl,street_name,marijuana concentrates/hash oil,unknown,unknown
+1856,extract,street_name,marijuana concentrates/hash oil,unknown,unknown
+1857,full melt,street_name,marijuana concentrates/hash oil,unknown,unknown
+1858,glob,street_name,marijuana concentrates/hash oil,unknown,unknown
+1859,gorilla glue,street_name,marijuana concentrates/hash oil,unknown,unknown
+1860,heady,street_name,marijuana concentrates/hash oil,unknown,unknown
+1861,honey oil,street_name,marijuana concentrates/hash oil,unknown,unknown
+1862,iwe,street_name,marijuana concentrates/hash oil,unknown,unknown
+1863,ice water hash,street_name,marijuana concentrates/hash oil,unknown,unknown
+1864,klear,street_name,marijuana concentrates/hash oil,unknown,unknown
+1865,live resin,street_name,marijuana concentrates/hash oil,unknown,unknown
+1866,moon rocks,street_name,marijuana concentrates/hash oil,unknown,unknown
+1867,rosin,street_name,marijuana concentrates/hash oil,unknown,unknown
+1868,rosin tech,street_name,marijuana concentrates/hash oil,unknown,unknown
+1869,sap,street_name,marijuana concentrates/hash oil,unknown,unknown
+1870,shatter,street_name,marijuana concentrates/hash oil,unknown,unknown
+1871,solventless,street_name,marijuana concentrates/hash oil,unknown,unknown
+1872,terp sauce,street_name,marijuana concentrates/hash oil,unknown,unknown
+1873,thca,street_name,marijuana concentrates/hash oil,unknown,unknown
+1874,thca crystal,street_name,marijuana concentrates/hash oil,unknown,unknown
+1875,thca crystalline,street_name,marijuana concentrates/hash oil,unknown,unknown
+1876,thca powder,street_name,marijuana concentrates/hash oil,unknown,unknown
+1877,trichrome,street_name,marijuana concentrates/hash oil,unknown,unknown
+1878,wax,street_name,marijuana concentrates/hash oil,unknown,unknown
+1879,synthetic cannabinoids,generic_name,synthetic cannabinoids,unknown,unknown
+1880,abyss,street_name,synthetic cannabinoids,unknown,unknown
+1881,ace of spades,street_name,synthetic cannabinoids,unknown,unknown
+1882,ak-47,street_name,synthetic cannabinoids,unknown,unknown
+1883,amnesia,street_name,synthetic cannabinoids,unknown,unknown
+1884,atomic blast,street_name,synthetic cannabinoids,unknown,unknown
+1885,big bang,street_name,synthetic cannabinoids,unknown,unknown
+1886,black magic smoke,street_name,synthetic cannabinoids,unknown,unknown
+1887,black mamba,street_name,synthetic cannabinoids,unknown,unknown
+1888,420,street_name,synthetic cannabinoids,unknown,unknown
+1889,blaze,street_name,synthetic cannabinoids,unknown,unknown
+1890,bliss,street_name,synthetic cannabinoids,unknown,unknown
+1891,blue cheese,street_name,synthetic cannabinoids,unknown,unknown
+1892,bombay blue,street_name,synthetic cannabinoids,unknown,unknown
+1893,brain freeze,street_name,synthetic cannabinoids,unknown,unknown
+1894,buzz haze,street_name,synthetic cannabinoids,unknown,unknown
+1895,cherry bomb,street_name,synthetic cannabinoids,unknown,unknown
+1896,chill,street_name,synthetic cannabinoids,unknown,unknown
+1897,chrome,street_name,synthetic cannabinoids,unknown,unknown
+1898,clockwork orange,street_name,synthetic cannabinoids,unknown,unknown
+1899,cloud 10,street_name,synthetic cannabinoids,unknown,unknown
+1900,cowboy kush,street_name,synthetic cannabinoids,unknown,unknown
+1901,crystal skull,street_name,synthetic cannabinoids,unknown,unknown
+1902,dead man,street_name,synthetic cannabinoids,unknown,unknown
+1903,devil’s venom,street_name,synthetic cannabinoids,unknown,unknown
+1904,dr. feel good,street_name,synthetic cannabinoids,unknown,unknown
+1905,dragon eye,street_name,synthetic cannabinoids,unknown,unknown
+1906,earth blend,street_name,synthetic cannabinoids,unknown,unknown
+1907,exodus,street_name,synthetic cannabinoids,unknown,unknown
+1908,fake bake,street_name,synthetic cannabinoids,unknown,unknown
+1909,fruit candy flavors,street_name,synthetic cannabinoids,unknown,unknown
+1910,funky buddha,street_name,synthetic cannabinoids,unknown,unknown
+1911,funky monkey,street_name,synthetic cannabinoids,unknown,unknown
+1912,garden salad,street_name,synthetic cannabinoids,unknown,unknown
+1913,genie,street_name,synthetic cannabinoids,unknown,unknown
+1914,g-force,street_name,synthetic cannabinoids,unknown,unknown
+1915,gi joe,street_name,synthetic cannabinoids,unknown,unknown
+1916,green dream,street_name,synthetic cannabinoids,unknown,unknown
+1917,green peace,street_name,synthetic cannabinoids,unknown,unknown
+1918,hammer head,street_name,synthetic cannabinoids,unknown,unknown
+1919,helix,street_name,synthetic cannabinoids,unknown,unknown
+1920,hipster,street_name,synthetic cannabinoids,unknown,unknown
+1921,hysteria,street_name,synthetic cannabinoids,unknown,unknown
+1922,ice dragon,street_name,synthetic cannabinoids,unknown,unknown
+1923,joker,street_name,synthetic cannabinoids,unknown,unknown
+1924,juicy leaf,street_name,synthetic cannabinoids,unknown,unknown
+1925,jungle juice,street_name,synthetic cannabinoids,unknown,unknown
+1926,just chill,street_name,synthetic cannabinoids,unknown,unknown
+1927,k2,street_name,synthetic cannabinoids,unknown,unknown
+1928,kaos,street_name,synthetic cannabinoids,unknown,unknown
+1929,karma,street_name,synthetic cannabinoids,unknown,unknown
+1930,kong,street_name,synthetic cannabinoids,unknown,unknown
+1931,krazy kandy,street_name,synthetic cannabinoids,unknown,unknown
+1932,kryp2nite,street_name,synthetic cannabinoids,unknown,unknown
+1933,kush,street_name,synthetic cannabinoids,unknown,unknown
+1934,layer cake,street_name,synthetic cannabinoids,unknown,unknown
+1935,limitless,street_name,synthetic cannabinoids,unknown,unknown
+1936,mad hatter,street_name,synthetic cannabinoids,unknown,unknown
+1937,mile high,street_name,synthetic cannabinoids,unknown,unknown
+1938,mystique,street_name,synthetic cannabinoids,unknown,unknown
+1939,ninja,street_name,synthetic cannabinoids,unknown,unknown
+1940,odyssey,street_name,synthetic cannabinoids,unknown,unknown
+1941,omg,street_name,synthetic cannabinoids,unknown,unknown
+1942,pandora’s box,street_name,synthetic cannabinoids,unknown,unknown
+1943,phoenix,street_name,synthetic cannabinoids,unknown,unknown
+1944,pineapple express,street_name,synthetic cannabinoids,unknown,unknown
+1945,posh,street_name,synthetic cannabinoids,unknown,unknown
+1946,potpourri,street_name,synthetic cannabinoids,unknown,unknown
+1947,pow,street_name,synthetic cannabinoids,unknown,unknown
+1948,rapture,street_name,synthetic cannabinoids,unknown,unknown
+1949,red magic,street_name,synthetic cannabinoids,unknown,unknown
+1950,rewind,street_name,synthetic cannabinoids,unknown,unknown
+1951,scooby snax,street_name,synthetic cannabinoids,unknown,unknown
+1952,sexy,street_name,synthetic cannabinoids,unknown,unknown
+1953,sky high,street_name,synthetic cannabinoids,unknown,unknown
+1954,snake bite,street_name,synthetic cannabinoids,unknown,unknown
+1955,solar flare,street_name,synthetic cannabinoids,unknown,unknown
+1956,spice,street_name,synthetic cannabinoids,unknown,unknown
+1957,spike diamond,street_name,synthetic cannabinoids,unknown,unknown
+1958,sweet leaf,street_name,synthetic cannabinoids,unknown,unknown
+1959,synthetic marijuana,street_name,synthetic cannabinoids,unknown,unknown
+1960,terraband,street_name,synthetic cannabinoids,unknown,unknown
+1961,time traveler,street_name,synthetic cannabinoids,unknown,unknown
+1962,top gear,street_name,synthetic cannabinoids,unknown,unknown
+1963,train wreck,street_name,synthetic cannabinoids,unknown,unknown
+1964,viper,street_name,synthetic cannabinoids,unknown,unknown
+1965,voodoo child,street_name,synthetic cannabinoids,unknown,unknown
+1966,wazabi,street_name,synthetic cannabinoids,unknown,unknown
+1967,wicked,street_name,synthetic cannabinoids,unknown,unknown
+1968,wizard,street_name,synthetic cannabinoids,unknown,unknown
+1969,xtreme,street_name,synthetic cannabinoids,unknown,unknown
+1970,yucatan,street_name,synthetic cannabinoids,unknown,unknown
+1971,yucatan fire,street_name,synthetic cannabinoids,unknown,unknown
+1972,zero gravity,street_name,synthetic cannabinoids,unknown,unknown
+1973,zohai,street_name,synthetic cannabinoids,unknown,unknown
+1974,zombie,street_name,synthetic cannabinoids,unknown,unknown
+1975,synthetic cathinones,generic_name,synthetic cathinones,unknown,unknown
+1976,bath blow,street_name,synthetic cathinones,unknown,unknown
+1977,bath salts,street_name,synthetic cathinones,unknown,unknown
+1978,bliss,street_name,synthetic cathinones,unknown,unknown
+1979,bloom,street_name,synthetic cathinones,unknown,unknown
+1980,blue silk,street_name,synthetic cathinones,unknown,unknown
+1981,bubbles,street_name,synthetic cathinones,unknown,unknown
+1982,cloud 9,street_name,synthetic cathinones,unknown,unknown
+1983,cloud nine,street_name,synthetic cathinones,unknown,unknown
+1984,cosmic beast,street_name,synthetic cathinones,unknown,unknown
+1985,drone,street_name,synthetic cathinones,unknown,unknown
+1986,energy-1,street_name,synthetic cathinones,unknown,unknown
+1987,flakka,street_name,synthetic cathinones,unknown,unknown
+1988,gravel,street_name,synthetic cathinones,unknown,unknown
+1989,insect repellent,street_name,synthetic cathinones,unknown,unknown
+1990,ivory wave,street_name,synthetic cathinones,unknown,unknown
+1991,jewelry cleaner,street_name,synthetic cathinones,unknown,unknown
+1992,lunar wave,street_name,synthetic cathinones,unknown,unknown
+1993,m-cat,street_name,synthetic cathinones,unknown,unknown
+1994,meow-meow,street_name,synthetic cathinones,unknown,unknown
+1995,ocean burst,street_name,synthetic cathinones,unknown,unknown
+1996,phone screen cleaner,street_name,synthetic cathinones,unknown,unknown
+1997,plant feeder,street_name,synthetic cathinones,unknown,unknown
+1998,plant food,street_name,synthetic cathinones,unknown,unknown
+1999,pure ivory,street_name,synthetic cathinones,unknown,unknown
+2000,purple wave,street_name,synthetic cathinones,unknown,unknown
+2001,recharge,street_name,synthetic cathinones,unknown,unknown
+2002,red dove,street_name,synthetic cathinones,unknown,unknown
+2003,salting,street_name,synthetic cathinones,unknown,unknown
+2004,scarface,street_name,synthetic cathinones,unknown,unknown
+2005,snow leopard,street_name,synthetic cathinones,unknown,unknown
+2006,stardust,street_name,synthetic cathinones,unknown,unknown
+2007,vanilla sky,street_name,synthetic cathinones,unknown,unknown
+2008,white dove,street_name,synthetic cathinones,unknown,unknown
+2009,white knight,street_name,synthetic cathinones,unknown,unknown
+2010,white lightening,street_name,synthetic cathinones,unknown,unknown
+2011,white lightning,street_name,synthetic cathinones,unknown,unknown
+2012,white magic,street_name,synthetic cathinones,unknown,unknown
+2013,wicked x,street_name,synthetic cathinones,unknown,unknown
+2014,zoom,street_name,synthetic cathinones,unknown,unknown
 2015,codeine,generic_name,codeine,opioid-containing antitussives/expectorants,schedule ii
 2016,captain cody,street_name,codeine,opioid-containing antitussives/expectorants,schedule ii
 2017,cody,street_name,codeine,opioid-containing antitussives/expectorants,schedule ii
@@ -2026,16 +2026,16 @@ id,name,name_type,full_generic_name,category,fda_schedule
 2024,purple drank,street_name,codeine with promethazine,opioid-containing antitussives/expectorants,schedule ii
 2025,sizzurp,street_name,codeine with promethazine,opioid-containing antitussives/expectorants,schedule ii
 2026,texas tea,street_name,codeine with promethazine,opioid-containing antitussives/expectorants,schedule ii
-2027,isonipecaine,brand_name,meperidine;isonipecaine;pethidine,opioid analgesics,
-2028,pethidine,brand_name,meperidine;isonipecaine;pethidine,opioid analgesics,
-2029,meperidine,generic_name,meperidine;isonipecaine;pethidine,opioid analgesics,
-2030,demmies,street_name,meperidine;isonipecaine;pethidine,opioid analgesics,
-2031,pain killer,street_name,meperidine;isonipecaine;pethidine,opioid analgesics,
+2027,isonipecaine,brand_name,meperidine;isonipecaine;pethidine,opioid analgesics,unknown
+2028,pethidine,brand_name,meperidine;isonipecaine;pethidine,opioid analgesics,unknown
+2029,meperidine,generic_name,meperidine;isonipecaine;pethidine,opioid analgesics,unknown
+2030,demmies,street_name,meperidine;isonipecaine;pethidine,opioid analgesics,unknown
+2031,pain killer,street_name,meperidine;isonipecaine;pethidine,opioid analgesics,unknown
 2032,abstral,brand_name,fentanyl,opioid analgesics,schedule ii
 2033,actiq,brand_name,fentanyl,opioid analgesics,schedule ii
 2034,avinza,brand_name,morphine sulfate extended-release capsules,opioid analgesics,schedule ii
 2035,butrans,brand_name,buprenorphine transdermal system,opioid analgesics,schedule iii
-2036,demerol,brand_name,meperidine;isonipecaine;pethidine,opioid analgesics,
+2036,demerol,brand_name,meperidine;isonipecaine;pethidine,opioid analgesics,unknown
 2037,dilaudid,brand_name,hydromorphone;dihydromorphinone,opioid analgesics,schedule ii
 2038,dolophine,brand_name,methadone hydrochloride tablets,opioid analgesics,schedule ii
 2039,duragesic,brand_name,fentanyl transdermal system,opioid analgesics,schedule ii
@@ -2115,21 +2115,21 @@ id,name,name_type,full_generic_name,category,fda_schedule
 2113,purple haze,street_name,lysergic acid diethylamide,drug,schedule i
 2114,sugar cubes,street_name,lysergic acid diethylamide,drug,schedule i
 2115,yellow sunshine,street_name,lysergic acid diethylamide,drug,schedule i
-2116,psilocybin,generic_name,psilocybin,,
-2117,psilocin,brand_name,psilocybin,,
-2118,mushrooms,street_name,psilocybin,,
-2119,shrooms,street_name,psilocybin,,
-2120,shroomies,street_name,psilocybin,,
-2121,magic mushrooms,street_name,psilocybin,,
-2122,alice,street_name,psilocybin,,
-2123,boomers,street_name,psilocybin,,
-2124,caps,street_name,psilocybin,,
-2125,cow patties,street_name,psilocybin,,
-2126,fungus,street_name,psilocybin,,
-2127,hongos,street_name,psilocybin,,
-2128,mushies,street_name,psilocybin,,
-2129,pizza toppings,street_name,psilocybin,,
-2130,tweezes,street_name,psilocybin,,
+2116,psilocybin,generic_name,psilocybin,unknown,unknown
+2117,psilocin,brand_name,psilocybin,unknown,unknown
+2118,mushrooms,street_name,psilocybin,unknown,unknown
+2119,shrooms,street_name,psilocybin,unknown,unknown
+2120,shroomies,street_name,psilocybin,unknown,unknown
+2121,magic mushrooms,street_name,psilocybin,unknown,unknown
+2122,alice,street_name,psilocybin,unknown,unknown
+2123,boomers,street_name,psilocybin,unknown,unknown
+2124,caps,street_name,psilocybin,unknown,unknown
+2125,cow patties,street_name,psilocybin,unknown,unknown
+2126,fungus,street_name,psilocybin,unknown,unknown
+2127,hongos,street_name,psilocybin,unknown,unknown
+2128,mushies,street_name,psilocybin,unknown,unknown
+2129,pizza toppings,street_name,psilocybin,unknown,unknown
+2130,tweezes,street_name,psilocybin,unknown,unknown
 2131,lorazepam,generic_name,lorazepam,benzodiazepine derivative sedatives/hypnotics,schedule iv
 2132,antivan,brand_name,lorazepam,benzodiazepine derivative sedatives/hypnotics,schedule iv
 2133,downers,street_name,lorazepam,benzodiazepine derivative sedatives/hypnotics,schedule iv
@@ -2160,25 +2160,25 @@ id,name,name_type,full_generic_name,category,fda_schedule
 2158,jellies,street_name,diazepam,benzodiazepine derivative sedatives/hypnotics,schedule iv
 2159,moggies,street_name,diazepam,benzodiazepine derivative sedatives/hypnotics,schedule iv
 2160,vallies,street_name,diazepam,benzodiazepine derivative sedatives/hypnotics,schedule iv
-2161,ayahuasca,generic_name,ayahuasca,,
-2162,aya,street_name,ayahuasca,,
-2163,hoasca,street_name,ayahuasca,,
-2164,yage,street_name,ayahuasca,,
-2165,dmt,generic_name,dmt,,schedule i
-2166,"n,n-dimethyltryptamine",brand_name,dmt,,schedule i
-2167,the spirit molecule,street_name,dmt,,schedule i
-2168,dimitri,street_name,dmt,,schedule i
-2169,ghb,generic_name,ghb,,
-2170,gamma-hydroxybutyric,brand_name,ghb,,
-2171,date rape drug,street_name,ghb,,
-2172,geeb,street_name,ghb,,
-2173,georgia home boy,street_name,ghb,,
-2174,gina,street_name,ghb,,
-2175,goop,street_name,ghb,,
-2176,grievous bodily harm,street_name,ghb,,
-2177,liquid e,street_name,ghb,,
-2178,liquid x,street_name,ghb,,
-2179,scoop,street_name,ghb,,
+2161,ayahuasca,generic_name,ayahuasca,unknown,unknown
+2162,aya,street_name,ayahuasca,unknown,unknown
+2163,hoasca,street_name,ayahuasca,unknown,unknown
+2164,yage,street_name,ayahuasca,unknown,unknown
+2165,dmt,generic_name,dmt,unknown,schedule i
+2166,"n,n-dimethyltryptamine",brand_name,dmt,unknown,schedule i
+2167,the spirit molecule,street_name,dmt,unknown,schedule i
+2168,dimitri,street_name,dmt,unknown,schedule i
+2169,ghb,generic_name,ghb,unknown,unknown
+2170,gamma-hydroxybutyric,brand_name,ghb,unknown,unknown
+2171,date rape drug,street_name,ghb,unknown,unknown
+2172,geeb,street_name,ghb,unknown,unknown
+2173,georgia home boy,street_name,ghb,unknown,unknown
+2174,gina,street_name,ghb,unknown,unknown
+2175,goop,street_name,ghb,unknown,unknown
+2176,grievous bodily harm,street_name,ghb,unknown,unknown
+2177,liquid e,street_name,ghb,unknown,unknown
+2178,liquid x,street_name,ghb,unknown,unknown
+2179,scoop,street_name,ghb,unknown,unknown
 2180,ketamine,generic_name,ketamine,"general anesthetics,other",schedule iii
 2181,blind squid,street_name,ketamine,"general anesthetics,other",schedule iii
 2182,cat valium,street_name,ketamine,"general anesthetics,other",schedule iii
@@ -2187,81 +2187,81 @@ id,name,name_type,full_generic_name,category,fda_schedule
 2185,special k,street_name,ketamine,"general anesthetics,other",schedule iii
 2186,super acid,street_name,ketamine,"general anesthetics,other",schedule iii
 2187,vitamin k,street_name,ketamine,"general anesthetics,other",schedule iii
-2188,khat,generic_name,khat,,
-2189,abyssinian tea,street_name,khat,,
-2190,african salad,street_name,khat,,
-2191,catha,street_name,khat,,
-2192,chat,street_name,khat,,
-2193,kat,street_name,khat,,
-2194,oat,street_name,khat,,
-2195,qat,street_name,khat,,
-2196,kratom,generic_name,kratom,,
-2197,biak-biak,street_name,kratom,,
-2198,herbal speedball,street_name,kratom,,
-2199,ithang,street_name,kratom,,
-2200,kahyam,street_name,kratom,,
-2201,ketum,street_name,kratom,,
-2202,thom,street_name,kratom,,
-2203,mescaline,generic_name,mescaline,,schedule i
-2204,big chief,street_name,mescaline,,schedule i
-2205,blue caps,street_name,mescaline,,schedule i
-2206,buttons,street_name,mescaline,,schedule i
-2207,cactus,street_name,mescaline,,schedule i
-2208,mescal,street_name,mescaline,,schedule i
-2209,san pedro,street_name,mescaline,,schedule i
-2210,topi,street_name,mescaline,,schedule i
-2211,phencyclidine,brand_name,pcp,,
-2212,pcp,generic_name,pcp,,
-2213,angel dust,street_name,pcp,,
-2214,butt naked,street_name,pcp,,
-2215,purple rain,street_name,pcp,,
-2216,rocket fuel,street_name,pcp,,
-2217,stardust,street_name,pcp,,
-2218,yellow fever,street_name,pcp,,
-2219,zombie,street_name,pcp,,
-2220,peyote,generic_name,peyote,,
-2221,black button,street_name,peyote,,
-2222,cactus,street_name,peyote,,
-2223,green button,street_name,peyote,,
-2224,half moon,street_name,peyote,,
-2225,nubs,street_name,peyote,,
-2226,shaman,street_name,peyote,,
-2227,tops,street_name,peyote,,
-2228,salvia,generic_name,salvia,,
-2229,salvia divinorum,brand_name,salvia,,
-2230,diviner’s sage,street_name,salvia,,
-2231,magic mint,street_name,salvia,,
-2232,maria pastora,street_name,salvia,,
-2233,sally-d,street_name,salvia,,
-2234,amyl nitrate,generic_name,amyl nitrate,antianginals,
-2235,ames,street_name,amyl nitrate,antianginals,
-2236,amies,street_name,amyl nitrate,antianginals,
-2237,amys,street_name,amyl nitrate,antianginals,
-2238,pearls,street_name,amyl nitrate,antianginals,
-2239,poppers,street_name,amyl nitrate,antianginals,
-2240,isobutyl nitrate,generic_name,isobutyl nitrate,contact lens solutions,
-2241,aroma of men,street_name,isobutyl nitrate,contact lens solutions,
-2242,bolt,street_name,isobutyl nitrate,contact lens solutions,
-2243,climax,street_name,isobutyl nitrate,contact lens solutions,
-2244,hardware,street_name,isobutyl nitrate,contact lens solutions,
-2245,locker room,street_name,isobutyl nitrate,contact lens solutions,
-2246,poppers,street_name,isobutyl nitrate,contact lens solutions,
-2247,quicksilver,street_name,isobutyl nitrate,contact lens solutions,
-2248,snappers,street_name,isobutyl nitrate,contact lens solutions,
-2249,nitrous oxide,generic_name,nitrous oxide,hemorrhoidal preparations without steroid,
-2250,buzz bomb,street_name,nitrous oxide,hemorrhoidal preparations without steroid,
-2251,hippie crack,street_name,nitrous oxide,hemorrhoidal preparations without steroid,
-2252,laughing gas,street_name,nitrous oxide,hemorrhoidal preparations without steroid,
-2253,whippets,street_name,nitrous oxide,hemorrhoidal preparations without steroid,
-2254,propoxyphene,generic_name,propoxyphene,opioid analgesics,
-2255,darvocet,brand_name,propoxyphene,opioid analgesics,
-2256,darvon,brand_name,propoxyphene,opioid analgesics,
-2257,footballs,street_name,propoxyphene,opioid analgesics,
-2258,n’s,street_name,propoxyphene,opioid analgesics,
-2259,pink footballs,street_name,propoxyphene,opioid analgesics,
-2260,pinks,street_name,propoxyphene,opioid analgesics,
-2261,yellow footballs,street_name,propoxyphene,opioid analgesics,
-2262,65s,street_name,propoxyphene,opioid analgesics,
+2188,khat,generic_name,khat,unknown,unknown
+2189,abyssinian tea,street_name,khat,unknown,unknown
+2190,african salad,street_name,khat,unknown,unknown
+2191,catha,street_name,khat,unknown,unknown
+2192,chat,street_name,khat,unknown,unknown
+2193,kat,street_name,khat,unknown,unknown
+2194,oat,street_name,khat,unknown,unknown
+2195,qat,street_name,khat,unknown,unknown
+2196,kratom,generic_name,kratom,unknown,unknown
+2197,biak-biak,street_name,kratom,unknown,unknown
+2198,herbal speedball,street_name,kratom,unknown,unknown
+2199,ithang,street_name,kratom,unknown,unknown
+2200,kahyam,street_name,kratom,unknown,unknown
+2201,ketum,street_name,kratom,unknown,unknown
+2202,thom,street_name,kratom,unknown,unknown
+2203,mescaline,generic_name,mescaline,unknown,schedule i
+2204,big chief,street_name,mescaline,unknown,schedule i
+2205,blue caps,street_name,mescaline,unknown,schedule i
+2206,buttons,street_name,mescaline,unknown,schedule i
+2207,cactus,street_name,mescaline,unknown,schedule i
+2208,mescal,street_name,mescaline,unknown,schedule i
+2209,san pedro,street_name,mescaline,unknown,schedule i
+2210,topi,street_name,mescaline,unknown,schedule i
+2211,phencyclidine,brand_name,pcp,unknown,unknown
+2212,pcp,generic_name,pcp,unknown,unknown
+2213,angel dust,street_name,pcp,unknown,unknown
+2214,butt naked,street_name,pcp,unknown,unknown
+2215,purple rain,street_name,pcp,unknown,unknown
+2216,rocket fuel,street_name,pcp,unknown,unknown
+2217,stardust,street_name,pcp,unknown,unknown
+2218,yellow fever,street_name,pcp,unknown,unknown
+2219,zombie,street_name,pcp,unknown,unknown
+2220,peyote,generic_name,peyote,unknown,unknown
+2221,black button,street_name,peyote,unknown,unknown
+2222,cactus,street_name,peyote,unknown,unknown
+2223,green button,street_name,peyote,unknown,unknown
+2224,half moon,street_name,peyote,unknown,unknown
+2225,nubs,street_name,peyote,unknown,unknown
+2226,shaman,street_name,peyote,unknown,unknown
+2227,tops,street_name,peyote,unknown,unknown
+2228,salvia,generic_name,salvia,unknown,unknown
+2229,salvia divinorum,brand_name,salvia,unknown,unknown
+2230,diviner’s sage,street_name,salvia,unknown,unknown
+2231,magic mint,street_name,salvia,unknown,unknown
+2232,maria pastora,street_name,salvia,unknown,unknown
+2233,sally-d,street_name,salvia,unknown,unknown
+2234,amyl nitrate,generic_name,amyl nitrate,antianginals,unknown
+2235,ames,street_name,amyl nitrate,antianginals,unknown
+2236,amies,street_name,amyl nitrate,antianginals,unknown
+2237,amys,street_name,amyl nitrate,antianginals,unknown
+2238,pearls,street_name,amyl nitrate,antianginals,unknown
+2239,poppers,street_name,amyl nitrate,antianginals,unknown
+2240,isobutyl nitrate,generic_name,isobutyl nitrate,contact lens solutions,unknown
+2241,aroma of men,street_name,isobutyl nitrate,contact lens solutions,unknown
+2242,bolt,street_name,isobutyl nitrate,contact lens solutions,unknown
+2243,climax,street_name,isobutyl nitrate,contact lens solutions,unknown
+2244,hardware,street_name,isobutyl nitrate,contact lens solutions,unknown
+2245,locker room,street_name,isobutyl nitrate,contact lens solutions,unknown
+2246,poppers,street_name,isobutyl nitrate,contact lens solutions,unknown
+2247,quicksilver,street_name,isobutyl nitrate,contact lens solutions,unknown
+2248,snappers,street_name,isobutyl nitrate,contact lens solutions,unknown
+2249,nitrous oxide,generic_name,nitrous oxide,hemorrhoidal preparations without steroid,unknown
+2250,buzz bomb,street_name,nitrous oxide,hemorrhoidal preparations without steroid,unknown
+2251,hippie crack,street_name,nitrous oxide,hemorrhoidal preparations without steroid,unknown
+2252,laughing gas,street_name,nitrous oxide,hemorrhoidal preparations without steroid,unknown
+2253,whippets,street_name,nitrous oxide,hemorrhoidal preparations without steroid,unknown
+2254,propoxyphene,generic_name,propoxyphene,opioid analgesics,unknown
+2255,darvocet,brand_name,propoxyphene,opioid analgesics,unknown
+2256,darvon,brand_name,propoxyphene,opioid analgesics,unknown
+2257,footballs,street_name,propoxyphene,opioid analgesics,unknown
+2258,n’s,street_name,propoxyphene,opioid analgesics,unknown
+2259,pink footballs,street_name,propoxyphene,opioid analgesics,unknown
+2260,pinks,street_name,propoxyphene,opioid analgesics,unknown
+2261,yellow footballs,street_name,propoxyphene,opioid analgesics,unknown
+2262,65s,street_name,propoxyphene,opioid analgesics,unknown
 2263,tramadol,generic_name,tramadol,opioid analgesics,schedule iv
 2264,ultram,brand_name,tramadol,opioid analgesics,schedule iv
 2265,chill pills,street_name,tramadol,opioid analgesics,schedule iv
@@ -2272,19 +2272,19 @@ id,name,name_type,full_generic_name,category,fda_schedule
 2270,dime,street_name,dimenhydrinate,"antihistamines,ethanolamine",otc
 2271,dime tabs,street_name,dimenhydrinate,"antihistamines,ethanolamine",otc
 2272,substance d,street_name,dimenhydrinate,"antihistamines,ethanolamine",otc
-2273,dxm,generic_name,dxm,,
-2274,dextromethorphan,brand_name,dxm,,
-2275,dex,street_name,dxm,,
-2276,dextro,street_name,dxm,,
-2277,drix,street_name,dxm,,
-2278,poor man’s ecstasy,street_name,dxm,,
-2279,red devils,street_name,dxm,,
-2280,robo,street_name,dxm,,
-2281,robotripping,street_name,dxm,,
-2282,triple c,street_name,dxm,,
-2283,tussin,street_name,dxm,,
+2273,dxm,generic_name,dxm,unknown,unknown
+2274,dextromethorphan,brand_name,dxm,unknown,unknown
+2275,dex,street_name,dxm,unknown,unknown
+2276,dextro,street_name,dxm,unknown,unknown
+2277,drix,street_name,dxm,unknown,unknown
+2278,poor man’s ecstasy,street_name,dxm,unknown,unknown
+2279,red devils,street_name,dxm,unknown,unknown
+2280,robo,street_name,dxm,unknown,unknown
+2281,robotripping,street_name,dxm,unknown,unknown
+2282,triple c,street_name,dxm,unknown,unknown
+2283,tussin,street_name,dxm,unknown,unknown
 2284,pseudoephedrine,generic_name,pseudoephedrine,"cold remedies,other",otc
-2285,pseudoephedrine,brand_name,pseudoephedrine,,
+2285,pseudoephedrine,brand_name,pseudoephedrine,unknown,unknown
 2286,chalk,street_name,pseudoephedrine,"cold remedies,other",otc
 2287,crank,street_name,pseudoephedrine,"cold remedies,other",otc
 2288,meth,street_name,pseudoephedrine,"cold remedies,other",otc
@@ -2318,13 +2318,13 @@ id,name,name_type,full_generic_name,category,fda_schedule
 2316,roofies,street_name,zaleplon,"sedatives/hypnotics,other",schedule iv
 2317,roofinol,street_name,zaleplon,"sedatives/hypnotics,other",schedule iv
 2318,rophies,street_name,zaleplon,"sedatives/hypnotics,other",schedule iv
-2319,amobarbital,generic_name,amobarbital,barbituric acid derivative sedatives/hypnotics,
-2320,amytal,brand_name,amobarbital,barbituric acid derivative sedatives/hypnotics,
-2321,barbs,street_name,amobarbital,barbituric acid derivative sedatives/hypnotics,
-2322,red birds,street_name,amobarbital,barbituric acid derivative sedatives/hypnotics,
-2323,reds,street_name,amobarbital,barbituric acid derivative sedatives/hypnotics,
-2324,yellows,street_name,amobarbital,barbituric acid derivative sedatives/hypnotics,
-2325,yellow jackets,street_name,amobarbital,barbituric acid derivative sedatives/hypnotics,
+2319,amobarbital,generic_name,amobarbital,barbituric acid derivative sedatives/hypnotics,unknown
+2320,amytal,brand_name,amobarbital,barbituric acid derivative sedatives/hypnotics,unknown
+2321,barbs,street_name,amobarbital,barbituric acid derivative sedatives/hypnotics,unknown
+2322,red birds,street_name,amobarbital,barbituric acid derivative sedatives/hypnotics,unknown
+2323,reds,street_name,amobarbital,barbituric acid derivative sedatives/hypnotics,unknown
+2324,yellows,street_name,amobarbital,barbituric acid derivative sedatives/hypnotics,unknown
+2325,yellow jackets,street_name,amobarbital,barbituric acid derivative sedatives/hypnotics,unknown
 2326,paroxetine,generic_name,paroxetine,"antidepressants,other",rx-only
 2327,paxil,brand_name,paroxetine,"antidepressants,other",rx-only
 2328,bottled smiles,street_name,paroxetine,"antidepressants,other",rx-only

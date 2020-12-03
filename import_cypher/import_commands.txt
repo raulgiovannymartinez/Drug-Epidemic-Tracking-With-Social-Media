@@ -7,10 +7,11 @@
 // 3) File -> Publish to the web -> SELECT Comma-separated values (.csv) -> get link
 
 // reddit.csv -> https://docs.google.com/spreadsheets/d/e/2PACX-1vRdtGwwvfvkdMtjYoX3JYKzw4h0DbwOyPYhNaesM8hn2uEMQx5iLX7yWloAkhMgemfuq7I4vwwRfTLa/pub?output=csv
-// reddit_relations.csv -> https://docs.google.com/spreadsheets/d/e/2PACX-1vRIVW0F-kdwsfFJ_8fZHNyuXyiUzPIjmCLwjYP65GhNs5B92Xwglx_LnP69IfVIjJ2WSgm3m_BEbthk/pub?output=csv
+// reddit_relations.csv -> https://docs.google.com/spreadsheets/d/e/2PACX-1vQWt6VRiOB43onjPtdCFDzublNnLKaGxw7npud1lkiKokKMaOTRPoxzGyp3rYyZ7YhfApCw-qGzOiOR/pub?gid=1081941920&single=true&output=csv
 // drug_names.csv -> https://docs.google.com/spreadsheets/d/e/2PACX-1vQjIy6aPHe8J0lPHOpfU3-j9_znEPvtnzoWYVWLNXR1jvO2d7hjdg-Tg_Mihmi7pby1kROLyFAUcnBg/pub?output=csv
-
-
+//generic_names.csv -> https://docs.google.com/spreadsheets/d/e/2PACX-1vTxHtX72Ff9Id9MCpPTZDiKfJAYiEsOqi44YoX0AmDYqzRCvEzfcW4kUd8ynQ9nRUytIEID9k8OsXj2/pub?gid=248034140&single=true&output=csv
+//alt_names.csv -> https://docs.google.com/spreadsheets/d/e/2PACX-1vTFrzc2ve5kWkaYcQeHjUHXULDKcX8ZVapBUWRBH1ftWHOJM3vBPJiPp4IvnYlHTTXkYScL7kcJn128/pub?gid=340207541&single=true&output=csv
+//gen_alt_rel_table.csv -> https://docs.google.com/spreadsheets/d/e/2PACX-1vRKyLsPI-P5MryOuy10Z-puw4COJh9_W2igJXc9_s0pSdHCXOyHpwaqCY7QtplgacCfHBSvPcc7IPVL/pub?gid=149684163&single=true&output=csv
 
 //////////////////////////////// START CODE TO LOAD DATA ////////////////////////////////
 // clear every node
@@ -18,29 +19,39 @@ MATCH (n)
 DETACH DELETE n;
 
 // create id constraint to avoid duplicates
-CREATE CONSTRAINT ON (n:Drug_Names) ASSERT n.id IS UNIQUE;
+CREATE CONSTRAINT ON (gn:Generic_Name) ASSERT gn.id IS UNIQUE;
+CREATE CONSTRAINT ON (n:Alt_Name) ASSERT n.id IS UNIQUE;
 CREATE CONSTRAINT ON (r:Reddit_Post) ASSERT r.id IS UNIQUE;
 
-// load drug names, create COMMON_AS relation, and create generic name node
-LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vQjIy6aPHe8J0lPHOpfU3-j9_znEPvtnzoWYVWLNXR1jvO2d7hjdg-Tg_Mihmi7pby1kROLyFAUcnBg/pub?output=csv" AS csvLine
-MERGE (g:Generic_Names {name: csvLine.full_generic_name})
-CREATE (n:Drug_Names {id: toInteger(csvLine.id), name: csvLine.name, name_type: csvLine.name_type})
-CREATE (n)-[:COMMON_AS]->(g);
+//load generic name data
+LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vTxHtX72Ff9Id9MCpPTZDiKfJAYiEsOqi44YoX0AmDYqzRCvEzfcW4kUd8ynQ9nRUytIEID9k8OsXj2/pub?gid=248034140&single=true&output=csv" AS csvLine
+CREATE (gn:Generic_Name {id: toInteger(csvLine.id), name: csvLine.name, name_type: csvLine.name_type, full_generic_name: csvLine.full_generic_name,
+        category: csvLine.category, fda_schedule: csvLine.fda_schedule});
+
+// load alt names data
+LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vTFrzc2ve5kWkaYcQeHjUHXULDKcX8ZVapBUWRBH1ftWHOJM3vBPJiPp4IvnYlHTTXkYScL7kcJn128/pub?gid=340207541&single=true&output=csv" AS csvLine
+CREATE (n:Alt_Name {id: toInteger(csvLine.id), name: csvLine.name});
 
 // load reddit data and create author relationship
 LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vRdtGwwvfvkdMtjYoX3JYKzw4h0DbwOyPYhNaesM8hn2uEMQx5iLX7yWloAkhMgemfuq7I4vwwRfTLa/pub?output=csv" AS csvLine
-MERGE (a:Author {author: csvLine.author, reddit_id: csvLine.reddit_id}) 
-CREATE (r:Reddit_Post {id: toInteger(csvLine.id), created: csvLine.created, title: csvLine.title, link_flair_text: csvLine.link_flair_text, num_comments: csvLine.num_comments, score: csvLine.score, upvote_ratio: csvLine.upvote_ratio})
+MERGE (a:Author {author: csvLine.author}) 
+CREATE (r:Reddit_Post {id: toInteger(csvLine.id), created: csvLine.created, title: csvLine.title, link_flair_text: csvLine.link_flair_text, num_comments: csvLine.num_comments, score: csvLine.score, upvote_ratio: csvLine.upvote_ratio, reddit_id: csvLine.reddit_id})
 CREATE (a)-[:REDDIT_AUTHOR]->(r);
 
 // load reddit relations
 //:auto USING PERIODIC COMMIT 1000
-LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vRIVW0F-kdwsfFJ_8fZHNyuXyiUzPIjmCLwjYP65GhNs5B92Xwglx_LnP69IfVIjJ2WSgm3m_BEbthk/pub?output=csv" AS csvLine
-MATCH (r:Reddit_Post {id: toInteger(csvLine.id_reddit)}),(n:Drug_Names {id: toInteger(csvLine.id_names)})
+LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vQWt6VRiOB43onjPtdCFDzublNnLKaGxw7npud1lkiKokKMaOTRPoxzGyp3rYyZ7YhfApCw-qGzOiOR/pub?gid=1081941920&single=true&output=csv" AS csvLine
+MATCH (r:Reddit_Post {id: toInteger(csvLine.id_reddit)}),(n:Alt_Name {id: toInteger(csvLine.id_names)})
 CREATE (r)-[:REDDIT_Relation {proba: csvLine.proba}]->(n);
 
+// load generic names-alt names relations
+LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vRKyLsPI-P5MryOuy10Z-puw4COJh9_W2igJXc9_s0pSdHCXOyHpwaqCY7QtplgacCfHBSvPcc7IPVL/pub?gid=149684163&single=true&output=csv" AS csvLine
+MATCH (n:Alt_Name {id: toInteger(csvLine.id_alt)}), (gn:Generic_Name {id: toInteger(csvLine.id_generic)})
+CREATE (n)-[:SAME_AS]->(gn);
+
 // drop indexes added to avoid duplicates
-DROP CONSTRAINT ON (n:Drug_Names) ASSERT n.id IS UNIQUE;
+DROP CONSTRAINT ON (gn:Generic_Name) ASSERT gn.id IS UNIQUE;
+DROP CONSTRAINT ON (n:Alt_Name) ASSERT n.id IS UNIQUE;
 DROP CONSTRAINT ON (r:Reddit_Post) ASSERT r.id IS UNIQUE;
 //////////////////////////////// END CODE TO LOAD DATA ////////////////////////////////
 

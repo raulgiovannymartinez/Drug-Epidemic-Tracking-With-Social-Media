@@ -1,0 +1,361 @@
+id,name,name_type,full_generic_name,category,fda_schedule
+0,fentanyl,generic_name,fentanyl,opioid analgesics,schedule ii
+1,coca,generic_name,coca,opioid analgesics,schedule ii
+2,laudanum,generic_name,laudanum,opioid analgesics,schedule ii
+3,sodium thiopental,generic_name,sodium thiopental,opioid analgesics,schedule iii
+4,cathine,generic_name,cathine,opioid analgesics,schedule iv
+5,cathinone,generic_name,cathinone,opioid analgesics,schedule i
+6,pethidine,generic_name,pethidine,opioid analgesics,schedule ii
+7,alpha-pyrrolidinobutiophenone,generic_name,alpha-pyrrolidinobutiophenone,opioid analgesics,schedule i
+8,lorcaserin,generic_name,lorcaserin,opioid analgesics,schedule iv
+9,acetorphine,generic_name,acetorphine,opioid analgesics,schedule i
+10,allylprodine,generic_name,allylprodine,opioid analgesics,schedule i
+11,cyprenorphine,generic_name,cyprenorphine,opioid analgesics,schedule i
+12,fenproporex,generic_name,fenproporex,opioid analgesics,schedule iv
+13,heroin,generic_name,heroin,painkiller,schedule i
+14,heterocodeine,generic_name,heterocodeine,isomer,schedule ii
+15,meprodine,generic_name,meprodine,analogue,schedule i
+16,metazocine,generic_name,metazocine,unknown,schedule ii
+17,phenomorphan,generic_name,phenomorphan,unknown,schedule i
+18,glutethimide,generic_name,glutethimide,sedative,schedule ii
+19,methyltestosterone,generic_name,methyltestosterone,steroid,schedule iii
+20,carisoprodol,generic_name,carisoprodol,unknown,schedule iv
+21,alpha-ethyltryptamine,generic_name,alpha-ethyltryptamine,stimulant,schedule i
+22,carfentanil,generic_name,carfentanil,analogue,schedule ii
+23,benzylmorphine,generic_name,benzylmorphine,unknown,schedule i
+24,desomorphine,generic_name,desomorphine,derivative,schedule i
+25,dihydroetorphine,generic_name,dihydroetorphine,unknown,schedule ii
+26,hydromorphinol,generic_name,hydromorphinol,analogue,schedule i
+27,mephedrone,generic_name,mephedrone,drug,schedule i
+28,phenazocine,generic_name,phenazocine,drug,schedule ii
+29,piminodine,generic_name,piminodine,analogue,schedule ii
+30,prodine,generic_name,prodine,analog,schedule ii
+31,propiram,generic_name,propiram,agonist,schedule i
+32,tilidine,generic_name,tilidine,painkiller,schedule i
+33,drotebanol,generic_name,drotebanol,morphinan,schedule i
+34,fospropofol,generic_name,fospropofol,agent,schedule iv
+35,jwh-018,generic_name,jwh-018,chemical,schedule i
+36,jwh-073,generic_name,jwh-073,chemical,schedule i
+37,jwh-081,generic_name,jwh-081,chemical,schedule i
+38,levophenacylmorphan,generic_name,levophenacylmorphan,morphinan,schedule i
+39,am-694,generic_name,am-694,drug,schedule i
+40,cannabicyclohexanol,generic_name,cannabicyclohexanol,drug,schedule i
+41,pentedrone,generic_name,pentedrone,stimulant,schedule i
+42,3-monoacetylmorphine,generic_name,3-monoacetylmorphine,unknown,schedule i
+43,ur-144,generic_name,ur-144,drug,schedule i
+44,methcathinone,generic_name,methcathinone,alkaloid,schedule i
+45,methylenedioxypyrovalerone,generic_name,methylenedioxypyrovalerone,drug,schedule i
+46,phenobarbital,generic_name,phenobarbital,medication,schedule iv
+47,"3,4-methylenedioxyamphetamine",generic_name,"3,4-methylenedioxyamphetamine",unknown,schedule i
+48,adderall,generic_name,adderall,drug,schedule ii
+49,midazolam,generic_name,midazolam,medication,schedule iv
+50,indiplon,generic_name,indiplon,nonbenzodiazepine,schedule iv
+51,ketobemidone,generic_name,ketobemidone,unknown,schedule i
+52,trional,generic_name,trional,drug,schedule iii
+53,bezitramide,generic_name,bezitramide,unknown,schedule ii
+54,piritramide,generic_name,piritramide,unknown,schedule i
+55,flutemazepam,generic_name,flutemazepam,unknown,schedule iv
+56,methyldesorphine,generic_name,methyldesorphine,unknown,schedule i
+57,methyldihydromorphine,generic_name,methyldihydromorphine,opioid,schedule i
+58,pentamorphone,generic_name,pentamorphone,unknown,schedule i
+59,gamma-hydroxybutyric acid,generic_name,gamma-hydroxybutyric acid,unknown,schedule i
+60,hashish,generic_name,hashish,product,schedule i
+61,modafinil,generic_name,modafinil,agent,schedule iv
+62,"n,n-dimethyltryptamine",generic_name,"n,n-dimethyltryptamine",compound,schedule i
+63,phencyclidine,generic_name,phencyclidine,drug,schedule ii
+64,trenbolone,generic_name,trenbolone,steroid,schedule iii
+65,desmethylprodine,generic_name,desmethylprodine,drug,schedule i
+66,ethylmorphine,generic_name,ethylmorphine,ethylmorphine,schedule ii
+67,oxycodone,generic_name,oxycodone,opioid analgesics,schedule ii
+68,meprobamate,generic_name,meprobamate,opioid analgesics,schedule iv
+69,nabilone,generic_name,nabilone,opioid analgesics,schedule ii
+70,oxazepam,generic_name,oxazepam,opioid analgesics,schedule iv
+71,alprazolam,generic_name,alprazolam,benzodiazepine derivative sedatives/hypnotics,schedule iv
+72,sibutramine,generic_name,sibutramine,benzodiazepine derivative sedatives/hypnotics,schedule iv
+73,jwh-019,generic_name,jwh-019,benzodiazepine derivative sedatives/hypnotics,schedule i
+74,jwh-122,generic_name,jwh-122,benzodiazepine derivative sedatives/hypnotics,schedule i
+75,am-2201,generic_name,am-2201,benzodiazepine derivative sedatives/hypnotics,schedule i
+76,amphetamine,generic_name,amphetamine,amphetamines,schedule ii
+77,4-methylethcathinone,generic_name,4-methylethcathinone,amphetamines,schedule i
+78,apinaca,generic_name,apinaca,amphetamines,schedule i
+79,levomethadone,generic_name,levomethadone,amphetamines,schedule ii
+80,xlr-11 (drug),generic_name,xlr-11 (drug),amphetamines,schedule i
+81,5f-pb-22,generic_name,5f-pb-22,amphetamines,schedule i
+82,butyrfentanyl,generic_name,butyrfentanyl,amphetamines,schedule i
+83,pb-22,generic_name,pb-22,amphetamines,schedule i
+84,ab-chminaca,generic_name,ab-chminaca,amphetamines,schedule i
+85,adb-pinaca,generic_name,adb-pinaca,amphetamines,schedule i
+86,thj-2201,generic_name,thj-2201,amphetamines,schedule i
+87,mmda (drug),generic_name,mmda (drug),amphetamines,schedule i
+88,ohmefentanyl,generic_name,ohmefentanyl,amphetamines,schedule i
+89,6-monoacetylmorphine,generic_name,6-monoacetylmorphine,amphetamines,schedule i
+90,anileridine,generic_name,anileridine,amphetamines,schedule ii
+91,ethylestrenol,generic_name,ethylestrenol,amphetamines,schedule iii
+92,levorphanol,generic_name,levorphanol,amphetamines,schedule ii
+93,3-methylfentanyl,generic_name,3-methylfentanyl,amphetamines,schedule i
+94,3-methylthiofentanyl,generic_name,3-methylthiofentanyl,amphetamines,schedule i
+95,alphamethylthiofentanyl,generic_name,alphamethylthiofentanyl,amphetamines,schedule i
+96,betahydroxyfentanyl,generic_name,betahydroxyfentanyl,amphetamines,schedule i
+97,betahydroxythiofentanyl,generic_name,betahydroxythiofentanyl,amphetamines,schedule i
+98,diethylthiambutene,generic_name,diethylthiambutene,amphetamines,schedule i
+99,dimethylthiambutene,generic_name,dimethylthiambutene,amphetamines,schedule i
+100,drostanolone propionate,generic_name,drostanolone propionate,amphetamines,schedule iii
+101,ethylmethylthiambutene,generic_name,ethylmethylthiambutene,amphetamines,schedule i
+102,etilamfetamine,generic_name,etilamfetamine,amphetamines,schedule i
+103,hydroxypethidine,generic_name,hydroxypethidine,amphetamines,schedule i
+104,mazindol,generic_name,mazindol,amphetamines,schedule iv
+105,obetrol,generic_name,obetrol,amphetamines,schedule ii
+106,parafluorofentanyl,generic_name,parafluorofentanyl,amphetamines,schedule i
+107,phenadoxone,generic_name,phenadoxone,amphetamines,schedule i
+108,buprenorphine,generic_name,buprenorphine,opioid analgesics,schedule iii
+109,thiofentanyl,generic_name,thiofentanyl,opioid analgesics,schedule i
+110,α-methylacetylfentanyl,generic_name,α-methylacetylfentanyl,opioid analgesics,schedule i
+111,25b-nbome,generic_name,25b-nbome,opioid analgesics,schedule i
+112,alpha-pyrrolidinopentiophenone,generic_name,alpha-pyrrolidinopentiophenone,opioid analgesics,schedule i
+113,naphyrone,generic_name,naphyrone,opioid analgesics,schedule i
+114,racemorphan,generic_name,racemorphan,opioid analgesics,schedule ii
+115,clonazepam,generic_name,clonazepam,benzodiazepine derivative sedatives/hypnotics,schedule iv
+116,tetronal,generic_name,tetronal,benzodiazepine derivative sedatives/hypnotics,schedule iii
+117,cocaine,generic_name,cocaine,"anesthetics,mucosal",schedule ii
+118,acetylfentanyl,generic_name,acetylfentanyl,"anesthetics,mucosal",schedule i
+119,cannabidiol,generic_name,cannabidiol,"anesthetics,mucosal",schedule i
+120,desoxymethyltestosterone,generic_name,desoxymethyltestosterone,"anesthetics,mucosal",schedule iii
+121,dihydrocodeine,generic_name,dihydrocodeine,"anesthetics,mucosal",schedule ii
+122,tetrahydrogestrinone,generic_name,tetrahydrogestrinone,"anesthetics,mucosal",schedule iii
+123,alpha-methyltryptamine,generic_name,alpha-methyltryptamine,"anesthetics,mucosal",schedule i
+124,ergine,generic_name,ergine,"anesthetics,mucosal",schedule iii
+125,dexmethylphenidate,generic_name,dexmethylphenidate,"anesthetics,mucosal",schedule ii
+126,para-methoxyamphetamine,generic_name,para-methoxyamphetamine,"anesthetics,mucosal",schedule i
+127,psilocin,generic_name,psilocin,"anesthetics,mucosal",schedule i
+128,dimethyllysergamide,generic_name,dimethyllysergamide,"anesthetics,mucosal",schedule i
+129,fenethylline,generic_name,fenethylline,"anesthetics,mucosal",schedule i
+130,hexobarbital,generic_name,hexobarbital,"anesthetics,mucosal",schedule iii
+131,levomethorphan,generic_name,levomethorphan,"anesthetics,mucosal",schedule ii
+132,methorphan,generic_name,methorphan,"anesthetics,mucosal",schedule ii
+133,methyprylon,generic_name,methyprylon,"anesthetics,mucosal",schedule iii
+134,pholcodine,generic_name,pholcodine,"anesthetics,mucosal",schedule i
+135,tetrazepam,generic_name,tetrazepam,"anesthetics,mucosal",schedule iv
+136,acetyldihydrocodeine,generic_name,acetyldihydrocodeine,"anesthetics,mucosal",schedule i
+137,bolandione,generic_name,bolandione,"anesthetics,mucosal",schedule iii
+138,jwh-250,generic_name,jwh-250,"anesthetics,mucosal",schedule i
+139,lopirazepam,generic_name,lopirazepam,"anesthetics,mucosal",schedule iv
+140,jwh-398,generic_name,jwh-398,"anesthetics,mucosal",schedule i
+141,alphacetylmethadol,generic_name,alphacetylmethadol,"anesthetics,mucosal",schedule i
+142,betacetylmethadol,generic_name,betacetylmethadol,"anesthetics,mucosal",schedule i
+143,ab-fubinaca,generic_name,ab-fubinaca,"anesthetics,mucosal",schedule i
+144,ab-pinaca,generic_name,ab-pinaca,"anesthetics,mucosal",schedule i
+145,"3,4-methylenedioxy-n-ethylamphetamine",generic_name,"3,4-methylenedioxy-n-ethylamphetamine","anesthetics,mucosal",schedule i
+146,racemoramide,generic_name,racemoramide,"anesthetics,mucosal",schedule i
+147,dextroamphetamine,generic_name,dextroamphetamine,"anesthetics,mucosal",schedule ii
+148,5-methoxy-diisopropyltryptamine,generic_name,5-methoxy-diisopropyltryptamine,"anesthetics,mucosal",schedule i
+149,methaqualone,generic_name,methaqualone,"anesthetics,mucosal",schedule i
+150,benzphetamine,generic_name,benzphetamine,"anesthetics,mucosal",schedule iii
+151,temazepam,generic_name,temazepam,"anesthetics,mucosal",schedule iv
+152,ethchlorvynol,generic_name,ethchlorvynol,"anesthetics,mucosal",schedule iv
+153,tiletamine,generic_name,tiletamine,"anesthetics,mucosal",schedule iii
+154,barbital,generic_name,barbital,"anesthetics,mucosal",schedule iv
+155,boldenone,generic_name,boldenone,"anesthetics,mucosal",schedule iii
+156,clorazepate,generic_name,clorazepate,"anesthetics,mucosal",schedule iv
+157,metandienone,generic_name,metandienone,"anesthetics,mucosal",schedule iii
+158,methohexital,generic_name,methohexital,"anesthetics,mucosal",schedule iv
+159,nordazepam,generic_name,nordazepam,"anesthetics,mucosal",schedule iv
+160,oxymetholone,generic_name,oxymetholone,"anesthetics,mucosal",schedule iii
+161,quinbolone,generic_name,quinbolone,"anesthetics,mucosal",schedule iii
+162,"2,5-dimethoxy-4-ethylamphetamine",generic_name,"2,5-dimethoxy-4-ethylamphetamine","anesthetics,mucosal",schedule i
+163,4-methylaminorex,generic_name,4-methylaminorex,"anesthetics,mucosal",schedule i
+164,dextromoramide,generic_name,dextromoramide,"anesthetics,mucosal",schedule i
+165,dihydromorphine,generic_name,dihydromorphine,"anesthetics,mucosal",schedule i
+166,dipipanone,generic_name,dipipanone,"anesthetics,mucosal",schedule i
+167,metenolone enanthate,generic_name,metenolone enanthate,"anesthetics,mucosal",schedule iii
+168,metharbital,generic_name,metharbital,"anesthetics,mucosal",schedule iii
+169,methylphenobarbital,generic_name,methylphenobarbital,"anesthetics,mucosal",schedule iv
+170,prazepam,generic_name,prazepam,"anesthetics,mucosal",schedule iv
+171,4-methylthioamphetamine,generic_name,4-methylthioamphetamine,"anesthetics,mucosal",schedule i
+172,amfepramone,generic_name,amfepramone,"anesthetics,mucosal",schedule iv
+173,aminorex,generic_name,aminorex,"anesthetics,mucosal",schedule i
+174,butorphanol,generic_name,butorphanol,"anesthetics,mucosal",schedule iv
+175,camazepam,generic_name,camazepam,"anesthetics,mucosal",schedule iv
+176,cinolazepam,generic_name,cinolazepam,"anesthetics,mucosal",schedule iv
+177,clotiazepam,generic_name,clotiazepam,"anesthetics,mucosal",schedule iv
+178,cloxazolam,generic_name,cloxazolam,"anesthetics,mucosal",schedule iv
+179,dexfenfluramine,generic_name,dexfenfluramine,"anesthetics,mucosal",schedule iv
+180,dichloralphenazone,generic_name,dichloralphenazone,"anesthetics,mucosal",schedule iv
+181,doxefazepam,generic_name,doxefazepam,"anesthetics,mucosal",schedule iv
+182,ethyl loflazepate,generic_name,ethyl loflazepate,"anesthetics,mucosal",schedule iv
+183,etonitazene,generic_name,etonitazene,"anesthetics,mucosal",schedule i
+184,fludiazepam,generic_name,fludiazepam,"anesthetics,mucosal",schedule iv
+185,gidazepam,generic_name,gidazepam,"anesthetics,mucosal",schedule iv
+186,halazepam,generic_name,halazepam,"anesthetics,mucosal",schedule iv
+187,ketazolam,generic_name,ketazolam,"anesthetics,mucosal",schedule iv
+188,loprazolam,generic_name,loprazolam,"anesthetics,mucosal",schedule iv
+189,lormetazepam,generic_name,lormetazepam,"anesthetics,mucosal",schedule iv
+190,medazepam,generic_name,medazepam,"anesthetics,mucosal",schedule iv
+191,nimetazepam,generic_name,nimetazepam,"anesthetics,mucosal",schedule iv
+192,pinazepam,generic_name,pinazepam,"anesthetics,mucosal",schedule iv
+193,vinbarbital,generic_name,vinbarbital,"anesthetics,mucosal",schedule iii
+194,vinylbital,generic_name,vinylbital,"anesthetics,mucosal",schedule iv
+195,furazabol,generic_name,furazabol,"anesthetics,mucosal",schedule iii
+196,lefetamine,generic_name,lefetamine,"anesthetics,mucosal",schedule iv
+197,mesterolone,generic_name,mesterolone,"anesthetics,mucosal",schedule iii
+198,norethandrolone,generic_name,norethandrolone,"anesthetics,mucosal",schedule iii
+199,crack cocaine,generic_name,crack cocaine,"anesthetics,mucosal",schedule ii
+200,phenoperidine,generic_name,phenoperidine,"anesthetics,mucosal",schedule i
+201,"3,4-methylenedioxy-n-hydroxyamphetamine",generic_name,"3,4-methylenedioxy-n-hydroxyamphetamine","anesthetics,mucosal",schedule i
+202,eticyclidine,generic_name,eticyclidine,"anesthetics,mucosal",schedule i
+203,haloxazolam,generic_name,haloxazolam,"anesthetics,mucosal",schedule iv
+204,lisdexamfetamine,generic_name,lisdexamfetamine,"anesthetics,mucosal",schedule ii
+205,mecloqualone,generic_name,mecloqualone,"anesthetics,mucosal",schedule i
+206,metopon,generic_name,metopon,"anesthetics,mucosal",schedule ii
+207,rolicyclidine,generic_name,rolicyclidine,"anesthetics,mucosal",schedule i
+208,tenocyclidine,generic_name,tenocyclidine,"anesthetics,mucosal",schedule i
+209,thiamylal,generic_name,thiamylal,"anesthetics,mucosal",schedule iii
+210,α-methylfentanyl,generic_name,α-methylfentanyl,"anesthetics,mucosal",schedule i
+211,delorazepam,generic_name,delorazepam,"anesthetics,mucosal",schedule iv
+212,normethadone,generic_name,normethadone,"anesthetics,mucosal",schedule i
+213,zipeprol,generic_name,zipeprol,"anesthetics,mucosal",schedule i
+214,noracymethadol,generic_name,noracymethadol,"anesthetics,mucosal",schedule i
+215,norpipanone,generic_name,norpipanone,"anesthetics,mucosal",schedule i
+216,arketamine,generic_name,arketamine,"anesthetics,mucosal",schedule iii
+217,eluxadoline,generic_name,eluxadoline,"anesthetics,mucosal",schedule iv
+218,adb-chminaca,generic_name,adb-chminaca,"anesthetics,mucosal",schedule i
+219,benzylpiperazine,generic_name,benzylpiperazine,"anesthetics,mucosal",schedule i
+220,suvorexant,generic_name,suvorexant,"anesthetics,mucosal",schedule iv
+221,bromazepam,generic_name,bromazepam,"anesthetics,mucosal",schedule iv
+222,alfentanil,generic_name,alfentanil,"anesthetics,mucosal",schedule ii
+223,bufotenin,generic_name,bufotenin,"anesthetics,mucosal",schedule i
+224,fenfluramine,generic_name,fenfluramine,"anesthetics,mucosal",schedule iv
+225,flurazepam,generic_name,flurazepam,"anesthetics,mucosal",schedule iv
+226,remifentanil,generic_name,remifentanil,"anesthetics,mucosal",schedule ii
+227,sufentanil,generic_name,sufentanil,"anesthetics,mucosal",schedule ii
+228,zopiclone,generic_name,zopiclone,"anesthetics,mucosal",schedule iv
+229,ah-7921,generic_name,ah-7921,"anesthetics,mucosal",schedule i
+230,jwh-203,generic_name,jwh-203,"anesthetics,mucosal",schedule i
+231,pentylone,generic_name,pentylone,"anesthetics,mucosal",schedule i
+232,ecstasy/mdma,generic_name,ecstasy/mdma,unknown,schedule i
+233,clobazam,generic_name,clobazam,benzodiazepine,schedule iv
+234,ibogaine,generic_name,ibogaine,unknown,schedule i
+235,pemoline,generic_name,pemoline,drug,schedule iv
+236,phendimetrazine,generic_name,phendimetrazine,drug,schedule iii
+237,talbutal,generic_name,talbutal,barbiturate,schedule iii
+238,butabarbital,generic_name,butabarbital,aid,schedule iii
+239,butalbital,generic_name,butalbital,barbiturate,schedule iii
+240,butylone,generic_name,butylone,entactogen,schedule i
+241,hydrocodone,generic_name,hydrocodone,opioid-containing antitussives/expectorants,schedule ii
+242,estazolam,generic_name,estazolam,opioid-containing antitussives/expectorants,schedule iv
+243,methylone,generic_name,methylone,opioid-containing antitussives/expectorants,schedule i
+244,oxandrolone,generic_name,oxandrolone,opioid-containing antitussives/expectorants,schedule iii
+245,pentobarbital,generic_name,pentobarbital,opioid analgesics,schedule ii
+246,phenmetrazine,generic_name,phenmetrazine,opioid analgesics,schedule ii
+247,quazepam,generic_name,quazepam,opioid analgesics,schedule iv
+248,methamphetamine,generic_name,methamphetamine,amphetamines,schedule ii
+249,acetylmethadol,generic_name,acetylmethadol,amphetamines,schedule i
+250,alphamethadol,generic_name,alphamethadol,amphetamines,schedule i
+251,benzethidine,generic_name,benzethidine,amphetamines,schedule i
+252,betamethadol,generic_name,betamethadol,amphetamines,schedule i
+253,clonitazene,generic_name,clonitazene,amphetamines,schedule i
+254,diampromide,generic_name,diampromide,amphetamines,schedule i
+255,dimenoxadol,generic_name,dimenoxadol,amphetamines,schedule i
+256,dimepheptanol,generic_name,dimepheptanol,amphetamines,schedule i
+257,dimethylamphetamine,generic_name,dimethylamphetamine,amphetamines,schedule i
+258,dimethylheptylpyran,generic_name,dimethylheptylpyran,amphetamines,schedule i
+259,dioxaphetyl butyrate,generic_name,dioxaphetyl butyrate,amphetamines,schedule i
+260,embutramide,generic_name,embutramide,amphetamines,schedule iii
+261,ethoheptazine,generic_name,ethoheptazine,amphetamines,schedule iv
+262,etoxeridine,generic_name,etoxeridine,amphetamines,schedule i
+263,furethidine,generic_name,furethidine,amphetamines,schedule i
+264,morpheridine,generic_name,morpheridine,amphetamines,schedule i
+265,myrophine,generic_name,myrophine,amphetamines,schedule i
+266,n-ethyl-3-piperidyl benzilate,generic_name,n-ethyl-3-piperidyl benzilate,amphetamines,schedule i
+267,n-methyl-3-piperidyl benzilate,generic_name,n-methyl-3-piperidyl benzilate,amphetamines,schedule i
+268,norpethidine,generic_name,norpethidine,amphetamines,schedule ii
+269,pepap,generic_name,pepap,amphetamines,schedule i
+270,pethidine intermediate a,generic_name,pethidine intermediate a,amphetamines,schedule ii
+271,phenampromide,generic_name,phenampromide,amphetamines,schedule i
+272,proheptazine,generic_name,proheptazine,amphetamines,schedule i
+273,25i-nbome,generic_name,25i-nbome,amphetamines,schedule i
+274,"cp 47,497",generic_name,"cp 47,497",amphetamines,schedule i
+275,jwh-200,generic_name,jwh-200,amphetamines,schedule i
+276,levomoramide,generic_name,levomoramide,amphetamines,schedule i
+277,normorphine,generic_name,normorphine,amphetamines,schedule i
+278,3-fluoromethcathinone,generic_name,3-fluoromethcathinone,amphetamines,schedule i
+279,diethyltryptamine,generic_name,diethyltryptamine,amphetamines,schedule i
+280,armodafinil,generic_name,armodafinil,amphetamines,schedule iv
+281,sodium oxybate,generic_name,sodium oxybate,amphetamines,schedule iii
+282,2c-b,generic_name,2c-b,amphetamines,schedule i
+283,pentazocine,generic_name,pentazocine,amphetamines,schedule iv
+284,allobarbital,generic_name,allobarbital,amphetamines,schedule iii
+285,chlorphentermine,generic_name,chlorphentermine,amphetamines,schedule iii
+286,clortermine,generic_name,clortermine,amphetamines,schedule iii
+287,diacetyldihydromorphine,generic_name,diacetyldihydromorphine,amphetamines,schedule i
+288,dipropanoylmorphine,generic_name,dipropanoylmorphine,amphetamines,schedule i
+289,fencamfamine,generic_name,fencamfamine,amphetamines,schedule iv
+290,mibolerone,generic_name,mibolerone,amphetamines,schedule iii
+291,nicocodeine,generic_name,nicocodeine,amphetamines,schedule i
+292,nicodicodeine,generic_name,nicodicodeine,amphetamines,schedule i
+293,nicomorphine,generic_name,nicomorphine,amphetamines,schedule i
+294,parahexyl,generic_name,parahexyl,amphetamines,schedule i
+295,pipradrol,generic_name,pipradrol,amphetamines,schedule iv
+296,properidine,generic_name,properidine,amphetamines,schedule i
+297,thebacon,generic_name,thebacon,amphetamines,schedule i
+298,alfaxalone,generic_name,alfaxalone,amphetamines,schedule iv
+299,chloralodol,generic_name,chloralodol,amphetamines,schedule iii
+300,levacetylmethadol,generic_name,levacetylmethadol,amphetamines,schedule ii
+301,mebutamate,generic_name,mebutamate,amphetamines,schedule iv
+302,sulfonmethane,generic_name,sulfonmethane,amphetamines,schedule iii
+303,methylphenidate,generic_name,methylphenidate,amphetamine like stimulants,schedule ii
+304,4'-methyl-α-pyrrolidinopropiophenone,generic_name,4'-methyl-α-pyrrolidinopropiophenone,amphetamine like stimulants,schedule i
+305,flephedrone,generic_name,flephedrone,amphetamine like stimulants,schedule i
+306,isomethadone,generic_name,isomethadone,amphetamine like stimulants,schedule ii
+307,25c-nbome,generic_name,25c-nbome,amphetamine like stimulants,schedule i
+308,chloral betaine,generic_name,chloral betaine,amphetamine like stimulants,schedule iv
+309,rcs-4,generic_name,rcs-4,amphetamine like stimulants,schedule i
+310,rcs-8,generic_name,rcs-8,amphetamine like stimulants,schedule i
+311,morphine,generic_name,morphine,opioid analgesics,schedule ii
+312,noroxymorphone,generic_name,noroxymorphone,opioid analgesics,schedule ii
+313,opium,generic_name,opium,antidiarrheal agents,schedule ii
+314,u-47700,generic_name,u-47700,unknown,unknown
+315,cannabis,generic_name,cannabis,unknown,schedule i
+316,marijuana concentrates/hash oil,generic_name,marijuana concentrates/hash oil,unknown,unknown
+317,synthetic cannabinoids,generic_name,synthetic cannabinoids,unknown,unknown
+318,synthetic cathinones,generic_name,synthetic cathinones,unknown,unknown
+319,codeine,generic_name,codeine,opioid-containing antitussives/expectorants,schedule ii
+320,meperidine,generic_name,meperidine;isonipecaine;pethidine,opioid analgesics,unknown
+321,lysergic acid diethylamide,generic_name,lysergic acid diethylamide,drug,schedule i
+322,psilocybin,generic_name,psilocybin,unknown,unknown
+323,lorazepam,generic_name,lorazepam,benzodiazepine derivative sedatives/hypnotics,schedule iv
+324,triazolam,generic_name,triazolam,benzodiazepine derivative sedatives/hypnotics,schedule iv
+325,chlordiazepoxide,generic_name,chlordiazepoxide,"cns medications,other",schedule iv
+326,flunitrazepam,generic_name,flunitrazepam,benzodiazepine,schedule iv
+327,diazepam,generic_name,diazepam,benzodiazepine derivative sedatives/hypnotics,schedule iv
+328,ayahuasca,generic_name,ayahuasca,unknown,unknown
+329,dmt,generic_name,dmt,unknown,schedule i
+330,ghb,generic_name,ghb,unknown,unknown
+331,ketamine,generic_name,ketamine,"general anesthetics,other",schedule iii
+332,khat,generic_name,khat,unknown,unknown
+333,kratom,generic_name,kratom,unknown,unknown
+334,mescaline,generic_name,mescaline,unknown,schedule i
+335,pcp,generic_name,pcp,unknown,unknown
+336,peyote,generic_name,peyote,unknown,unknown
+337,salvia,generic_name,salvia,unknown,unknown
+338,amyl nitrate,generic_name,amyl nitrate,antianginals,unknown
+339,isobutyl nitrate,generic_name,isobutyl nitrate,contact lens solutions,unknown
+340,nitrous oxide,generic_name,nitrous oxide,hemorrhoidal preparations without steroid,unknown
+341,propoxyphene,generic_name,propoxyphene,opioid analgesics,unknown
+342,tramadol,generic_name,tramadol,opioid analgesics,schedule iv
+343,dimenhydrinate,generic_name,dimenhydrinate,"antihistamines,ethanolamine",otc
+344,dxm,generic_name,dxm,unknown,unknown
+345,pseudoephedrine,generic_name,pseudoephedrine,"cold remedies,other",otc
+346,zolpidem,generic_name,zolpidem,"sedatives/hypnotics,other",schedule iv
+347,eszopiclone,generic_name,eszopiclone,"sedatives/hypnotics,other",schedule iv
+348,zaleplon,generic_name,zaleplon,"sedatives/hypnotics,other",schedule iv
+349,amobarbital,generic_name,amobarbital,barbituric acid derivative sedatives/hypnotics,unknown
+350,paroxetine,generic_name,paroxetine,"antidepressants,other",rx-only
+351,fluoxetine,generic_name,fluoxetine,"antidepressants,other",rx-only
+352,sertraline,generic_name,sertraline,"antidepressants,other",rx-only
+353,phentermine,generic_name,phentermine,centrally-acting appetite suppressants,schedule iv
+354,nandrolone,generic_name,nandrolone,androgens/anabolics,schedule iii
+355,testosterone,generic_name,testosterone,"hormones/synthetics/modifiers,other",schedule iii
+356,hydromorphone,generic_name,hydromorphone,opioid analgesics,schedule ii
+357,oxymorphone,generic_name,oxymorphone hydrochloride extended-release tablets,opioid analgesics,schedule ii
+358,methadone,generic_name,methadone hydrochloride tablets,opioid analgesics,schedule ii
+359,tapentadol,generic_name,tapentadol extended-release oral tablets,opioid analgesics,schedule ii

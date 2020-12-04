@@ -1,0 +1,71 @@
+
+// imported data is on this drive: https://drive.google.com/drive/folders/1n_ZC9UoNQ4eOtR9tJw1NJ_-MFZK4wkSV
+
+// for each csv file:
+// 1) save as sheeet
+// 2) change permissions to be available for anyone
+// 3) File -> Publish to the web -> SELECT Comma-separated values (.csv) -> get link
+
+// reddit.csv -> https://docs.google.com/spreadsheets/d/e/2PACX-1vRdtGwwvfvkdMtjYoX3JYKzw4h0DbwOyPYhNaesM8hn2uEMQx5iLX7yWloAkhMgemfuq7I4vwwRfTLa/pub?output=csv
+// reddit_relations.csv -> https://docs.google.com/spreadsheets/d/e/2PACX-1vQWt6VRiOB43onjPtdCFDzublNnLKaGxw7npud1lkiKokKMaOTRPoxzGyp3rYyZ7YhfApCw-qGzOiOR/pub?gid=1081941920&single=true&output=csv
+// drug_names.csv -> https://docs.google.com/spreadsheets/d/e/2PACX-1vQjIy6aPHe8J0lPHOpfU3-j9_znEPvtnzoWYVWLNXR1jvO2d7hjdg-Tg_Mihmi7pby1kROLyFAUcnBg/pub?output=csv
+//generic_names.csv -> https://docs.google.com/spreadsheets/d/e/2PACX-1vTxHtX72Ff9Id9MCpPTZDiKfJAYiEsOqi44YoX0AmDYqzRCvEzfcW4kUd8ynQ9nRUytIEID9k8OsXj2/pub?output=csv
+//alt_names.csv -> https://docs.google.com/spreadsheets/d/e/2PACX-1vTFrzc2ve5kWkaYcQeHjUHXULDKcX8ZVapBUWRBH1ftWHOJM3vBPJiPp4IvnYlHTTXkYScL7kcJn128/pub?gid=340207541&single=true&output=csv
+//gen_alt_rel_table.csv -> https://docs.google.com/spreadsheets/d/e/2PACX-1vRKyLsPI-P5MryOuy10Z-puw4COJh9_W2igJXc9_s0pSdHCXOyHpwaqCY7QtplgacCfHBSvPcc7IPVL/pub?gid=149684163&single=true&output=csv
+//usnews.csv -> https://docs.google.com/spreadsheets/d/e/2PACX-1vSq-dJujti2HcWfqC2fBf8bDrXh9ubtiuKgLCfBbh2Lb2fsAt-EHjzabfoJfaHmkjupmtZDyiJnPE-K/pub?output=csv
+//news_relations.csv -> https://docs.google.com/spreadsheets/d/e/2PACX-1vThHXenXa7EWtiTf3hLG_ZuCvOfH-aX9n1r7Nh5ud-WMXw6rOs2MplomWkmNQUSBK7xidUsMV7v1PdE/pub?output=csv
+
+//////////////////////////////// START CODE TO LOAD DATA ////////////////////////////////
+// clear every node
+MATCH (n)
+DETACH DELETE n;
+
+// create id constraint to avoid duplicates
+CREATE CONSTRAINT ON (gn:Generic_Name) ASSERT gn.id IS UNIQUE;
+CREATE CONSTRAINT ON (n:Alt_Name) ASSERT n.id IS UNIQUE;
+CREATE CONSTRAINT ON (r:Reddit_Post) ASSERT r.id IS UNIQUE;
+CREATE CONSTRAINT ON (usn:USNews_Post) ASSERT usn.id IS UNIQUE;
+
+//load generic name data
+LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vTxHtX72Ff9Id9MCpPTZDiKfJAYiEsOqi44YoX0AmDYqzRCvEzfcW4kUd8ynQ9nRUytIEID9k8OsXj2/pub?output=csv" AS csvLine
+CREATE (gn:Generic_Name {id: toInteger(csvLine.id), name: csvLine.name, name_type: csvLine.name_type, full_generic_name: csvLine.full_generic_name,
+        category: csvLine.category, fda_schedule: csvLine.fda_schedule});
+
+// load alt names data
+LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vTFrzc2ve5kWkaYcQeHjUHXULDKcX8ZVapBUWRBH1ftWHOJM3vBPJiPp4IvnYlHTTXkYScL7kcJn128/pub?gid=340207541&single=true&output=csv" AS csvLine
+CREATE (n:Alt_Name {id: toInteger(csvLine.id), name: csvLine.name});
+
+// load reddit data and create author relationship
+LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vRdtGwwvfvkdMtjYoX3JYKzw4h0DbwOyPYhNaesM8hn2uEMQx5iLX7yWloAkhMgemfuq7I4vwwRfTLa/pub?output=csv" AS csvLine
+MERGE (a:Author {author: csvLine.author}) 
+CREATE (r:Reddit_Post {id: toInteger(csvLine.id), created: date(csvLine.created), title: csvLine.title, link_flair_text: csvLine.link_flair_text, num_comments: csvLine.num_comments, score: csvLine.score, upvote_ratio: csvLine.upvote_ratio, reddit_id: csvLine.reddit_id})
+CREATE (r)-[:REDDIT_AUTHOR]->(a);
+
+// load reddit relations
+LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vQWt6VRiOB43onjPtdCFDzublNnLKaGxw7npud1lkiKokKMaOTRPoxzGyp3rYyZ7YhfApCw-qGzOiOR/pub?gid=1081941920&single=true&output=csv" AS csvLine
+MATCH (r:Reddit_Post {id: toInteger(csvLine.id_reddit)}),(n:Alt_Name {id: toInteger(csvLine.id_names)})
+CREATE (r)-[:REDDIT_RELATION {proba: csvLine.proba}]->(n);
+
+// load generic names-alt names relations
+LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vRKyLsPI-P5MryOuy10Z-puw4COJh9_W2igJXc9_s0pSdHCXOyHpwaqCY7QtplgacCfHBSvPcc7IPVL/pub?gid=149684163&single=true&output=csv" AS csvLine
+MATCH (n:Alt_Name {id: toInteger(csvLine.id_alt)}), (gn:Generic_Name {id: toInteger(csvLine.id_generic)})
+CREATE (gn)-[:SAME_AS]->(n);
+
+// load us news data and create news source relationship
+LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vSq-dJujti2HcWfqC2fBf8bDrXh9ubtiuKgLCfBbh2Lb2fsAt-EHjzabfoJfaHmkjupmtZDyiJnPE-K/pub?output=csv" AS csvLine
+MERGE (usn_s:Source {src: csvLine.src_name}) 
+CREATE (usn:USNews_Post {id: toInteger(csvLine.id), title: csvLine.title, publishdate: date(csvLine.publishdate)})
+CREATE (usn)-[:USNEWS_SOURCE]->(usn_s);
+
+// load us news relations
+LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vThHXenXa7EWtiTf3hLG_ZuCvOfH-aX9n1r7Nh5ud-WMXw6rOs2MplomWkmNQUSBK7xidUsMV7v1PdE/pub?output=csv" AS csvLine
+MATCH (usn:USNews_Post {id: toInteger(csvLine.id_news)}),(gn:Generic_Name {id: toInteger(csvLine.id_names)})
+CREATE (usn)-[:USNEWS_RELATION {proba: csvLine.proba}]->(gn);
+
+// drop indexes added to avoid duplicates
+DROP CONSTRAINT ON (gn:Generic_Name) ASSERT gn.id IS UNIQUE;
+DROP CONSTRAINT ON (n:Alt_Name) ASSERT n.id IS UNIQUE;
+DROP CONSTRAINT ON (r:Reddit_Post) ASSERT r.id IS UNIQUE;
+DROP CONSTRAINT ON (usn:USNews_Post) ASSERT usn.id IS UNIQUE;
+//////////////////////////////// END CODE TO LOAD DATA ////////////////////////////////
+

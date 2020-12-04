@@ -38,7 +38,7 @@ CREATE (n:Alt_Name {id: toInteger(csvLine.id), name: csvLine.name});
 // load reddit data and create author relationship
 LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vRdtGwwvfvkdMtjYoX3JYKzw4h0DbwOyPYhNaesM8hn2uEMQx5iLX7yWloAkhMgemfuq7I4vwwRfTLa/pub?output=csv" AS csvLine
 MERGE (a:Author {author: csvLine.author}) 
-CREATE (r:Reddit_Post {id: toInteger(csvLine.id), created: csvLine.created, title: csvLine.title, link_flair_text: csvLine.link_flair_text, num_comments: csvLine.num_comments, score: csvLine.score, upvote_ratio: csvLine.upvote_ratio, reddit_id: csvLine.reddit_id})
+CREATE (r:Reddit_Post {id: toInteger(csvLine.id), created: date(csvLine.created), title: csvLine.title, link_flair_text: csvLine.link_flair_text, num_comments: csvLine.num_comments, score: csvLine.score, upvote_ratio: csvLine.upvote_ratio, reddit_id: csvLine.reddit_id})
 CREATE (r)-[:REDDIT_AUTHOR]->(a);
 
 // load reddit relations

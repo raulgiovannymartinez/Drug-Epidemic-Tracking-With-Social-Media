@@ -8,5 +8,5 @@ data/usnewspaper-Jun-Aug_en_cleaned_relevantNews_removedBrown.csv
 data/usnewspaper-Jun-Aug_en_cleaned_relevantNews_v2.csv
 
 .ipynb_checkpoints
-
+*/.ipynb_checkpoints/*
 # end

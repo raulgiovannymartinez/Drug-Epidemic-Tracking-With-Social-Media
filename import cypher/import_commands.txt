@@ -39,28 +39,28 @@ CREATE (n:Alt_Name {id: toInteger(csvLine.id), name: csvLine.name});
 LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vRdtGwwvfvkdMtjYoX3JYKzw4h0DbwOyPYhNaesM8hn2uEMQx5iLX7yWloAkhMgemfuq7I4vwwRfTLa/pub?output=csv" AS csvLine
 MERGE (a:Author {author: csvLine.author}) 
 CREATE (r:Reddit_Post {id: toInteger(csvLine.id), created: csvLine.created, title: csvLine.title, link_flair_text: csvLine.link_flair_text, num_comments: csvLine.num_comments, score: csvLine.score, upvote_ratio: csvLine.upvote_ratio, reddit_id: csvLine.reddit_id})
-CREATE (a)-[:REDDIT_AUTHOR]->(r);
+CREATE (r)-[:REDDIT_AUTHOR]->(a);
 
 // load reddit relations
-//:auto USING PERIODIC COMMIT 1000
 LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vQWt6VRiOB43onjPtdCFDzublNnLKaGxw7npud1lkiKokKMaOTRPoxzGyp3rYyZ7YhfApCw-qGzOiOR/pub?gid=1081941920&single=true&output=csv" AS csvLine
 MATCH (r:Reddit_Post {id: toInteger(csvLine.id_reddit)}),(n:Alt_Name {id: toInteger(csvLine.id_names)})
-CREATE (r)-[:REDDIT_Relation {proba: csvLine.proba}]->(n);
+CREATE (r)-[:REDDIT_RELATION {proba: csvLine.proba}]->(n);
 
 // load generic names-alt names relations
 LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vRKyLsPI-P5MryOuy10Z-puw4COJh9_W2igJXc9_s0pSdHCXOyHpwaqCY7QtplgacCfHBSvPcc7IPVL/pub?gid=149684163&single=true&output=csv" AS csvLine
 MATCH (n:Alt_Name {id: toInteger(csvLine.id_alt)}), (gn:Generic_Name {id: toInteger(csvLine.id_generic)})
-CREATE (n)-[:SAME_AS]->(gn);
+CREATE (gn)-[:SAME_AS]->(n);
 
-// load us news data
+// load us news data and create news source relationship
 LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vSq-dJujti2HcWfqC2fBf8bDrXh9ubtiuKgLCfBbh2Lb2fsAt-EHjzabfoJfaHmkjupmtZDyiJnPE-K/pub?output=csv" AS csvLine
-CREATE (usn:USNews_Post {id: toInteger(csvLine.id), title: csvLine.title, publishdate: csvLine.publishdate, src_name: csvLine.src_name});
+MERGE (usn_s:Source {src: csvLine.src_name}) 
+CREATE (usn:USNews_Post {id: toInteger(csvLine.id), title: csvLine.title, publishdate: csvLine.publishdate})
+CREATE (usn)-[:USNEWS_SOURCE]->(usn_s);
 
 // load us news relations
-//:auto USING PERIODIC COMMIT 1000
 LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vThHXenXa7EWtiTf3hLG_ZuCvOfH-aX9n1r7Nh5ud-WMXw6rOs2MplomWkmNQUSBK7xidUsMV7v1PdE/pub?output=csv" AS csvLine
 MATCH (usn:USNews_Post {id: toInteger(csvLine.id_news)}),(gn:Generic_Name {id: toInteger(csvLine.id_names)})
-CREATE (usn)-[:USNEWS_Relation {proba: csvLine.proba}]->(gn);
+CREATE (usn)-[:USNEWS_RELATION {proba: csvLine.proba}]->(gn);
 
 // drop indexes added to avoid duplicates
 DROP CONSTRAINT ON (gn:Generic_Name) ASSERT gn.id IS UNIQUE;

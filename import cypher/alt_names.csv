@@ -1,2376 +1,2376 @@
-id,name
-0,fentanyl
-1,apache
-2,birria
-3,coca
-4,blue diamond
-5,laudanum
-6,blue dolphin
-7,china girl
-8,china town
-9,sodium thiopental
-10,china white
-11,chinese buffet
-12,chinese food crazy
-13,crazy one
-14,dance fever
-15,dragon
-16,dragon’s breath
-17,fuf
-18,facebook
-19,fent
-20,fenty
-21,cathine
-22,goodfella
-23,cathinone
-24,great bear
-25,gray stuff
-26,he-man
-27,heineken
-28,pethidine
-29,huerfanito
-30,humid
-31,jackpot
-32,king ivory
-33,alpha-pyrrolidinobutiophenone
-34,lollipop
-35,murder 8
-36,nal
-37,nil
-38,lorcaserin
-39,nyl
-40,opes
-41,pharmacy
-42,poison
-43,snowflake
-44,acetorphine
-45,tango and cash
-46,allylprodine
-47,tnt
-48,cyprenorphine
-49,toe tag dope
-50,white girl
-51,fenproporex
-52,white ladies
-53,heroin
-54,heterocodeine
-55,diacetylmorphine
-56,meprodine
-57,diamorphone
-58,metazocine
-59,abajo
-60,a-bomb
-61,phenomorphan
-62,achivia
-63,adormidera
-64,amarilla
-65,anestesia de caballo
-66,antifreeze
-67,apodo
-68,arpon
-69,aunt hazel
-70,avocado
-71,azucar
-72,bad seed
-73,baja corte
-74,ballot
-75,basketball
-76,basura
-77,beast
-78,beyonce
-79,big bag
-80,big h
-81,glutethimide
-82,big harry
-83,birdie powder
-84,birria
-85,birria blanca
-86,methyltestosterone
-87,black bitch
-88,carisoprodol
-89,black goat
-90,black olives
-91,black paint
-92,black pearl
-93,black sheep
-94,black shirt
-95,black tar
-96,blanco
-97,blow dope
-98,alpha-ethyltryptamine
-99,blue hero
-100,bombita
-101,bombs away
-102,bonita
-103,bozo
-104,brea negra
-105,brick gum
-106,brown crystal
-107,brown rhine
-108,brown sugar
-109,bubble gum
-110,burrito
-111,carfentanil
-112,caballo
-113,caballo negro
-114,caca
-115,café
-116,cajeta
-117,capital h
-118,cardio
-119,carga
-120,caro
-121,cement
-122,certificada
-123,chapopote
-124,charlie horse
-125,chavo
-126,benzylmorphine
-127,cheese
-128,chicle
-129,chiclosa
-130,desomorphine
-131,china blanca
-132,china cat
-133,dihydroetorphine
-134,china white
-135,chinese buffet
-136,chinese food
-137,chinese red
-138,chiva
-139,chiva blanca
-140,chiva loca
-141,hydromorphinol
-142,chiva negra
-143,chivones
-144,chocolate
-145,mephedrone
-146,chocolate balls
-147,chocolate shake
-148,choko
-149,phenazocine
-150,chorizo
-151,piminodine
-152,churro negro
-153,chutazo
-154,prodine
-155,coco
-156,propiram
-157,cohete
-158,comida
-159,crown crap
-160,curley hair
-161,dark girl
-162,dark kind
-163,dead on arrival
-164,diesel
-165,tilidine
-166,dog food
-167,doggie
-168,drotebanol
-169,doojee
-170,dope
-171,fospropofol
-172,dorado
-173,jwh-018
-174,dragon
-175,jwh-073
-176,dreck
-177,jwh-081
-178,dynamite
-179,levophenacylmorphan
-180,dyno
-181,el diablo
-182,enrique grande
-183,esquina
-184,esquinilla
-185,am-694
-186,fairy dust
-187,flea powder
-188,foolish powder
-189,galloping horse
-190,gamot
-191,cannabicyclohexanol
-192,gato
-193,pentedrone
-194,george smack
-195,globo
-196,goat
-197,golden girl
-198,good and plenty
-199,good h
-200,goofball
-201,3-monoacetylmorphine
-202,goma
-203,gorda
-204,gras
-205,grasin
-206,gravy
-207,ur-144
-208,gum
-209,h-caps
-210,hairy
-211,hard candy
-212,hard one
-213,methcathinone
-214,methylenedioxypyrovalerone
-215,hats
-216,hazel
-217,phenobarbital
-218,heaven dust
-219,helen
-220,helicopter
-221,hell dust
-222,hercules
-223,"3,4-methylenedioxyamphetamine"
-224,adderall
-225,hombre
-226,hot dope
-227,huera
-228,hummers
-229,jojee
-230,joy flakes
-231,joy powder
-232,junk
-233,kabayo
-234,karachi
-235,midazolam
-236,karate
-237,king’s tickets
-238,la tierra
-239,lemonade
-240,lenta
-241,lifesaver
-242,manteca
-243,marias
-244,marrion
-245,mayo
-246,mazpan
-247,indiplon
-248,menthol
-249,ketobemidone
-250,mexican black tar heroin
-251,mexican brown
-252,mexican food
-253,mexican horse
-254,trional
-255,mexican mud
-256,mexican tar
-257,mexican treat
-258,modelo negra
-259,bezitramide
-260,mojo
-261,mole
-262,mongega
-263,morena
-264,morenita
-265,mortal combat
-266,piritramide
-267,mujer
-268,murcielago
-269,flutemazepam
-270,muzzle
-271,methyldesorphine
-272,nanoo
-273,methyldihydromorphine
-274,negra
-275,pentamorphone
-276,negra tomasa
-277,negrita
-278,nice and easy
-279,obama
-280,old steve
-281,pants
-282,patty
-283,peg
-284,p-funk
-285,piezas
-286,plata
-287,poison
-288,polvo
-289,gamma-hydroxybutyric acid
-290,polvo de alegria
-291,hashish
-292,polvo de estrellas
-293,polvo feliz
-294,poppy
-295,prostituta negra
-296,puppy
-297,modafinil
-298,rambo
-299,"n,n-dimethyltryptamine"
-300,red chicken
-301,red eagle
-302,reindeer dust
-303,phencyclidine
-304,roofing tar
-305,ruby
-306,sack
-307,scag
-308,scat
-309,schmeck
-310,scramble
-311,shirts
-312,skag
-313,skunk
-314,trenbolone
-315,slime
-316,smack
-317,smeck
-318,snickers
-319,soda
-320,speedball
-321,spider blue
-322,desmethylprodine
-323,sticky kind
-324,stufa
-325,sweet jesus
-326,tan
-327,tar
-328,tecata
-329,ethylmorphine
-330,thunder
-331,tires
-332,tomasa
-333,tootsie roll
-334,tragic magic
-335,turtle
-336,vidrio
-337,weights
-338,white boy
-339,white girl
-340,white junk
-341,white lady
-342,white nurse
-343,white shirt
-344,white stuff
-345,witch
-346,witch hazel
-347,zapapote
-348,oxycodone
-349,512s
-350,bananas
-351,blue dynamite
-352,blueberries
-353,buttons
-354,ercs
-355,meprobamate
-356,greenies
-357,hillbilly heroin
-358,nabilone
-359,kickers
-360,m-30s
-361,paulas
-362,percs
-363,rims
-364,tires
-365,oxazepam
-366,perks
-367,alprazolam
-368,xanax
-369,benzos
-370,bicycle handle bars
-371,bicycle parts
-372,bricks
-373,footballs
-374,french fries
-375,handlebars
-376,sibutramine
-377,hulk
-378,l7
-379,ladders
-380,palitroque
-381,planks
-382,school bus
-383,upjohns
-384,white boys
-385,white girls
-386,xanies
-387,xan
-388,yellow boys
-389,zanbars
-390,jwh-019
-391,zannies
-392,zan
-393,jwh-122
-394,z-bars
-395,am-2201
-396,amphetamine
-397,acelerador
-398,4-methylethcathinone
-399,amps
-400,bam
-401,b-bombs
-402,beans
-403,bennies
-404,benz
-405,black and whites
-406,black beauties
-407,black birds
-408,black bombers
-409,black mollies
-410,blacks
-411,apinaca
-412,blue boys
-413,levomethadone
-414,bombita
-415,brain ticklers
-416,brownies
-417,xlr-11 (drug)
-418,bumblebees
-419,cartwheels
-420,5f-pb-22
-421,chalk
-422,butyrfentanyl
-423,chicken powder
-424,chochos
-425,chocolates
-426,pb-22
-427,christina
-428,chunk
-429,co-pilot
-430,coast-to-coasts
-431,crisscross
-432,cross roads
-433,cross tops
-434,crosses
-435,ab-chminaca
-436,debs
-437,adb-pinaca
-438,dexies
-439,diablos
-440,diamonds
-441,diet pills
-442,dolls
-443,dominoes
-444,double cross
-445,dulces
-446,thj-2201
-447,fives
-448,flour
-449,footballs
-450,mmda (drug)
-451,french blues
-452,ohmefentanyl
-453,geeked up
-454,goofballs
-455,greenies
-456,head drugs
-457,horse heads
-458,in-betweens
-459,jelly babies
-460,jelly beans
-461,jolly beans
-462,jugs
-463,la turnaround
-464,6-monoacetylmorphine
-465,leapers
-466,lid poppers
-467,anileridine
-468,lightening
-469,little bombs
-470,marathons
-471,mini beans
-472,mini bennies
-473,morning shot
-474,nuggets
-475,oranges
-476,pastas
-477,ethylestrenol
-478,pastillas
-479,peaches
-480,pep pills
-481,pepper
-482,levorphanol
-483,pingas
-484,pink hearts
-485,pixies
-486,pollutants
-487,purple hearts
-488,rippers
-489,road dope
-490,roses
-491,rueda
-492,snaps
-493,snow pallets
-494,sparkle plenty
-495,sparklers
-496,splash
-497,sweeties
-498,sweets
-499,tens
-500,thrusters
-501,tr-6s
-502,truck drivers
-503,turnabouts
-504,uppers
-505,wake ups
-506,west coast turnarounds
-507,3-methylfentanyl
-508,whiffle dust
-509,3-methylthiofentanyl
-510,white crosses
-511,alphamethylthiofentanyl
-512,betahydroxyfentanyl
-513,zoomers
-514,betahydroxythiofentanyl
-515,juice
-516,adderall
-517,diethylthiambutene
-518,a-train
-519,dimethylthiambutene
-520,abby
-521,drostanolone propionate
-522,addies
-523,ethylmethylthiambutene
-524,addy
-525,etilamfetamine
-526,amps
-527,christmas trees
-528,hydroxypethidine
-529,co-pilots
-530,lid poppers
-531,smart pills
-532,mazindol
-533,smarties
-534,study buddies
-535,obetrol
-536,study skittles
-537,truck drivers
-538,parafluorofentanyl
-539,zing
-540,dexedrine
-541,phenadoxone
-542,buprenorphine
-543,suboxone
-544,subutex
-545,thiofentanyl
-546,boxes
-547,α-methylacetylfentanyl
-548,bupes
-549,25b-nbome
-550,oranges
-551,alpha-pyrrolidinopentiophenone
-552,sobos
-553,stop signs
-554,stops
-555,subs
-556,big whites
-557,naphyrone
-558,buse
-559,small whites
-560,racemorphan
-561,strips
-562,clonazepam
-563,benzos
-564,tetronal
-565,k
-566,k-pin
-567,super valium
-568,tranks
-569,klonopin
-570,cocaine
-571,regular kind
-572,acetylfentanyl
-573,regular work
-574,reindeer dust
-575,richie
-576,rims
-577,rocky mountain
-578,cannabidiol
-579,rolex
-580,rolex hh
-581,rooster
-582,desoxymethyltestosterone
-583,dihydrocodeine
-584,schmeck
-585,schoolboy
-586,scorpion
-587,scottie
-588,tetrahydrogestrinone
-589,serpico
-590,alpha-methyltryptamine
-591,sierra
-592,ski equipment
-593,sleigh ride
-594,sneeze
-595,sniff
-596,snow bird
-597,snow cone
-598,snow white
-599,snowball
-600,snowflake
-601,society high
-602,ergine
-603,soda
-604,soditas
-605,speedball
-606,stardust
-607,star spangled powder
-608,stash
-609,studio fuel
-610,suave
-611,superman
-612,sweet stuff
-613,dexmethylphenidate
-614,tabique
-615,tablas
-616,talco
-617,talquito
-618,tamales
-619,para-methoxyamphetamine
-620,tecate
-621,psilocin
-622,teenager
-623,tequila
-624,thunder
-625,tonto
-626,toot
-627,tortes
-628,tortuga
-629,toyota
-630,dimethyllysergamide
-631,t-shirts
-632,tubo
-633,tucibi
-634,fenethylline
-635,turkey
-636,hexobarbital
-637,tutti-frutti
-638,vaquita
-639,levomethorphan
-640,whack
-641,methorphan
-642,methyprylon
-643,white bitch
-644,white cross
-645,white dove
-646,white girl
-647,white goat
-648,pholcodine
-649,white horse
-650,white lady
-651,white mercedes benz
-652,tetrazepam
-653,white mosquito
-654,white paint
-655,acetyldihydrocodeine
-656,white powder
-657,white rock
-658,white root
-659,white shirt
-660,white t
-661,white wall tires
-662,whitey
-663,whiz bang
-664,wooly
-665,yayo
-666,yeyo
-667,yoda
-668,zapato
-669,zip
-670,ice cream
-671,icing
-672,inca message
-673,bolandione
-674,izzy
-675,jam
-676,jaime blanco
-677,jwh-250
-678,jaula
-679,lopirazepam
-680,jelly
-681,john deere
-682,joy flakes
-683,joy powder
-684,juguetes
-685,jwh-398
-686,jump rope
-687,junk
-688,k13
-689,king’s habit
-690,kordell
-691,alphacetylmethadol
-692,la familia
-693,lady snow
-694,late night
-695,betacetylmethadol
-696,lavada
-697,leaf
-698,libreta
-699,ab-fubinaca
-700,ab-pinaca
-701,loaf
-702,love affair
-703,lv
-704,maca flour
-705,madera
-706,mama coca
-707,mandango
-708,manita
-709,maradona
-710,marbol
-711,mayback
-712,mayo
-713,melcocha
-714,media lata
-715,mercedes
-716,milonga
-717,mojo
-718,mona lisa
-719,"3,4-methylenedioxy-n-ethylamphetamine"
-720,monte
-721,morro
-722,mosquitos
-723,movie star drug
-724,muchacha
-725,racemoramide
-726,muebles
-727,mujer
-728,napkin
-729,nieve
-730,nina
-731,dextroamphetamine
-732,nose candy
-733,nose powder
-734,old lady
-735,oyster stew
-736,paloma
-737,paleta
-738,palomos
-739,pantalones
-740,5-methoxy-diisopropyltryptamine
-741,papas
-742,paradise
-743,paradise white
-744,parrot
-745,pearl
-746,pedrito
-747,perico
-748,peruvian
-749,peruvian flake
-750,peruvian lady
-751,pescado
-752,peta
-753,pez
-754,pichicata
-755,pillow
-756,pimp
-757,pingas
-758,pingos
-759,pintura blanca
-760,poli
-761,pollo
-762,polvo
-763,powder diamonds
-764,methaqualone
-765,puma
-766,puritain
-767,quadros
-768,queso blanco
-769,racehorse charlie
-770,rambo
-771,benzphetamine
-772,refresco
-773,refrescas
-774,pearl
-775,hubba
-776,gringa
-777,flake
-778,chevy
-779,cheyenne
-780,temazepam
-781,chica
-782,chicanitas
-783,chinos
-784,chiva
-785,ethchlorvynol
-786,cielo
-787,clear kind
-788,clear tires
-789,coca
-790,coca-cola
-791,cocazo
-792,coconut
-793,coke
-794,cola
-795,colorado
-796,comida
-797,comida dulce
-798,connie
-799,cookie
-800,cosa
-801,coso
-802,cosos
-803,tiletamine
-804,crow
-805,crusty treats
-806,cuadro
-807,death valley
-808,designer jeans
-809,devil’s dandruff
-810,diamonds
-811,diente
-812,barbital
-813,dienton
-814,boldenone
-815,diesel
-816,diosa blanca
-817,dona blanca
-818,double bubble
-819,clorazepate
-820,double letters
-821,dove
-822,dulces
-823,duracell
-824,durazno
-825,duro
-826,escama
-827,metandienone
-828,escorpino
-829,falopa
-830,methohexital
-831,fef1
-832,fichas
-833,nordazepam
-834,fiesta
-835,oxymetholone
-836,fish scale
-837,quinbolone
-838,flake
-839,flea market jeans
-840,florida snow
-841,flour
-842,foolish powder
-843,"2,5-dimethoxy-4-ethylamphetamine"
-844,fox
-845,4-methylaminorex
-846,freeze
-847,friskie powder
-848,frula
-849,funtime
-850,gabacho
-851,galaxy
-852,gallos
-853,gato
-854,dextromoramide
-855,gift of the sun
-856,dihydromorphine
-857,girlfriend
-858,dipipanone
-859,glad stuff
-860,gold dust
-861,green gold
-862,gringa
-863,gringito
-864,grout
-865,guerillo
-866,gueros
-867,metenolone enanthate
-868,h1
-869,metharbital
-870,hai hit
-871,methylphenobarbital
-872,hamburger
-873,happy dust
-874,happy powder
-875,happy trails
-876,heaven dust
-877,heavy one
-878,henry viii
-879,hh
-880,hhj
-881,prazepam
-882,high heat
-883,4-methylthioamphetamine
-884,hmh
-885,amfepramone
-886,hooter
-887,aminorex
-888,hundai
-889,butorphanol
-890,62
-891,camazepam
-892,77
-893,777
-894,cinolazepam
-895,921
-896,clotiazepam
-897,a-1
-898,cloxazolam
-899,adidas
-900,all-american drug
-901,ancla
-902,angel powder
-903,dexfenfluramine
-904,dichloralphenazone
-905,apache
-906,apodo
-907,doxefazepam
-908,arriba
-909,audi
-910,aunt nora
-911,ethyl loflazepate
-912,azucar
-913,baby powder
-914,barrato
-915,basuco
-916,etonitazene
-917,batman
-918,fludiazepam
-919,bazooka
-920,gidazepam
-921,bazulco
-922,halazepam
-923,belushi
-924,bernice
-925,ketazolam
-926,bernie
-927,bernie’s flakes
-928,bernie’s gold dust
-929,big bird
-930,loprazolam
-931,big bloke
-932,lormetazepam
-933,big c
-934,medazepam
-935,big flake
-936,big rush
-937,nimetazepam
-938,billie hoke
-939,birdie powder
-940,pinazepam
-941,blanca nieves
-942,blanco
-943,blizzard
-944,blowcaine
-945,bmw
-946,vinbarbital
-947,bobo
-948,vinylbital
-949,bolitas
-950,bolivian marching powder
-951,bombita
-952,booger sugar
-953,bose
-954,bouncing powder
-955,brisa
-956,bump
-957,c-dust
-958,caballo
-959,caca
-960,cadillac
-961,california pancakes
-962,calves
-963,canelon
-964,carney
-965,furazabol
-966,carrie nation
-967,lefetamine
-968,cebolla
-969,cecil
-970,cement
-971,mesterolone
-972,colombia
-973,colombia
-974,norethandrolone
-975,crack cocaine
-976,phenoperidine
-977,devil smoke
-978,dice
-979,dime special
-980,dirty basing
-981,dirty fentanyl
-982,double yoke
-983,durin
-984,eastside player
-985,egg
-986,eye opener
-987,"3,4-methylenedioxy-n-hydroxyamphetamine"
-988,famous dimes
-989,fat bags
-990,fifty-one
-991,fish scales
-992,freebase
-993,french fries
-994,eticyclidine
-995,garbage rock
-996,geek
-997,glo
-998,haloxazolam
-999,golf ball
-1000,gravel
-1001,great white hope
-1002,lisdexamfetamine
-1003,grit
-1004,groceries
-1005,mecloqualone
-1006,hail
-1007,metopon
-1008,hamburger helper
-1009,hotcakes
-1010,hubba
-1011,ice cubes
-1012,rolicyclidine
-1013,tenocyclidine
-1014,jelly beans
-1015,thiamylal
-1016,α-methylfentanyl
-1017,kangaroo
-1018,kokoma
-1019,kryptonite
-1020,delorazepam
-1021,mixed jive
-1022,moon rock
-1023,nickle
-1024,normethadone
-1025,nuggets
-1026,one-fifty-one
-1027,zipeprol
-1028,paste
-1029,pebbles
-1030,pee wee
-1031,piedras
-1032,noracymethadol
-1033,norpipanone
-1034,pony
-1035,primo
-1036,ready rock
-1037,arketamine
-1038,red caps
-1039,rip
-1040,eluxadoline
-1041,roca
-1042,rock attack
-1043,adb-chminaca
-1044,rocks of hell
-1045,rocky iii
-1046,rooster
-1047,rox
-1048,roxanne
-1049,roz
-1050,schoolcraft
-1051,benzylpiperazine
-1052,scramble
-1053,scruples
-1054,seven-up
-1055,sherms
-1056,sight ball
-1057,slab
-1058,sleet
-1059,speed boat
-1060,square time bomb
-1061,sugar block
-1062,takeover
-1063,top gun
-1064,suvorexant
-1065,uzi
-1066,bromazepam
-1067,white ball
-1068,white ghost
-1069,alfentanil
-1070,white sugar
-1071,white tornado
-1072,wrecking crew
-1073,yahoo
-1074,yale
-1075,yimyom
-1076,51s
-1077,bufotenin
-1078,151s
-1079,501s
-1080,apple jack
-1081,baby t
-1082,fenfluramine
-1083,bazooka
-1084,flurazepam
-1085,beam me up
-1086,beautiful boulders
-1087,beemer
-1088,bill blass
-1089,bings
-1090,bj
-1091,black rock
-1092,blowcaine
-1093,blowout
-1094,bobo
-1095,bolo
-1096,bone crusher
-1097,remifentanil
-1098,boo-boo
-1099,boulder
-1100,sufentanil
-1101,breakfast of champions
-1102,bubble gum
-1103,bullion
-1104,zopiclone
-1105,bump
-1106,ah-7921
-1107,caps
-1108,casper the ghost
-1109,caviar
-1110,cd
-1111,jwh-203
-1112,cheap basing
-1113,pentylone
-1114,chewies
-1115,chingy
-1116,clicker
-1117,climax
-1118,cloud nine
-1119,cookies
-1120,crc
-1121,crib
-1122,crunch and munch
-1123,ecstasy/mdma
-1124,ecstasy
-1125,mdma
-1126,molly
-1127,baby slits
-1128,beans
-1129,blue kisses
-1130,blue superman
-1131,booty juice
-1132,chocolate chips
-1133,dancing shoes
-1134,decadence
-1135,disco biscuits
-1136,domex
-1137,e-bomb
-1138,egg rolls
-1139,goog
-1140,green apple
-1141,happy pill
-1142,clobazam
-1143,hug
-1144,hug drug
-1145,kleenex
-1146,love doctor
-1147,love drug
-1148,love flip
-1149,love potion #9
-1150,love trip
-1151,lover’s speed
-1152,malcolm x
-1153,moon rock
-1154,ibogaine
-1155,pingaz
-1156,pingers
-1157,rolls
-1158,scooby snacks
-1159,skittle
-1160,pemoline
-1161,smacks
-1162,slits
-1163,phendimetrazine
-1164,smarties
-1165,speed for lovers
-1166,sweets
-1167,talbutal
-1168,tacha
-1169,thizz
-1170,triple stacks
-1171,uppers
-1172,vitamin e
-1173,vitamin x
-1174,vowels
-1175,white mercedes
-1176,butabarbital
-1177,xtc
-1178,butalbital
-1179,yokes
-1180,butylone
-1181,hydrocodone
-1182,norco
-1183,vicodin
-1184,lorcet
-1185,357s
-1186,bananas
-1187,dones
-1188,estazolam
-1189,dro
-1190,droco
-1191,fluff
-1192,hydros
-1193,idiot pills
-1194,lemonade
-1195,lorries
-1196,scratch
-1197,tabs
-1198,triple v
-1199,methylone
-1200,veeks
-1201,vics
-1202,vikes
-1203,v-itamin
-1204,oxandrolone
-1205,watsons-387
-1206,watsons
-1207,dilaudid
-1208,pentobarbital
-1209,phenmetrazine
-1210,dillies
-1211,k4
-1212,needle candy
-1213,footballs
-1214,juice
-1215,smack
-1216,quazepam
-1217,methamphetamine
-1218,diablo
-1219,evil sister
-1220,eye glasses
-1221,fizz
-1222,foco
-1223,frio
-1224,gak
-1225,garbage
-1226,acetylmethadol
-1227,g-funk
-1228,alphamethadol
-1229,gifts
-1230,benzethidine
-1231,betamethadol
-1232,go-fast
-1233,go-go
-1234,clonitazene
-1235,goofball
-1236,groceries
-1237,diampromide
-1238,hard ones
-1239,hare
-1240,dimenoxadol
-1241,hawaiian salt
-1242,dimepheptanol
-1243,hielo
-1244,dimethylamphetamine
-1245,hiropon
-1246,dimethylheptylpyran
-1247,hot ice
-1248,dioxaphetyl butyrate
-1249,hubbers
-1250,embutramide
-1251,ethoheptazine
-1252,ice cream
-1253,etoxeridine
-1254,ice water
-1255,furethidine
-1256,icehead
-1257,jale
-1258,jug of water
-1259,morpheridine
-1260,l.a. glass
-1261,myrophine
-1262,l.a. ice
-1263,n-ethyl-3-piperidyl benzilate
-1264,lemons
-1265,n-methyl-3-piperidyl benzilate
-1266,lemon drop
-1267,norpethidine
-1268,light beige
-1269,pepap
-1270,livianas
-1271,pethidine intermediate a
-1272,madera
-1273,phenampromide
-1274,mamph
-1275,proheptazine
-1276,meth
-1277,methlies quick
-1278,25i-nbome
-1279,mexican crack
-1280,mexican crank
-1281,miss girl
-1282,montura
-1283,"cp 47,497"
-1284,muchacha
-1285,nails
-1286,one pot
-1287,jwh-200
-1288,no-doze
-1289,levomoramide
-1290,pantalones
-1291,normorphine
-1292,patudas
-1293,peanut butter crank
-1294,pinata
-1295,pointy ones
-1296,pollito
-1297,popsicle
-1298,purple
-1299,raspado
-1300,rims
-1301,3-fluoromethcathinone
-1302,rocket fuel
-1303,shabu
-1304,shards
-1305,shatter
-1306,shaved ice
-1307,shiny girl
-1308,small girl
-1309,soap dope
-1310,soft ones
-1311,speed dog
-1312,spicy kind
-1313,diethyltryptamine
-1314,spin
-1315,stove top
-1316,super ice
-1317,tina
-1318,armodafinil
-1319,tires
-1320,trash
-1321,tupperware
-1322,tweak
-1323,sodium oxybate
-1324,unassembled
-1325,uppers
-1326,ventanas
-1327,vidrio
-1328,walking zombie
-1329,wazz
-1330,whizz
-1331,witches teeth
-1332,2c-b
-1333,yaba
-1334,yellow barn
-1335,yellow cake
-1336,yellow kind
-1337,zip
-1338,accordion
-1339,amp
-1340,aqua
-1341,pentazocine
-1342,arroz
-1343,batu
-1344,allobarbital
-1345,begok
-1346,biker’s coffee
-1347,chlorphentermine
-1348,blue bell ice cream
-1349,clortermine
-1350,beers
-1351,diacetyldihydromorphine
-1352,bucio
-1353,dipropanoylmorphine
-1354,bud light
-1355,bump
-1356,fencamfamine
-1357,cajitas
-1358,mibolerone
-1359,chalk
-1360,chandelier
-1361,nicocodeine
-1362,chavalone
-1363,nicodicodeine
-1364,nicomorphine
-1365,chicken feed
-1366,parahexyl
-1367,chicken powder
-1368,chris
-1369,christine
-1370,pipradrol
-1371,christy
-1372,properidine
-1373,clothing cleaner
-1374,thebacon
-1375,alfaxalone
-1376,cold one
-1377,colorado rockies
-1378,crank
-1379,chloralodol
-1380,cri-cri
-1381,crink
-1382,crisco
-1383,levacetylmethadol
-1384,crissy
-1385,christy
-1386,mebutamate
-1387,crypto
-1388,cuadro
-1389,sulfonmethane
-1390,diamond
-1391,dunk
-1392,el gata
-1393,methylphenidate
-1394,ritalin
-1395,concerta
-1396,daytrana
-1397,diet coke
-1398,4'-methyl-α-pyrrolidinopropiophenone
-1399,jif
-1400,flephedrone
-1401,kibbles and bits
-1402,kiddie cocaine
-1403,kiddie coke
-1404,mph
-1405,pineapple
-1406,isomethadone
-1407,poor man’s cocaine
-1408,r-ball
-1409,25c-nbome
-1410,r-pop
-1411,rids
-1412,rittys
-1413,skippy
-1414,chloral betaine
-1415,skittles
-1416,smarties
-1417,rcs-4
-1418,study buddies
-1419,rcs-8
-1420,the smart drug
-1421,truck drivers
-1422,vitamin r
-1423,morphine
-1424,dreamer
-1425,first line
-1426,god’s drug
-1427,joy juice
-1428,miss emma
-1429,monkey
-1430,mister blue
-1431,morpho
-1432,noroxymorphone
-1433,unkie
-1434,white stuff
-1435,opium
-1436,ah-pen-yen
-1437,auntie
-1438,aunt emma
-1439,big o
-1440,black pill
-1441,black russian
-1442,chandoo
-1443,chinese molasses
-1444,chinese tobacco
-1445,chocolate
-1446,cruz
-1447,dopium
-1448,dover’s powder
-1449,dream gum
-1450,dream stick
-1451,easing powder
-1452,fi-do-nie
-1453,gee
-1454,god’s medicine
-1455,goma
-1456,gondola
-1457,goric
-1458,great tobacco
-1459,gum
-1460,guma
-1461,hocus
-1462,hops
-1463,incense
-1464,joy plant
-1465,midnight oil
-1466,mira
-1467,ope
-1468,opio
-1469,pen yan
-1470,pin gon
-1471,pin yen
-1472,pox
-1473,skee
-1474,toxy
-1475,toys
-1476,when-shee
-1477,oxycodone
-1478,oxaydo
-1479,roxicodone
-1480,oxycontin
-1481,oxycodone
-1482,30s
-1483,40s
-1484,512s
-1485,beans
-1486,berries
-1487,buttons
-1488,greens
-1489,hillbilly heroin
-1490,kickers
-1491,killers
-1492,muchachas
-1493,mujeres
-1494,oc
-1495,oxy
-1496,oxycet
-1497,oxycotton
-1498,oxy 80s
-1499,ozone
-1500,roxy
-1501,roxy shorts
-1502,oxycat
-1503,u-47700
-1504,pink heroin
-1505,pinky
-1506,u4
-1507,cannabis
-1508,marijuana
-1509,peliroja
-1510,pelosa
-1511,phoenix
-1512,pine
-1513,pink panther
-1514,pintura
-1515,platinum cookies
-1516,platinum jack
-1517,pocket rocket
-1518,popcorn
-1519,porro
-1520,pretendo
-1521,prop 215
-1522,puff
-1523,purple haze
-1524,purple og
-1525,queen anns lace
-1526,red hair
-1527,ragweed
-1528,railroad weed
-1529,rainy day woman
-1530,rasta weed
-1531,red cross
-1532,red dirt
-1533,reefer
-1534,reggie
-1535,repollo
-1536,righteous bush
-1537,rosa maria
-1538,salt and pepper
-1539,santa marta
-1540,sasafras
-1541,sativa
-1542,sinsemilla
-1543,shmagma
-1544,shora
-1545,shrimp
-1546,shwag
-1547,skunk
-1548,skywalker
-1549,smoochy woochy poochy
-1550,smoke canada
-1551,sour og
-1552,spliff
-1553,sticky
-1554,stink weed
-1555,sugar weed
-1556,sweet lucy
-1557,tahoe
-1558,tangy og
-1559,terp
-1560,terpenes
-1561,tex-mex
-1562,texas tea
-1563,tigitty
-1564,tila
-1565,tims
-1566,top shelf
-1567,tosca
-1568,train wreck
-1569,trinity og
-1570,tweeds
-1571,valle
-1572,wake and bake
-1573,weed
-1574,weed tea
-1575,wheat
-1576,white-haired lady
-1577,wooz
-1578,yellow submarine
-1579,yen pop
-1580,yerba
-1581,yesca
-1582,young girls
-1583,zacate
-1584,zacatecas
-1585,zambi
-1586,zip
-1587,zoom
-1588,jon-jem
-1589,joy smoke
-1590,juan valdez
-1591,jungle juice
-1592,kaff
-1593,kali
-1594,kaya
-1595,kb
-1596,kentucky blue
-1597,kgb
-1598,khalifa
-1599,kiff
-1600,killa
-1601,kilter
-1602,king louie
-1603,kona gold
-1604,kumba
-1605,kush
-1606,laughing grass
-1607,laughing weed
-1608,leaf
-1609,lechuga
-1610,lemon-lime
-1611,lea
-1612,liamba
-1613,lime pillows
-1614,little green friends
-1615,little smoke
-1616,llesca
-1617,loaf
-1618,lobo
-1619,loco weed
-1620,love nuggets
-1621,love weed
-1622,lucas
-1623,m.j.
-1624,macoa
-1625,mafafa
-1626,magic smoke
-1627,manhattan silver
-1628,manteca
-1629,maracachafa
-1630,maria
-1631,marimba
-1632,mariquita
-1633,mary ann
-1634,mary jane
-1635,mary jones
-1636,mary warner
-1637,mary weaver
-1638,matchbox
-1639,matraca
-1640,maui wowie
-1641,meg
-1642,mersh
-1643,mexican brown
-1644,mexicali haze
-1645,mexican green
-1646,mexican red
-1647,mmj
-1648,mochie
-1649,moã±a
-1650,monte
-1651,moocah
-1652,mootie
-1653,mora
-1654,morisqueta
-1655,mostaza
-1656,mota
-1657,mowing the lawn
-1658,muggie
-1659,my brother
-1660,narizona
-1661,northern lights
-1662,nug
-1663,o-boy
-1664,og
-1665,o.j.
-1666,owl
-1667,paja
-1668,paloma
-1669,palomita
-1670,panama cut
-1671,panama gold
-1672,panama red
-1673,pakalolo
-1674,parsley
-1675,pasto
-1676,pasture
-1677,dew
-1678,diesel
-1679,dimba
-1680,dinkie dow
-1681,diosa verde
-1682,dirt grass
-1683,ditch weed
-1684,dizz
-1685,djamba
-1686,dody
-1687,dojo
-1688,donna juana
-1689,doobie
-1690,downtown brown
-1691,drag weed
-1692,dro
-1693,droski
-1694,dry high
-1695,elefante pata
-1696,endo
-1697,escoba
-1698,fattie
-1699,fine stuff
-1700,flower tops
-1701,fluffy
-1702,fuzzy lady
-1703,gallina
-1704,gallito
-1705,garifa
-1706,gauge
-1707,gangster
-1708,ganja
-1709,gash
-1710,gato
-1711,ghana
-1712,gigi
-1713,giggle smoke
-1714,giggle weed
-1715,girl scout cookies
-1716,gloria
-1717,gold leaf
-1718,gold star
-1719,gong
-1720,good giggles
-1721,gorilla
-1722,gorilla glue
-1723,grand daddy purp
-1724,grasshopper
-1725,green crack
-1726,green-eyed girl
-1727,green eyes
-1728,green goblin
-1729,green goddess
-1730,green mercedes benz
-1731,green paint
-1732,green skunk
-1733,greenhouse
-1734,grenuda
-1735,greta
-1736,guardada
-1737,gummy bears
-1738,gunga
-1739,hairy ones
-1740,hash
-1741,hawaiian
-1742,hemp
-1743,herb
-1744,hierba
-1745,holy grail
-1746,homegrown
-1747,hooch
-1748,hoja
-1749,humo
-1750,hydro
-1751,indian boy
-1752,indian hay
-1753,jamaican gold
-1754,jamaican red
-1755,jive
-1756,jolly green
-1757,420
-1758,a-bomb
-1759,acapulco gold
-1760,acapulco red
-1761,african black
-1762,african bush
-1763,airplane
-1764,alfalfa
-1765,alfombra
-1766,alice b toklas
-1767,all-star
-1768,almohada
-1769,angola
-1770,animal cookies
-1771,arizona
-1772,ashes
-1773,aunt mary
-1774,az
-1775,bale
-1776,bambalachacha
-1777,barbara jean
-1778,bareta
-1779,bash
-1780,bazooka
-1781,bc budd
-1782,bernie
-1783,bhang
-1784,big pillows
-1785,biggy
-1786,bionic
-1787,black bart
-1788,black gold
-1789,black maria
-1790,blondie
-1791,blue cheese
-1792,blue crush
-1793,blue dream
-1794,blue jeans
-1795,blue sage
-1796,blueberry
-1797,bobo bush
-1798,boo
-1799,boom
-1800,broccoli
-1801,bud
-1802,budda
-1803,burritos verdes
-1804,bush
-1805,cabbage
-1806,cafã©
-1807,cajita
-1808,cali
-1809,camara
-1810,canadian black
-1811,catnip
-1812,cheeba
-1813,chernobyl
-1814,cheese
-1815,chicago black
-1816,chicago green
-1817,chippie
-1818,chistosa
-1819,christmas tree
-1820,chronic
-1821,churro
-1822,cigars
-1823,citrol
-1824,cola
-1825,colorado cocktail
-1826,cookie
-1827,cotorritos
-1828,crazy weed
-1829,creeper bud
-1830,crippy
-1831,crying weed
-1832,culican
-1833,dank
-1834,devil’s lettuce
-1835,marijuana concentrates/hash oil
-1836,hash oil
-1837,hash
-1838,710
-1839,bhno
-1840,bho
-1841,black glass
-1842,bubble hash
-1843,budder
-1844,butane hash oil
-1845,butane honey oil
-1846,caviar
-1847,cbd
-1848,cbd oil
-1849,crystalline
-1850,crumble
-1851,dabs
-1852,dipper
-1853,ear wax
-1854,edibles
-1855,enail
-1856,errl
-1857,extract
-1858,full melt
-1859,glob
-1860,gorilla glue
-1861,heady
-1862,honey oil
-1863,iwe
-1864,ice water hash
-1865,klear
-1866,live resin
-1867,moon rocks
-1868,rosin
-1869,rosin tech
-1870,sap
-1871,shatter
-1872,solventless
-1873,terp sauce
-1874,thca
-1875,thca crystal
-1876,thca crystalline
-1877,thca powder
-1878,trichrome
-1879,wax
-1880,synthetic cannabinoids
-1881,abyss
-1882,ace of spades
-1883,ak-47
-1884,amnesia
-1885,atomic blast
-1886,big bang
-1887,black magic smoke
-1888,black mamba
-1889,420
-1890,blaze
-1891,bliss
-1892,blue cheese
-1893,bombay blue
-1894,brain freeze
-1895,buzz haze
-1896,cherry bomb
-1897,chill
-1898,chrome
-1899,clockwork orange
-1900,cloud 10
-1901,cowboy kush
-1902,crystal skull
-1903,dead man
-1904,devil’s venom
-1905,dr. feel good
-1906,dragon eye
-1907,earth blend
-1908,exodus
-1909,fake bake
-1910,fruit candy flavors
-1911,funky buddha
-1912,funky monkey
-1913,garden salad
-1914,genie
-1915,g-force
-1916,gi joe
-1917,green dream
-1918,green peace
-1919,hammer head
-1920,helix
-1921,hipster
-1922,hysteria
-1923,ice dragon
-1924,joker
-1925,juicy leaf
-1926,jungle juice
-1927,just chill
-1928,k2
-1929,kaos
-1930,karma
-1931,kong
-1932,krazy kandy
-1933,kryp2nite
-1934,kush
-1935,layer cake
-1936,limitless
-1937,mad hatter
-1938,mile high
-1939,mystique
-1940,ninja
-1941,odyssey
-1942,omg
-1943,pandora’s box
-1944,phoenix
-1945,pineapple express
-1946,posh
-1947,potpourri
-1948,pow
-1949,rapture
-1950,red magic
-1951,rewind
-1952,scooby snax
-1953,sexy
-1954,sky high
-1955,snake bite
-1956,solar flare
-1957,spice
-1958,spike diamond
-1959,sweet leaf
-1960,synthetic marijuana
-1961,terraband
-1962,time traveler
-1963,top gear
-1964,train wreck
-1965,viper
-1966,voodoo child
-1967,wazabi
-1968,wicked
-1969,wizard
-1970,xtreme
-1971,yucatan
-1972,yucatan fire
-1973,zero gravity
-1974,zohai
-1975,zombie
-1976,synthetic cathinones
-1977,bath blow
-1978,bath salts
-1979,bliss
-1980,bloom
-1981,blue silk
-1982,bubbles
-1983,cloud 9
-1984,cloud nine
-1985,cosmic beast
-1986,drone
-1987,energy-1
-1988,flakka
-1989,gravel
-1990,insect repellent
-1991,ivory wave
-1992,jewelry cleaner
-1993,lunar wave
-1994,m-cat
-1995,meow-meow
-1996,ocean burst
-1997,phone screen cleaner
-1998,plant feeder
-1999,plant food
-2000,pure ivory
-2001,purple wave
-2002,recharge
-2003,red dove
-2004,salting
-2005,scarface
-2006,snow leopard
-2007,stardust
-2008,vanilla sky
-2009,white dove
-2010,white knight
-2011,white lightening
-2012,white lightning
-2013,white magic
-2014,wicked x
-2015,zoom
-2016,codeine
-2017,captain cody
-2018,cody
-2019,schoolboy
-2020,doors & fours
-2021,pancakes & syrup
-2022,loads
-2023,little c
-2024,phenergan
-2025,purple drank
-2026,sizzurp
-2027,texas tea
-2028,isonipecaine
-2029,pethidine
-2030,meperidine
-2031,demmies
-2032,pain killer
-2033,abstral
-2034,actiq
-2035,avinza
-2036,butrans
-2037,demerol
-2038,dilaudid
-2039,dolophine
-2040,duragesic
-2041,fentora
-2042,hysingla
-2043,methadose
-2044,amidone
-2045,dollies
-2046,dolls
-2047,fizzies
-2048,red rock
-2049,tootisie roll
-2050,morphabond
-2051,nucynta er
-2052,onsolis
-2053,oramorph
-2054,oxaydo
-2055,roxanol-t
-2056,sublimaze
-2057,xtampza er
-2058,zohydro er
-2059,anexsia
-2060,co-gesic
-2061,embeda
-2062,exalgo
-2063,hycet
-2064,hycodan
-2065,hydromet
-2066,ibudone
-2067,kadian
-2068,liquicet
-2069,lorcet
-2070,lorcet plus
-2071,lortab
-2072,maxidone
-2073,ms contin
-2074,duramorph
-2075,norco
-2076,opana er
-2077,biscuits
-2078,blue heaven
-2079,mrs. o
-2080,o bomb
-2081,octagons
-2082,stop signs
-2083,oxycontin
-2084,oxycet
-2085,palladone
-2086,percocet
-2087,percodan
-2088,reprexain
-2089,rezira
-2090,roxicet
-2091,targiniq er
-2092,tussicaps
-2093,tussionex
-2094,tuzistra xr
-2095,tylenol #3 and #4
-2096,vicodin
-2097,vicodin es
-2098,vicodin hp
-2099,vicoprofen
-2100,vituz
-2101,xartemis xr
-2102,xodol
-2103,zolvit
-2104,zutripro
-2105,zydone
-2106,fentanyl
-2107,lysergic acid diethylamide
-2108,lsd
-2109,acid
-2110,blotter
-2111,dots
-2112,electric kool aid
-2113,lucy in the sky with diamonds
-2114,purple haze
-2115,sugar cubes
-2116,yellow sunshine
-2117,psilocybin
-2118,psilocin
-2119,mushrooms
-2120,shrooms
-2121,shroomies
-2122,magic mushrooms
-2123,alice
-2124,boomers
-2125,caps
-2126,cow patties
-2127,fungus
-2128,hongos
-2129,mushies
-2130,pizza toppings
-2131,tweezes
-2132,lorazepam
-2133,antivan
-2134,downers
-2135,sleeping pills
-2136,tranks
-2137,triazolam
-2138,halcion
-2139,downers
-2140,sleeping pills
-2141,tranks
-2142,chlordiazepoxide
-2143,librium
-2144,downers
-2145,sleeping pills
-2146,tranks
-2147,flunitrazepam
-2148,rohypnol
-2149,date rape drug
-2150,forget-me pill
-2151,la rocha
-2152,lunch money
-2153,mexican valium
-2154,mind eraser
-2155,roofies
-2156,wolfies
-2157,diazepam
-2158,valium
-2159,jellies
-2160,moggies
-2161,vallies
-2162,ayahuasca
-2163,aya
-2164,hoasca
-2165,yage
-2166,dmt
-2167,"n,n-dimethyltryptamine"
-2168,the spirit molecule
-2169,dimitri
-2170,ghb
-2171,gamma-hydroxybutyric
-2172,date rape drug
-2173,geeb
-2174,georgia home boy
-2175,gina
-2176,goop
-2177,grievous bodily harm
-2178,liquid e
-2179,liquid x
-2180,scoop
-2181,ketamine
-2182,blind squid
-2183,cat valium
-2184,k
-2185,k-hold
-2186,special k
-2187,super acid
-2188,vitamin k
-2189,khat
-2190,abyssinian tea
-2191,african salad
-2192,catha
-2193,chat
-2194,kat
-2195,oat
-2196,qat
-2197,kratom
-2198,biak-biak
-2199,herbal speedball
-2200,ithang
-2201,kahyam
-2202,ketum
-2203,thom
-2204,mescaline
-2205,big chief
-2206,blue caps
-2207,buttons
-2208,cactus
-2209,mescal
-2210,san pedro
-2211,topi
-2212,phencyclidine
-2213,pcp
-2214,angel dust
-2215,butt naked
-2216,purple rain
-2217,rocket fuel
-2218,stardust
-2219,yellow fever
-2220,zombie
-2221,peyote
-2222,black button
-2223,cactus
-2224,green button
-2225,half moon
-2226,nubs
-2227,shaman
-2228,tops
-2229,salvia
-2230,salvia divinorum
-2231,diviner’s sage
-2232,magic mint
-2233,maria pastora
-2234,sally-d
-2235,amyl nitrate
-2236,ames
-2237,amies
-2238,amys
-2239,pearls
-2240,poppers
-2241,isobutyl nitrate
-2242,aroma of men
-2243,bolt
-2244,climax
-2245,hardware
-2246,locker room
-2247,poppers
-2248,quicksilver
-2249,snappers
-2250,nitrous oxide
-2251,buzz bomb
-2252,hippie crack
-2253,laughing gas
-2254,whippets
-2255,propoxyphene
-2256,darvocet
-2257,darvon
-2258,footballs
-2259,n’s
-2260,pink footballs
-2261,pinks
-2262,yellow footballs
-2263,65s
-2264,tramadol
-2265,ultram
-2266,chill pills
-2267,trammies
-2268,ultras
-2269,dimenhydrinate
-2270,dramamine
-2271,dime
-2272,dime tabs
-2273,substance d
-2274,dxm
-2275,dextromethorphan
-2276,dex
-2277,dextro
-2278,drix
-2279,poor man’s ecstasy
-2280,red devils
-2281,robo
-2282,robotripping
-2283,triple c
-2284,tussin
-2285,pseudoephedrine
-2286,sudafed
-2287,chalk
-2288,crank
-2289,meth
-2290,zolpidem
-2291,ambien
-2292,date rape drug
-2293,forget-me pill
-2294,mexican valium
-2295,r2
-2296,roche
-2297,roofies
-2298,roofinol
-2299,rophies
-2300,eszopiclone
-2301,lunesta
-2302,date rape drug
-2303,forget-me pill
-2304,mexican valium
-2305,r2
-2306,roche
-2307,roofies
-2308,roofinol
-2309,rophies
-2310,sonata
-2311,zaleplon
-2312,date rape drug
-2313,forget-me pill
-2314,mexican valium
-2315,r2
-2316,roche
-2317,roofies
-2318,roofinol
-2319,rophies
-2320,amobarbital
-2321,amytal
-2322,barbs
-2323,red birds
-2324,reds
-2325,yellows
-2326,yellow jackets
-2327,paroxetine
-2328,paxil
-2329,bottled smiles
-2330,happy pill
-2331,miracle drug
-2332,wonder drug
-2333,fluoxetine
-2334,prozac
-2335,bottled smiles
-2336,happy pill
-2337,miracle drug
-2338,wonder drug
-2339,sertraline
-2340,zoloft
-2341,bottled smiles
-2342,happy pill
-2343,miracle drug
-2344,wonder drug
-2345,phentermine
-2346,ionamin
-2347,adipex
-2348,crank
-2349,fastin
-2350,fen-phen
-2351,nandrolone
-2352,testosterone
-2353,arnolds
-2354,gym candy
-2355,juice
-2356,muscle builders
-2357,pumpers
-2358,roids
-2359,stackers
-2360,weight gainers
-2361,steroids
-2362,arnolds
-2363,gym candy
-2364,juice
-2365,muscle builders
-2366,pumpers
-2367,roids
-2368,stackers
-2369,weight gainers
-2370,steroids
-2371,hydromorphone
-2372,oxymorphone
-2373,methadone
-2374,tapentadol
+id,name,name_type
+0,fentanyl,generic_name
+1,apache,street_name
+2,birria,street_name
+3,coca,generic_name
+4,blue diamond,street_name
+5,laudanum,generic_name
+6,blue dolphin,street_name
+7,china girl,street_name
+8,china town,street_name
+9,sodium thiopental,generic_name
+10,china white,street_name
+11,chinese buffet,street_name
+12,chinese food crazy,street_name
+13,crazy one,street_name
+14,dance fever,street_name
+15,dragon,street_name
+16,dragon’s breath,street_name
+17,fuf,street_name
+18,facebook,street_name
+19,fent,street_name
+20,fenty,street_name
+21,cathine,generic_name
+22,goodfella,street_name
+23,cathinone,generic_name
+24,great bear,street_name
+25,gray stuff,street_name
+26,he-man,street_name
+27,heineken,street_name
+28,pethidine,generic_name
+29,huerfanito,street_name
+30,humid,street_name
+31,jackpot,street_name
+32,king ivory,street_name
+33,alpha-pyrrolidinobutiophenone,generic_name
+34,lollipop,street_name
+35,murder 8,street_name
+36,nal,street_name
+37,nil,street_name
+38,lorcaserin,generic_name
+39,nyl,street_name
+40,opes,street_name
+41,pharmacy,street_name
+42,poison,street_name
+43,snowflake,street_name
+44,acetorphine,generic_name
+45,tango and cash,street_name
+46,allylprodine,generic_name
+47,tnt,street_name
+48,cyprenorphine,generic_name
+49,toe tag dope,street_name
+50,white girl,street_name
+51,fenproporex,generic_name
+52,white ladies,street_name
+53,heroin,generic_name
+54,heterocodeine,generic_name
+55,diacetylmorphine,brand_name
+56,meprodine,generic_name
+57,diamorphone,brand_name
+58,metazocine,generic_name
+59,abajo,street_name
+60,a-bomb,street_name
+61,phenomorphan,generic_name
+62,achivia,street_name
+63,adormidera,street_name
+64,amarilla,street_name
+65,anestesia de caballo,street_name
+66,antifreeze,street_name
+67,apodo,street_name
+68,arpon,street_name
+69,aunt hazel,street_name
+70,avocado,street_name
+71,azucar,street_name
+72,bad seed,street_name
+73,baja corte,street_name
+74,ballot,street_name
+75,basketball,street_name
+76,basura,street_name
+77,beast,street_name
+78,beyonce,street_name
+79,big bag,street_name
+80,big h,street_name
+81,glutethimide,generic_name
+82,big harry,street_name
+83,birdie powder,street_name
+84,birria,street_name
+85,birria blanca,street_name
+86,methyltestosterone,generic_name
+87,black bitch,street_name
+88,carisoprodol,generic_name
+89,black goat,street_name
+90,black olives,street_name
+91,black paint,street_name
+92,black pearl,street_name
+93,black sheep,street_name
+94,black shirt,street_name
+95,black tar,street_name
+96,blanco,street_name
+97,blow dope,street_name
+98,alpha-ethyltryptamine,generic_name
+99,blue hero,street_name
+100,bombita,street_name
+101,bombs away,street_name
+102,bonita,street_name
+103,bozo,street_name
+104,brea negra,street_name
+105,brick gum,street_name
+106,brown crystal,street_name
+107,brown rhine,street_name
+108,brown sugar,street_name
+109,bubble gum,street_name
+110,burrito,street_name
+111,carfentanil,generic_name
+112,caballo,street_name
+113,caballo negro,street_name
+114,caca,street_name
+115,café,street_name
+116,cajeta,street_name
+117,capital h,street_name
+118,cardio,street_name
+119,carga,street_name
+120,caro,street_name
+121,cement,street_name
+122,certificada,street_name
+123,chapopote,street_name
+124,charlie horse,street_name
+125,chavo,street_name
+126,benzylmorphine,generic_name
+127,cheese,street_name
+128,chicle,street_name
+129,chiclosa,street_name
+130,desomorphine,generic_name
+131,china blanca,street_name
+132,china cat,street_name
+133,dihydroetorphine,generic_name
+134,china white,street_name
+135,chinese buffet,street_name
+136,chinese food,street_name
+137,chinese red,street_name
+138,chiva,street_name
+139,chiva blanca,street_name
+140,chiva loca,street_name
+141,hydromorphinol,generic_name
+142,chiva negra,street_name
+143,chivones,street_name
+144,chocolate,street_name
+145,mephedrone,generic_name
+146,chocolate balls,street_name
+147,chocolate shake,street_name
+148,choko,street_name
+149,phenazocine,generic_name
+150,chorizo,street_name
+151,piminodine,generic_name
+152,churro negro,street_name
+153,chutazo,street_name
+154,prodine,generic_name
+155,coco,street_name
+156,propiram,generic_name
+157,cohete,street_name
+158,comida,street_name
+159,crown crap,street_name
+160,curley hair,street_name
+161,dark girl,street_name
+162,dark kind,street_name
+163,dead on arrival,street_name
+164,diesel,street_name
+165,tilidine,generic_name
+166,dog food,street_name
+167,doggie,street_name
+168,drotebanol,generic_name
+169,doojee,street_name
+170,dope,street_name
+171,fospropofol,generic_name
+172,dorado,street_name
+173,jwh-018,generic_name
+174,dragon,street_name
+175,jwh-073,generic_name
+176,dreck,street_name
+177,jwh-081,generic_name
+178,dynamite,street_name
+179,levophenacylmorphan,generic_name
+180,dyno,street_name
+181,el diablo,street_name
+182,enrique grande,street_name
+183,esquina,street_name
+184,esquinilla,street_name
+185,am-694,generic_name
+186,fairy dust,street_name
+187,flea powder,street_name
+188,foolish powder,street_name
+189,galloping horse,street_name
+190,gamot,street_name
+191,cannabicyclohexanol,generic_name
+192,gato,street_name
+193,pentedrone,generic_name
+194,george smack,street_name
+195,globo,street_name
+196,goat,street_name
+197,golden girl,street_name
+198,good and plenty,street_name
+199,good h,street_name
+200,goofball,street_name
+201,3-monoacetylmorphine,generic_name
+202,goma,street_name
+203,gorda,street_name
+204,gras,street_name
+205,grasin,street_name
+206,gravy,street_name
+207,ur-144,generic_name
+208,gum,street_name
+209,h-caps,street_name
+210,hairy,street_name
+211,hard candy,street_name
+212,hard one,street_name
+213,methcathinone,generic_name
+214,methylenedioxypyrovalerone,generic_name
+215,hats,street_name
+216,hazel,street_name
+217,phenobarbital,generic_name
+218,heaven dust,street_name
+219,helen,street_name
+220,helicopter,street_name
+221,hell dust,street_name
+222,hercules,street_name
+223,"3,4-methylenedioxyamphetamine",generic_name
+224,adderall,generic_name
+225,hombre,street_name
+226,hot dope,street_name
+227,huera,street_name
+228,hummers,street_name
+229,jojee,street_name
+230,joy flakes,street_name
+231,joy powder,street_name
+232,junk,street_name
+233,kabayo,street_name
+234,karachi,street_name
+235,midazolam,generic_name
+236,karate,street_name
+237,king’s tickets,street_name
+238,la tierra,street_name
+239,lemonade,street_name
+240,lenta,street_name
+241,lifesaver,street_name
+242,manteca,street_name
+243,marias,street_name
+244,marrion,street_name
+245,mayo,street_name
+246,mazpan,street_name
+247,indiplon,generic_name
+248,menthol,street_name
+249,ketobemidone,generic_name
+250,mexican black tar heroin,street_name
+251,mexican brown,street_name
+252,mexican food,street_name
+253,mexican horse,street_name
+254,trional,generic_name
+255,mexican mud,street_name
+256,mexican tar,street_name
+257,mexican treat,street_name
+258,modelo negra,street_name
+259,bezitramide,generic_name
+260,mojo,street_name
+261,mole,street_name
+262,mongega,street_name
+263,morena,street_name
+264,morenita,street_name
+265,mortal combat,street_name
+266,piritramide,generic_name
+267,mujer,street_name
+268,murcielago,street_name
+269,flutemazepam,generic_name
+270,muzzle,street_name
+271,methyldesorphine,generic_name
+272,nanoo,street_name
+273,methyldihydromorphine,generic_name
+274,negra,street_name
+275,pentamorphone,generic_name
+276,negra tomasa,street_name
+277,negrita,street_name
+278,nice and easy,street_name
+279,obama,street_name
+280,old steve,street_name
+281,pants,street_name
+282,patty,street_name
+283,peg,street_name
+284,p-funk,street_name
+285,piezas,street_name
+286,plata,street_name
+287,poison,street_name
+288,polvo,street_name
+289,gamma-hydroxybutyric acid,generic_name
+290,polvo de alegria,street_name
+291,hashish,generic_name
+292,polvo de estrellas,street_name
+293,polvo feliz,street_name
+294,poppy,street_name
+295,prostituta negra,street_name
+296,puppy,street_name
+297,modafinil,generic_name
+298,rambo,street_name
+299,"n,n-dimethyltryptamine",generic_name
+300,red chicken,street_name
+301,red eagle,street_name
+302,reindeer dust,street_name
+303,phencyclidine,generic_name
+304,roofing tar,street_name
+305,ruby,street_name
+306,sack,street_name
+307,scag,street_name
+308,scat,street_name
+309,schmeck,street_name
+310,scramble,street_name
+311,shirts,street_name
+312,skag,street_name
+313,skunk,street_name
+314,trenbolone,generic_name
+315,slime,street_name
+316,smack,street_name
+317,smeck,street_name
+318,snickers,street_name
+319,soda,street_name
+320,speedball,street_name
+321,spider blue,street_name
+322,desmethylprodine,generic_name
+323,sticky kind,street_name
+324,stufa,street_name
+325,sweet jesus,street_name
+326,tan,street_name
+327,tar,street_name
+328,tecata,street_name
+329,ethylmorphine,generic_name
+330,thunder,street_name
+331,tires,street_name
+332,tomasa,street_name
+333,tootsie roll,street_name
+334,tragic magic,street_name
+335,turtle,street_name
+336,vidrio,street_name
+337,weights,street_name
+338,white boy,street_name
+339,white girl,street_name
+340,white junk,street_name
+341,white lady,street_name
+342,white nurse,street_name
+343,white shirt,street_name
+344,white stuff,street_name
+345,witch,street_name
+346,witch hazel,street_name
+347,zapapote,street_name
+348,oxycodone,generic_name
+349,512s,street_name
+350,bananas,street_name
+351,blue dynamite,street_name
+352,blueberries,street_name
+353,buttons,street_name
+354,ercs,street_name
+355,meprobamate,generic_name
+356,greenies,street_name
+357,hillbilly heroin,street_name
+358,nabilone,generic_name
+359,kickers,street_name
+360,m-30s,street_name
+361,paulas,street_name
+362,percs,street_name
+363,rims,street_name
+364,tires,street_name
+365,oxazepam,generic_name
+366,perks,street_name
+367,alprazolam,generic_name
+368,xanax,brand_name
+369,benzos,street_name
+370,bicycle handle bars,street_name
+371,bicycle parts,street_name
+372,bricks,street_name
+373,footballs,street_name
+374,french fries,street_name
+375,handlebars,street_name
+376,sibutramine,generic_name
+377,hulk,street_name
+378,l7,street_name
+379,ladders,street_name
+380,palitroque,street_name
+381,planks,street_name
+382,school bus,street_name
+383,upjohns,street_name
+384,white boys,street_name
+385,white girls,street_name
+386,xanies,street_name
+387,xan,street_name
+388,yellow boys,street_name
+389,zanbars,street_name
+390,jwh-019,generic_name
+391,zannies,street_name
+392,zan,street_name
+393,jwh-122,generic_name
+394,z-bars,street_name
+395,am-2201,generic_name
+396,amphetamine,generic_name
+397,acelerador,street_name
+398,4-methylethcathinone,generic_name
+399,amps,street_name
+400,bam,street_name
+401,b-bombs,street_name
+402,beans,street_name
+403,bennies,street_name
+404,benz,street_name
+405,black and whites,street_name
+406,black beauties,street_name
+407,black birds,street_name
+408,black bombers,street_name
+409,black mollies,street_name
+410,blacks,street_name
+411,apinaca,generic_name
+412,blue boys,street_name
+413,levomethadone,generic_name
+414,bombita,street_name
+415,brain ticklers,street_name
+416,brownies,street_name
+417,xlr-11 (drug),generic_name
+418,bumblebees,street_name
+419,cartwheels,street_name
+420,5f-pb-22,generic_name
+421,chalk,street_name
+422,butyrfentanyl,generic_name
+423,chicken powder,street_name
+424,chochos,street_name
+425,chocolates,street_name
+426,pb-22,generic_name
+427,christina,street_name
+428,chunk,street_name
+429,co-pilot,street_name
+430,coast-to-coasts,street_name
+431,crisscross,street_name
+432,cross roads,street_name
+433,cross tops,street_name
+434,crosses,street_name
+435,ab-chminaca,generic_name
+436,debs,street_name
+437,adb-pinaca,generic_name
+438,dexies,street_name
+439,diablos,street_name
+440,diamonds,street_name
+441,diet pills,street_name
+442,dolls,street_name
+443,dominoes,street_name
+444,double cross,street_name
+445,dulces,street_name
+446,thj-2201,generic_name
+447,fives,street_name
+448,flour,street_name
+449,footballs,street_name
+450,mmda (drug),generic_name
+451,french blues,street_name
+452,ohmefentanyl,generic_name
+453,geeked up,street_name
+454,goofballs,street_name
+455,greenies,street_name
+456,head drugs,street_name
+457,horse heads,street_name
+458,in-betweens,street_name
+459,jelly babies,street_name
+460,jelly beans,street_name
+461,jolly beans,street_name
+462,jugs,street_name
+463,la turnaround,street_name
+464,6-monoacetylmorphine,generic_name
+465,leapers,street_name
+466,lid poppers,street_name
+467,anileridine,generic_name
+468,lightening,street_name
+469,little bombs,street_name
+470,marathons,street_name
+471,mini beans,street_name
+472,mini bennies,street_name
+473,morning shot,street_name
+474,nuggets,street_name
+475,oranges,street_name
+476,pastas,street_name
+477,ethylestrenol,generic_name
+478,pastillas,street_name
+479,peaches,street_name
+480,pep pills,street_name
+481,pepper,street_name
+482,levorphanol,generic_name
+483,pingas,street_name
+484,pink hearts,street_name
+485,pixies,street_name
+486,pollutants,street_name
+487,purple hearts,street_name
+488,rippers,street_name
+489,road dope,street_name
+490,roses,street_name
+491,rueda,street_name
+492,snaps,street_name
+493,snow pallets,street_name
+494,sparkle plenty,street_name
+495,sparklers,street_name
+496,splash,street_name
+497,sweeties,street_name
+498,sweets,street_name
+499,tens,street_name
+500,thrusters,street_name
+501,tr-6s,street_name
+502,truck drivers,street_name
+503,turnabouts,street_name
+504,uppers,street_name
+505,wake ups,street_name
+506,west coast turnarounds,street_name
+507,3-methylfentanyl,generic_name
+508,whiffle dust,street_name
+509,3-methylthiofentanyl,generic_name
+510,white crosses,street_name
+511,alphamethylthiofentanyl,generic_name
+512,betahydroxyfentanyl,generic_name
+513,zoomers,street_name
+514,betahydroxythiofentanyl,generic_name
+515,juice,street_name
+516,adderall,brand_name
+517,diethylthiambutene,generic_name
+518,a-train,street_name
+519,dimethylthiambutene,generic_name
+520,abby,street_name
+521,drostanolone propionate,generic_name
+522,addies,street_name
+523,ethylmethylthiambutene,generic_name
+524,addy,street_name
+525,etilamfetamine,generic_name
+526,amps,street_name
+527,christmas trees,street_name
+528,hydroxypethidine,generic_name
+529,co-pilots,street_name
+530,lid poppers,street_name
+531,smart pills,street_name
+532,mazindol,generic_name
+533,smarties,street_name
+534,study buddies,street_name
+535,obetrol,generic_name
+536,study skittles,street_name
+537,truck drivers,street_name
+538,parafluorofentanyl,generic_name
+539,zing,street_name
+540,dexedrine,brand_name
+541,phenadoxone,generic_name
+542,buprenorphine,generic_name
+543,suboxone,brand_name
+544,subutex,brand_name
+545,thiofentanyl,generic_name
+546,boxes,street_name
+547,α-methylacetylfentanyl,generic_name
+548,bupes,street_name
+549,25b-nbome,generic_name
+550,oranges,street_name
+551,alpha-pyrrolidinopentiophenone,generic_name
+552,sobos,street_name
+553,stop signs,street_name
+554,stops,street_name
+555,subs,street_name
+556,big whites,street_name
+557,naphyrone,generic_name
+558,buse,street_name
+559,small whites,street_name
+560,racemorphan,generic_name
+561,strips,street_name
+562,clonazepam,generic_name
+563,benzos,street_name
+564,tetronal,generic_name
+565,k,street_name
+566,k-pin,street_name
+567,super valium,street_name
+568,tranks,street_name
+569,klonopin,street_name
+570,cocaine,generic_name
+571,regular kind,street_name
+572,acetylfentanyl,generic_name
+573,regular work,street_name
+574,reindeer dust,street_name
+575,richie,street_name
+576,rims,street_name
+577,rocky mountain,street_name
+578,cannabidiol,generic_name
+579,rolex,street_name
+580,rolex hh,street_name
+581,rooster,street_name
+582,desoxymethyltestosterone,generic_name
+583,dihydrocodeine,generic_name
+584,schmeck,street_name
+585,schoolboy,street_name
+586,scorpion,street_name
+587,scottie,street_name
+588,tetrahydrogestrinone,generic_name
+589,serpico,street_name
+590,alpha-methyltryptamine,generic_name
+591,sierra,street_name
+592,ski equipment,street_name
+593,sleigh ride,street_name
+594,sneeze,street_name
+595,sniff,street_name
+596,snow bird,street_name
+597,snow cone,street_name
+598,snow white,street_name
+599,snowball,street_name
+600,snowflake,street_name
+601,society high,street_name
+602,ergine,generic_name
+603,soda,street_name
+604,soditas,street_name
+605,speedball,street_name
+606,stardust,street_name
+607,star spangled powder,street_name
+608,stash,street_name
+609,studio fuel,street_name
+610,suave,street_name
+611,superman,street_name
+612,sweet stuff,street_name
+613,dexmethylphenidate,generic_name
+614,tabique,street_name
+615,tablas,street_name
+616,talco,street_name
+617,talquito,street_name
+618,tamales,street_name
+619,para-methoxyamphetamine,generic_name
+620,tecate,street_name
+621,psilocin,generic_name
+622,teenager,street_name
+623,tequila,street_name
+624,thunder,street_name
+625,tonto,street_name
+626,toot,street_name
+627,tortes,street_name
+628,tortuga,street_name
+629,toyota,street_name
+630,dimethyllysergamide,generic_name
+631,t-shirts,street_name
+632,tubo,street_name
+633,tucibi,street_name
+634,fenethylline,generic_name
+635,turkey,street_name
+636,hexobarbital,generic_name
+637,tutti-frutti,street_name
+638,vaquita,street_name
+639,levomethorphan,generic_name
+640,whack,street_name
+641,methorphan,generic_name
+642,methyprylon,generic_name
+643,white bitch,street_name
+644,white cross,street_name
+645,white dove,street_name
+646,white girl,street_name
+647,white goat,street_name
+648,pholcodine,generic_name
+649,white horse,street_name
+650,white lady,street_name
+651,white mercedes benz,street_name
+652,tetrazepam,generic_name
+653,white mosquito,street_name
+654,white paint,street_name
+655,acetyldihydrocodeine,generic_name
+656,white powder,street_name
+657,white rock,street_name
+658,white root,street_name
+659,white shirt,street_name
+660,white t,street_name
+661,white wall tires,street_name
+662,whitey,street_name
+663,whiz bang,street_name
+664,wooly,street_name
+665,yayo,street_name
+666,yeyo,street_name
+667,yoda,street_name
+668,zapato,street_name
+669,zip,street_name
+670,ice cream,street_name
+671,icing,street_name
+672,inca message,street_name
+673,bolandione,generic_name
+674,izzy,street_name
+675,jam,street_name
+676,jaime blanco,street_name
+677,jwh-250,generic_name
+678,jaula,street_name
+679,lopirazepam,generic_name
+680,jelly,street_name
+681,john deere,street_name
+682,joy flakes,street_name
+683,joy powder,street_name
+684,juguetes,street_name
+685,jwh-398,generic_name
+686,jump rope,street_name
+687,junk,street_name
+688,k13,street_name
+689,king’s habit,street_name
+690,kordell,street_name
+691,alphacetylmethadol,generic_name
+692,la familia,street_name
+693,lady snow,street_name
+694,late night,street_name
+695,betacetylmethadol,generic_name
+696,lavada,street_name
+697,leaf,street_name
+698,libreta,street_name
+699,ab-fubinaca,generic_name
+700,ab-pinaca,generic_name
+701,loaf,street_name
+702,love affair,street_name
+703,lv,street_name
+704,maca flour,street_name
+705,madera,street_name
+706,mama coca,street_name
+707,mandango,street_name
+708,manita,street_name
+709,maradona,street_name
+710,marbol,street_name
+711,mayback,street_name
+712,mayo,street_name
+713,melcocha,street_name
+714,media lata,street_name
+715,mercedes,street_name
+716,milonga,street_name
+717,mojo,street_name
+718,mona lisa,street_name
+719,"3,4-methylenedioxy-n-ethylamphetamine",generic_name
+720,monte,street_name
+721,morro,street_name
+722,mosquitos,street_name
+723,movie star drug,street_name
+724,muchacha,street_name
+725,racemoramide,generic_name
+726,muebles,street_name
+727,mujer,street_name
+728,napkin,street_name
+729,nieve,street_name
+730,nina,street_name
+731,dextroamphetamine,generic_name
+732,nose candy,street_name
+733,nose powder,street_name
+734,old lady,street_name
+735,oyster stew,street_name
+736,paloma,street_name
+737,paleta,street_name
+738,palomos,street_name
+739,pantalones,street_name
+740,5-methoxy-diisopropyltryptamine,generic_name
+741,papas,street_name
+742,paradise,street_name
+743,paradise white,street_name
+744,parrot,street_name
+745,pearl,street_name
+746,pedrito,street_name
+747,perico,street_name
+748,peruvian,street_name
+749,peruvian flake,street_name
+750,peruvian lady,street_name
+751,pescado,street_name
+752,peta,street_name
+753,pez,street_name
+754,pichicata,street_name
+755,pillow,street_name
+756,pimp,street_name
+757,pingas,street_name
+758,pingos,street_name
+759,pintura blanca,street_name
+760,poli,street_name
+761,pollo,street_name
+762,polvo,street_name
+763,powder diamonds,street_name
+764,methaqualone,generic_name
+765,puma,street_name
+766,puritain,street_name
+767,quadros,street_name
+768,queso blanco,street_name
+769,racehorse charlie,street_name
+770,rambo,street_name
+771,benzphetamine,generic_name
+772,refresco,street_name
+773,refrescas,street_name
+774,pearl,street_name
+775,hubba,street_name
+776,gringa,street_name
+777,flake,street_name
+778,chevy,street_name
+779,cheyenne,street_name
+780,temazepam,generic_name
+781,chica,street_name
+782,chicanitas,street_name
+783,chinos,street_name
+784,chiva,street_name
+785,ethchlorvynol,generic_name
+786,cielo,street_name
+787,clear kind,street_name
+788,clear tires,street_name
+789,coca,street_name
+790,coca-cola,street_name
+791,cocazo,street_name
+792,coconut,street_name
+793,coke,street_name
+794,cola,street_name
+795,colorado,street_name
+796,comida,street_name
+797,comida dulce,street_name
+798,connie,street_name
+799,cookie,street_name
+800,cosa,street_name
+801,coso,street_name
+802,cosos,street_name
+803,tiletamine,generic_name
+804,crow,street_name
+805,crusty treats,street_name
+806,cuadro,street_name
+807,death valley,street_name
+808,designer jeans,street_name
+809,devil’s dandruff,street_name
+810,diamonds,street_name
+811,diente,street_name
+812,barbital,generic_name
+813,dienton,street_name
+814,boldenone,generic_name
+815,diesel,street_name
+816,diosa blanca,street_name
+817,dona blanca,street_name
+818,double bubble,street_name
+819,clorazepate,generic_name
+820,double letters,street_name
+821,dove,street_name
+822,dulces,street_name
+823,duracell,street_name
+824,durazno,street_name
+825,duro,street_name
+826,escama,street_name
+827,metandienone,generic_name
+828,escorpino,street_name
+829,falopa,street_name
+830,methohexital,generic_name
+831,fef1,street_name
+832,fichas,street_name
+833,nordazepam,generic_name
+834,fiesta,street_name
+835,oxymetholone,generic_name
+836,fish scale,street_name
+837,quinbolone,generic_name
+838,flake,street_name
+839,flea market jeans,street_name
+840,florida snow,street_name
+841,flour,street_name
+842,foolish powder,street_name
+843,"2,5-dimethoxy-4-ethylamphetamine",generic_name
+844,fox,street_name
+845,4-methylaminorex,generic_name
+846,freeze,street_name
+847,friskie powder,street_name
+848,frula,street_name
+849,funtime,street_name
+850,gabacho,street_name
+851,galaxy,street_name
+852,gallos,street_name
+853,gato,street_name
+854,dextromoramide,generic_name
+855,gift of the sun,street_name
+856,dihydromorphine,generic_name
+857,girlfriend,street_name
+858,dipipanone,generic_name
+859,glad stuff,street_name
+860,gold dust,street_name
+861,green gold,street_name
+862,gringa,street_name
+863,gringito,street_name
+864,grout,street_name
+865,guerillo,street_name
+866,gueros,street_name
+867,metenolone enanthate,generic_name
+868,h1,street_name
+869,metharbital,generic_name
+870,hai hit,street_name
+871,methylphenobarbital,generic_name
+872,hamburger,street_name
+873,happy dust,street_name
+874,happy powder,street_name
+875,happy trails,street_name
+876,heaven dust,street_name
+877,heavy one,street_name
+878,henry viii,street_name
+879,hh,street_name
+880,hhj,street_name
+881,prazepam,generic_name
+882,high heat,street_name
+883,4-methylthioamphetamine,generic_name
+884,hmh,street_name
+885,amfepramone,generic_name
+886,hooter,street_name
+887,aminorex,generic_name
+888,hundai,street_name
+889,butorphanol,generic_name
+890,62,street_name
+891,camazepam,generic_name
+892,77,street_name
+893,777,street_name
+894,cinolazepam,generic_name
+895,921,street_name
+896,clotiazepam,generic_name
+897,a-1,street_name
+898,cloxazolam,generic_name
+899,adidas,street_name
+900,all-american drug,street_name
+901,ancla,street_name
+902,angel powder,street_name
+903,dexfenfluramine,generic_name
+904,dichloralphenazone,generic_name
+905,apache,street_name
+906,apodo,street_name
+907,doxefazepam,generic_name
+908,arriba,street_name
+909,audi,street_name
+910,aunt nora,street_name
+911,ethyl loflazepate,generic_name
+912,azucar,street_name
+913,baby powder,street_name
+914,barrato,street_name
+915,basuco,street_name
+916,etonitazene,generic_name
+917,batman,street_name
+918,fludiazepam,generic_name
+919,bazooka,street_name
+920,gidazepam,generic_name
+921,bazulco,street_name
+922,halazepam,generic_name
+923,belushi,street_name
+924,bernice,street_name
+925,ketazolam,generic_name
+926,bernie,street_name
+927,bernie’s flakes,street_name
+928,bernie’s gold dust,street_name
+929,big bird,street_name
+930,loprazolam,generic_name
+931,big bloke,street_name
+932,lormetazepam,generic_name
+933,big c,street_name
+934,medazepam,generic_name
+935,big flake,street_name
+936,big rush,street_name
+937,nimetazepam,generic_name
+938,billie hoke,street_name
+939,birdie powder,street_name
+940,pinazepam,generic_name
+941,blanca nieves,street_name
+942,blanco,street_name
+943,blizzard,street_name
+944,blowcaine,street_name
+945,bmw,street_name
+946,vinbarbital,generic_name
+947,bobo,street_name
+948,vinylbital,generic_name
+949,bolitas,street_name
+950,bolivian marching powder,street_name
+951,bombita,street_name
+952,booger sugar,street_name
+953,bose,street_name
+954,bouncing powder,street_name
+955,brisa,street_name
+956,bump,street_name
+957,c-dust,street_name
+958,caballo,street_name
+959,caca,street_name
+960,cadillac,street_name
+961,california pancakes,street_name
+962,calves,street_name
+963,canelon,street_name
+964,carney,street_name
+965,furazabol,generic_name
+966,carrie nation,street_name
+967,lefetamine,generic_name
+968,cebolla,street_name
+969,cecil,street_name
+970,cement,street_name
+971,mesterolone,generic_name
+972,colombia,street_name
+973,colombia,street_name
+974,norethandrolone,generic_name
+975,crack cocaine,generic_name
+976,phenoperidine,generic_name
+977,devil smoke,street_name
+978,dice,street_name
+979,dime special,street_name
+980,dirty basing,street_name
+981,dirty fentanyl,street_name
+982,double yoke,street_name
+983,durin,street_name
+984,eastside player,street_name
+985,egg,street_name
+986,eye opener,street_name
+987,"3,4-methylenedioxy-n-hydroxyamphetamine",generic_name
+988,famous dimes,street_name
+989,fat bags,street_name
+990,fifty-one,street_name
+991,fish scales,street_name
+992,freebase,street_name
+993,french fries,street_name
+994,eticyclidine,generic_name
+995,garbage rock,street_name
+996,geek,street_name
+997,glo,street_name
+998,haloxazolam,generic_name
+999,golf ball,street_name
+1000,gravel,street_name
+1001,great white hope,street_name
+1002,lisdexamfetamine,generic_name
+1003,grit,street_name
+1004,groceries,street_name
+1005,mecloqualone,generic_name
+1006,hail,street_name
+1007,metopon,generic_name
+1008,hamburger helper,street_name
+1009,hotcakes,street_name
+1010,hubba,street_name
+1011,ice cubes,street_name
+1012,rolicyclidine,generic_name
+1013,tenocyclidine,generic_name
+1014,jelly beans,street_name
+1015,thiamylal,generic_name
+1016,α-methylfentanyl,generic_name
+1017,kangaroo,street_name
+1018,kokoma,street_name
+1019,kryptonite,street_name
+1020,delorazepam,generic_name
+1021,mixed jive,street_name
+1022,moon rock,street_name
+1023,nickle,street_name
+1024,normethadone,generic_name
+1025,nuggets,street_name
+1026,one-fifty-one,street_name
+1027,zipeprol,generic_name
+1028,paste,street_name
+1029,pebbles,street_name
+1030,pee wee,street_name
+1031,piedras,street_name
+1032,noracymethadol,generic_name
+1033,norpipanone,generic_name
+1034,pony,street_name
+1035,primo,street_name
+1036,ready rock,street_name
+1037,arketamine,generic_name
+1038,red caps,street_name
+1039,rip,street_name
+1040,eluxadoline,generic_name
+1041,roca,street_name
+1042,rock attack,street_name
+1043,adb-chminaca,generic_name
+1044,rocks of hell,street_name
+1045,rocky iii,street_name
+1046,rooster,street_name
+1047,rox,street_name
+1048,roxanne,street_name
+1049,roz,street_name
+1050,schoolcraft,street_name
+1051,benzylpiperazine,generic_name
+1052,scramble,street_name
+1053,scruples,street_name
+1054,seven-up,street_name
+1055,sherms,street_name
+1056,sight ball,street_name
+1057,slab,street_name
+1058,sleet,street_name
+1059,speed boat,street_name
+1060,square time bomb,street_name
+1061,sugar block,street_name
+1062,takeover,street_name
+1063,top gun,street_name
+1064,suvorexant,generic_name
+1065,uzi,street_name
+1066,bromazepam,generic_name
+1067,white ball,street_name
+1068,white ghost,street_name
+1069,alfentanil,generic_name
+1070,white sugar,street_name
+1071,white tornado,street_name
+1072,wrecking crew,street_name
+1073,yahoo,street_name
+1074,yale,street_name
+1075,yimyom,street_name
+1076,51s,street_name
+1077,bufotenin,generic_name
+1078,151s,street_name
+1079,501s,street_name
+1080,apple jack,street_name
+1081,baby t,street_name
+1082,fenfluramine,generic_name
+1083,bazooka,street_name
+1084,flurazepam,generic_name
+1085,beam me up,street_name
+1086,beautiful boulders,street_name
+1087,beemer,street_name
+1088,bill blass,street_name
+1089,bings,street_name
+1090,bj,street_name
+1091,black rock,street_name
+1092,blowcaine,street_name
+1093,blowout,street_name
+1094,bobo,street_name
+1095,bolo,street_name
+1096,bone crusher,street_name
+1097,remifentanil,generic_name
+1098,boo-boo,street_name
+1099,boulder,street_name
+1100,sufentanil,generic_name
+1101,breakfast of champions,street_name
+1102,bubble gum,street_name
+1103,bullion,street_name
+1104,zopiclone,generic_name
+1105,bump,street_name
+1106,ah-7921,generic_name
+1107,caps,street_name
+1108,casper the ghost,street_name
+1109,caviar,street_name
+1110,cd,street_name
+1111,jwh-203,generic_name
+1112,cheap basing,street_name
+1113,pentylone,generic_name
+1114,chewies,street_name
+1115,chingy,street_name
+1116,clicker,street_name
+1117,climax,street_name
+1118,cloud nine,street_name
+1119,cookies,street_name
+1120,crc,street_name
+1121,crib,street_name
+1122,crunch and munch,street_name
+1123,ecstasy/mdma,generic_name
+1124,ecstasy,street_name
+1125,mdma,street_name
+1126,molly,street_name
+1127,baby slits,street_name
+1128,beans,street_name
+1129,blue kisses,street_name
+1130,blue superman,street_name
+1131,booty juice,street_name
+1132,chocolate chips,street_name
+1133,dancing shoes,street_name
+1134,decadence,street_name
+1135,disco biscuits,street_name
+1136,domex,street_name
+1137,e-bomb,street_name
+1138,egg rolls,street_name
+1139,goog,street_name
+1140,green apple,street_name
+1141,happy pill,street_name
+1142,clobazam,generic_name
+1143,hug,street_name
+1144,hug drug,street_name
+1145,kleenex,street_name
+1146,love doctor,street_name
+1147,love drug,street_name
+1148,love flip,street_name
+1149,love potion #9,street_name
+1150,love trip,street_name
+1151,lover’s speed,street_name
+1152,malcolm x,street_name
+1153,moon rock,street_name
+1154,ibogaine,generic_name
+1155,pingaz,street_name
+1156,pingers,street_name
+1157,rolls,street_name
+1158,scooby snacks,street_name
+1159,skittle,street_name
+1160,pemoline,generic_name
+1161,smacks,street_name
+1162,slits,street_name
+1163,phendimetrazine,generic_name
+1164,smarties,street_name
+1165,speed for lovers,street_name
+1166,sweets,street_name
+1167,talbutal,generic_name
+1168,tacha,street_name
+1169,thizz,street_name
+1170,triple stacks,street_name
+1171,uppers,street_name
+1172,vitamin e,street_name
+1173,vitamin x,street_name
+1174,vowels,street_name
+1175,white mercedes,street_name
+1176,butabarbital,generic_name
+1177,xtc,street_name
+1178,butalbital,generic_name
+1179,yokes,street_name
+1180,butylone,generic_name
+1181,hydrocodone,generic_name
+1182,norco,brand_name
+1183,vicodin,brand_name
+1184,lorcet,brand_name
+1185,357s,street_name
+1186,bananas,street_name
+1187,dones,street_name
+1188,estazolam,generic_name
+1189,dro,street_name
+1190,droco,street_name
+1191,fluff,street_name
+1192,hydros,street_name
+1193,idiot pills,street_name
+1194,lemonade,street_name
+1195,lorries,street_name
+1196,scratch,street_name
+1197,tabs,street_name
+1198,triple v,street_name
+1199,methylone,generic_name
+1200,veeks,street_name
+1201,vics,street_name
+1202,vikes,street_name
+1203,v-itamin,street_name
+1204,oxandrolone,generic_name
+1205,watsons-387,street_name
+1206,watsons,street_name
+1207,dilaudid,street_name
+1208,pentobarbital,generic_name
+1209,phenmetrazine,generic_name
+1210,dillies,street_name
+1211,k4,street_name
+1212,needle candy,street_name
+1213,footballs,street_name
+1214,juice,street_name
+1215,smack,street_name
+1216,quazepam,generic_name
+1217,methamphetamine,generic_name
+1218,diablo,street_name
+1219,evil sister,street_name
+1220,eye glasses,street_name
+1221,fizz,street_name
+1222,foco,street_name
+1223,frio,street_name
+1224,gak,street_name
+1225,garbage,street_name
+1226,acetylmethadol,generic_name
+1227,g-funk,street_name
+1228,alphamethadol,generic_name
+1229,gifts,street_name
+1230,benzethidine,generic_name
+1231,betamethadol,generic_name
+1232,go-fast,street_name
+1233,go-go,street_name
+1234,clonitazene,generic_name
+1235,goofball,street_name
+1236,groceries,street_name
+1237,diampromide,generic_name
+1238,hard ones,street_name
+1239,hare,street_name
+1240,dimenoxadol,generic_name
+1241,hawaiian salt,street_name
+1242,dimepheptanol,generic_name
+1243,hielo,street_name
+1244,dimethylamphetamine,generic_name
+1245,hiropon,street_name
+1246,dimethylheptylpyran,generic_name
+1247,hot ice,street_name
+1248,dioxaphetyl butyrate,generic_name
+1249,hubbers,street_name
+1250,embutramide,generic_name
+1251,ethoheptazine,generic_name
+1252,ice cream,street_name
+1253,etoxeridine,generic_name
+1254,ice water,street_name
+1255,furethidine,generic_name
+1256,icehead,street_name
+1257,jale,street_name
+1258,jug of water,street_name
+1259,morpheridine,generic_name
+1260,l.a. glass,street_name
+1261,myrophine,generic_name
+1262,l.a. ice,street_name
+1263,n-ethyl-3-piperidyl benzilate,generic_name
+1264,lemons,street_name
+1265,n-methyl-3-piperidyl benzilate,generic_name
+1266,lemon drop,street_name
+1267,norpethidine,generic_name
+1268,light beige,street_name
+1269,pepap,generic_name
+1270,livianas,street_name
+1271,pethidine intermediate a,generic_name
+1272,madera,street_name
+1273,phenampromide,generic_name
+1274,mamph,street_name
+1275,proheptazine,generic_name
+1276,meth,street_name
+1277,methlies quick,street_name
+1278,25i-nbome,generic_name
+1279,mexican crack,street_name
+1280,mexican crank,street_name
+1281,miss girl,street_name
+1282,montura,street_name
+1283,"cp 47,497",generic_name
+1284,muchacha,street_name
+1285,nails,street_name
+1286,one pot,street_name
+1287,jwh-200,generic_name
+1288,no-doze,street_name
+1289,levomoramide,generic_name
+1290,pantalones,street_name
+1291,normorphine,generic_name
+1292,patudas,street_name
+1293,peanut butter crank,street_name
+1294,pinata,street_name
+1295,pointy ones,street_name
+1296,pollito,street_name
+1297,popsicle,street_name
+1298,purple,street_name
+1299,raspado,street_name
+1300,rims,street_name
+1301,3-fluoromethcathinone,generic_name
+1302,rocket fuel,street_name
+1303,shabu,street_name
+1304,shards,street_name
+1305,shatter,street_name
+1306,shaved ice,street_name
+1307,shiny girl,street_name
+1308,small girl,street_name
+1309,soap dope,street_name
+1310,soft ones,street_name
+1311,speed dog,street_name
+1312,spicy kind,street_name
+1313,diethyltryptamine,generic_name
+1314,spin,street_name
+1315,stove top,street_name
+1316,super ice,street_name
+1317,tina,street_name
+1318,armodafinil,generic_name
+1319,tires,street_name
+1320,trash,street_name
+1321,tupperware,street_name
+1322,tweak,street_name
+1323,sodium oxybate,generic_name
+1324,unassembled,street_name
+1325,uppers,street_name
+1326,ventanas,street_name
+1327,vidrio,street_name
+1328,walking zombie,street_name
+1329,wazz,street_name
+1330,whizz,street_name
+1331,witches teeth,street_name
+1332,2c-b,generic_name
+1333,yaba,street_name
+1334,yellow barn,street_name
+1335,yellow cake,street_name
+1336,yellow kind,street_name
+1337,zip,street_name
+1338,accordion,street_name
+1339,amp,street_name
+1340,aqua,street_name
+1341,pentazocine,generic_name
+1342,arroz,street_name
+1343,batu,street_name
+1344,allobarbital,generic_name
+1345,begok,street_name
+1346,biker’s coffee,street_name
+1347,chlorphentermine,generic_name
+1348,blue bell ice cream,street_name
+1349,clortermine,generic_name
+1350,beers,street_name
+1351,diacetyldihydromorphine,generic_name
+1352,bucio,street_name
+1353,dipropanoylmorphine,generic_name
+1354,bud light,street_name
+1355,bump,street_name
+1356,fencamfamine,generic_name
+1357,cajitas,street_name
+1358,mibolerone,generic_name
+1359,chalk,street_name
+1360,chandelier,street_name
+1361,nicocodeine,generic_name
+1362,chavalone,street_name
+1363,nicodicodeine,generic_name
+1364,nicomorphine,generic_name
+1365,chicken feed,street_name
+1366,parahexyl,generic_name
+1367,chicken powder,street_name
+1368,chris,street_name
+1369,christine,street_name
+1370,pipradrol,generic_name
+1371,christy,street_name
+1372,properidine,generic_name
+1373,clothing cleaner,street_name
+1374,thebacon,generic_name
+1375,alfaxalone,generic_name
+1376,cold one,street_name
+1377,colorado rockies,street_name
+1378,crank,street_name
+1379,chloralodol,generic_name
+1380,cri-cri,street_name
+1381,crink,street_name
+1382,crisco,street_name
+1383,levacetylmethadol,generic_name
+1384,crissy,street_name
+1385,christy,street_name
+1386,mebutamate,generic_name
+1387,crypto,street_name
+1388,cuadro,street_name
+1389,sulfonmethane,generic_name
+1390,diamond,street_name
+1391,dunk,street_name
+1392,el gata,street_name
+1393,methylphenidate,generic_name
+1394,ritalin,brand_name
+1395,concerta,brand_name
+1396,daytrana,brand_name
+1397,diet coke,street_name
+1398,4'-methyl-α-pyrrolidinopropiophenone,generic_name
+1399,jif,street_name
+1400,flephedrone,generic_name
+1401,kibbles and bits,street_name
+1402,kiddie cocaine,street_name
+1403,kiddie coke,street_name
+1404,mph,street_name
+1405,pineapple,street_name
+1406,isomethadone,generic_name
+1407,poor man’s cocaine,street_name
+1408,r-ball,street_name
+1409,25c-nbome,generic_name
+1410,r-pop,street_name
+1411,rids,street_name
+1412,rittys,street_name
+1413,skippy,street_name
+1414,chloral betaine,generic_name
+1415,skittles,street_name
+1416,smarties,street_name
+1417,rcs-4,generic_name
+1418,study buddies,street_name
+1419,rcs-8,generic_name
+1420,the smart drug,street_name
+1421,truck drivers,street_name
+1422,vitamin r,street_name
+1423,morphine,generic_name
+1424,dreamer,street_name
+1425,first line,street_name
+1426,god’s drug,street_name
+1427,joy juice,street_name
+1428,miss emma,street_name
+1429,monkey,street_name
+1430,mister blue,street_name
+1431,morpho,street_name
+1432,noroxymorphone,generic_name
+1433,unkie,street_name
+1434,white stuff,street_name
+1435,opium,generic_name
+1436,ah-pen-yen,street_name
+1437,auntie,street_name
+1438,aunt emma,street_name
+1439,big o,street_name
+1440,black pill,street_name
+1441,black russian,street_name
+1442,chandoo,street_name
+1443,chinese molasses,street_name
+1444,chinese tobacco,street_name
+1445,chocolate,street_name
+1446,cruz,street_name
+1447,dopium,street_name
+1448,dover’s powder,street_name
+1449,dream gum,street_name
+1450,dream stick,street_name
+1451,easing powder,street_name
+1452,fi-do-nie,street_name
+1453,gee,street_name
+1454,god’s medicine,street_name
+1455,goma,street_name
+1456,gondola,street_name
+1457,goric,street_name
+1458,great tobacco,street_name
+1459,gum,street_name
+1460,guma,street_name
+1461,hocus,street_name
+1462,hops,street_name
+1463,incense,street_name
+1464,joy plant,street_name
+1465,midnight oil,street_name
+1466,mira,street_name
+1467,ope,street_name
+1468,opio,street_name
+1469,pen yan,street_name
+1470,pin gon,street_name
+1471,pin yen,street_name
+1472,pox,street_name
+1473,skee,street_name
+1474,toxy,street_name
+1475,toys,street_name
+1476,when-shee,street_name
+1477,oxycodone,generic_name
+1478,oxaydo,brand_name
+1479,roxicodone,brand_name
+1480,oxycontin,brand_name
+1481,oxycodone,brand_name
+1482,30s,street_name
+1483,40s,street_name
+1484,512s,street_name
+1485,beans,street_name
+1486,berries,street_name
+1487,buttons,street_name
+1488,greens,street_name
+1489,hillbilly heroin,street_name
+1490,kickers,street_name
+1491,killers,street_name
+1492,muchachas,street_name
+1493,mujeres,street_name
+1494,oc,street_name
+1495,oxy,street_name
+1496,oxycet,street_name
+1497,oxycotton,street_name
+1498,oxy 80s,street_name
+1499,ozone,street_name
+1500,roxy,street_name
+1501,roxy shorts,street_name
+1502,oxycat,street_name
+1503,u-47700,generic_name
+1504,pink heroin,street_name
+1505,pinky,street_name
+1506,u4,street_name
+1507,cannabis,generic_name
+1508,marijuana,street_name
+1509,peliroja,street_name
+1510,pelosa,street_name
+1511,phoenix,street_name
+1512,pine,street_name
+1513,pink panther,street_name
+1514,pintura,street_name
+1515,platinum cookies,street_name
+1516,platinum jack,street_name
+1517,pocket rocket,street_name
+1518,popcorn,street_name
+1519,porro,street_name
+1520,pretendo,street_name
+1521,prop 215,street_name
+1522,puff,street_name
+1523,purple haze,street_name
+1524,purple og,street_name
+1525,queen anns lace,street_name
+1526,red hair,street_name
+1527,ragweed,street_name
+1528,railroad weed,street_name
+1529,rainy day woman,street_name
+1530,rasta weed,street_name
+1531,red cross,street_name
+1532,red dirt,street_name
+1533,reefer,street_name
+1534,reggie,street_name
+1535,repollo,street_name
+1536,righteous bush,street_name
+1537,rosa maria,street_name
+1538,salt and pepper,street_name
+1539,santa marta,street_name
+1540,sasafras,street_name
+1541,sativa,street_name
+1542,sinsemilla,street_name
+1543,shmagma,street_name
+1544,shora,street_name
+1545,shrimp,street_name
+1546,shwag,street_name
+1547,skunk,street_name
+1548,skywalker,street_name
+1549,smoochy woochy poochy,street_name
+1550,smoke canada,street_name
+1551,sour og,street_name
+1552,spliff,street_name
+1553,sticky,street_name
+1554,stink weed,street_name
+1555,sugar weed,street_name
+1556,sweet lucy,street_name
+1557,tahoe,street_name
+1558,tangy og,street_name
+1559,terp,street_name
+1560,terpenes,street_name
+1561,tex-mex,street_name
+1562,texas tea,street_name
+1563,tigitty,street_name
+1564,tila,street_name
+1565,tims,street_name
+1566,top shelf,street_name
+1567,tosca,street_name
+1568,train wreck,street_name
+1569,trinity og,street_name
+1570,tweeds,street_name
+1571,valle,street_name
+1572,wake and bake,street_name
+1573,weed,street_name
+1574,weed tea,street_name
+1575,wheat,street_name
+1576,white-haired lady,street_name
+1577,wooz,street_name
+1578,yellow submarine,street_name
+1579,yen pop,street_name
+1580,yerba,street_name
+1581,yesca,street_name
+1582,young girls,street_name
+1583,zacate,street_name
+1584,zacatecas,street_name
+1585,zambi,street_name
+1586,zip,street_name
+1587,zoom,street_name
+1588,jon-jem,street_name
+1589,joy smoke,street_name
+1590,juan valdez,street_name
+1591,jungle juice,street_name
+1592,kaff,street_name
+1593,kali,street_name
+1594,kaya,street_name
+1595,kb,street_name
+1596,kentucky blue,street_name
+1597,kgb,street_name
+1598,khalifa,street_name
+1599,kiff,street_name
+1600,killa,street_name
+1601,kilter,street_name
+1602,king louie,street_name
+1603,kona gold,street_name
+1604,kumba,street_name
+1605,kush,street_name
+1606,laughing grass,street_name
+1607,laughing weed,street_name
+1608,leaf,street_name
+1609,lechuga,street_name
+1610,lemon-lime,street_name
+1611,lea,street_name
+1612,liamba,street_name
+1613,lime pillows,street_name
+1614,little green friends,street_name
+1615,little smoke,street_name
+1616,llesca,street_name
+1617,loaf,street_name
+1618,lobo,street_name
+1619,loco weed,street_name
+1620,love nuggets,street_name
+1621,love weed,street_name
+1622,lucas,street_name
+1623,m.j.,street_name
+1624,macoa,street_name
+1625,mafafa,street_name
+1626,magic smoke,street_name
+1627,manhattan silver,street_name
+1628,manteca,street_name
+1629,maracachafa,street_name
+1630,maria,street_name
+1631,marimba,street_name
+1632,mariquita,street_name
+1633,mary ann,street_name
+1634,mary jane,street_name
+1635,mary jones,street_name
+1636,mary warner,street_name
+1637,mary weaver,street_name
+1638,matchbox,street_name
+1639,matraca,street_name
+1640,maui wowie,street_name
+1641,meg,street_name
+1642,mersh,street_name
+1643,mexican brown,street_name
+1644,mexicali haze,street_name
+1645,mexican green,street_name
+1646,mexican red,street_name
+1647,mmj,street_name
+1648,mochie,street_name
+1649,moã±a,street_name
+1650,monte,street_name
+1651,moocah,street_name
+1652,mootie,street_name
+1653,mora,street_name
+1654,morisqueta,street_name
+1655,mostaza,street_name
+1656,mota,street_name
+1657,mowing the lawn,street_name
+1658,muggie,street_name
+1659,my brother,street_name
+1660,narizona,street_name
+1661,northern lights,street_name
+1662,nug,street_name
+1663,o-boy,street_name
+1664,og,street_name
+1665,o.j.,street_name
+1666,owl,street_name
+1667,paja,street_name
+1668,paloma,street_name
+1669,palomita,street_name
+1670,panama cut,street_name
+1671,panama gold,street_name
+1672,panama red,street_name
+1673,pakalolo,street_name
+1674,parsley,street_name
+1675,pasto,street_name
+1676,pasture,street_name
+1677,dew,street_name
+1678,diesel,street_name
+1679,dimba,street_name
+1680,dinkie dow,street_name
+1681,diosa verde,street_name
+1682,dirt grass,street_name
+1683,ditch weed,street_name
+1684,dizz,street_name
+1685,djamba,street_name
+1686,dody,street_name
+1687,dojo,street_name
+1688,donna juana,street_name
+1689,doobie,street_name
+1690,downtown brown,street_name
+1691,drag weed,street_name
+1692,dro,street_name
+1693,droski,street_name
+1694,dry high,street_name
+1695,elefante pata,street_name
+1696,endo,street_name
+1697,escoba,street_name
+1698,fattie,street_name
+1699,fine stuff,street_name
+1700,flower tops,street_name
+1701,fluffy,street_name
+1702,fuzzy lady,street_name
+1703,gallina,street_name
+1704,gallito,street_name
+1705,garifa,street_name
+1706,gauge,street_name
+1707,gangster,street_name
+1708,ganja,street_name
+1709,gash,street_name
+1710,gato,street_name
+1711,ghana,street_name
+1712,gigi,street_name
+1713,giggle smoke,street_name
+1714,giggle weed,street_name
+1715,girl scout cookies,street_name
+1716,gloria,street_name
+1717,gold leaf,street_name
+1718,gold star,street_name
+1719,gong,street_name
+1720,good giggles,street_name
+1721,gorilla,street_name
+1722,gorilla glue,street_name
+1723,grand daddy purp,street_name
+1724,grasshopper,street_name
+1725,green crack,street_name
+1726,green-eyed girl,street_name
+1727,green eyes,street_name
+1728,green goblin,street_name
+1729,green goddess,street_name
+1730,green mercedes benz,street_name
+1731,green paint,street_name
+1732,green skunk,street_name
+1733,greenhouse,street_name
+1734,grenuda,street_name
+1735,greta,street_name
+1736,guardada,street_name
+1737,gummy bears,street_name
+1738,gunga,street_name
+1739,hairy ones,street_name
+1740,hash,street_name
+1741,hawaiian,street_name
+1742,hemp,street_name
+1743,herb,street_name
+1744,hierba,street_name
+1745,holy grail,street_name
+1746,homegrown,street_name
+1747,hooch,street_name
+1748,hoja,street_name
+1749,humo,street_name
+1750,hydro,street_name
+1751,indian boy,street_name
+1752,indian hay,street_name
+1753,jamaican gold,street_name
+1754,jamaican red,street_name
+1755,jive,street_name
+1756,jolly green,street_name
+1757,420,street_name
+1758,a-bomb,street_name
+1759,acapulco gold,street_name
+1760,acapulco red,street_name
+1761,african black,street_name
+1762,african bush,street_name
+1763,airplane,street_name
+1764,alfalfa,street_name
+1765,alfombra,street_name
+1766,alice b toklas,street_name
+1767,all-star,street_name
+1768,almohada,street_name
+1769,angola,street_name
+1770,animal cookies,street_name
+1771,arizona,street_name
+1772,ashes,street_name
+1773,aunt mary,street_name
+1774,az,street_name
+1775,bale,street_name
+1776,bambalachacha,street_name
+1777,barbara jean,street_name
+1778,bareta,street_name
+1779,bash,street_name
+1780,bazooka,street_name
+1781,bc budd,street_name
+1782,bernie,street_name
+1783,bhang,street_name
+1784,big pillows,street_name
+1785,biggy,street_name
+1786,bionic,street_name
+1787,black bart,street_name
+1788,black gold,street_name
+1789,black maria,street_name
+1790,blondie,street_name
+1791,blue cheese,street_name
+1792,blue crush,street_name
+1793,blue dream,street_name
+1794,blue jeans,street_name
+1795,blue sage,street_name
+1796,blueberry,street_name
+1797,bobo bush,street_name
+1798,boo,street_name
+1799,boom,street_name
+1800,broccoli,street_name
+1801,bud,street_name
+1802,budda,street_name
+1803,burritos verdes,street_name
+1804,bush,street_name
+1805,cabbage,street_name
+1806,cafã©,street_name
+1807,cajita,street_name
+1808,cali,street_name
+1809,camara,street_name
+1810,canadian black,street_name
+1811,catnip,street_name
+1812,cheeba,street_name
+1813,chernobyl,street_name
+1814,cheese,street_name
+1815,chicago black,street_name
+1816,chicago green,street_name
+1817,chippie,street_name
+1818,chistosa,street_name
+1819,christmas tree,street_name
+1820,chronic,street_name
+1821,churro,street_name
+1822,cigars,street_name
+1823,citrol,street_name
+1824,cola,street_name
+1825,colorado cocktail,street_name
+1826,cookie,street_name
+1827,cotorritos,street_name
+1828,crazy weed,street_name
+1829,creeper bud,street_name
+1830,crippy,street_name
+1831,crying weed,street_name
+1832,culican,street_name
+1833,dank,street_name
+1834,devil’s lettuce,street_name
+1835,marijuana concentrates/hash oil,generic_name
+1836,hash oil,street_name
+1837,hash,street_name
+1838,710,street_name
+1839,bhno,street_name
+1840,bho,street_name
+1841,black glass,street_name
+1842,bubble hash,street_name
+1843,budder,street_name
+1844,butane hash oil,street_name
+1845,butane honey oil,street_name
+1846,caviar,street_name
+1847,cbd,street_name
+1848,cbd oil,street_name
+1849,crystalline,street_name
+1850,crumble,street_name
+1851,dabs,street_name
+1852,dipper,street_name
+1853,ear wax,street_name
+1854,edibles,street_name
+1855,enail,street_name
+1856,errl,street_name
+1857,extract,street_name
+1858,full melt,street_name
+1859,glob,street_name
+1860,gorilla glue,street_name
+1861,heady,street_name
+1862,honey oil,street_name
+1863,iwe,street_name
+1864,ice water hash,street_name
+1865,klear,street_name
+1866,live resin,street_name
+1867,moon rocks,street_name
+1868,rosin,street_name
+1869,rosin tech,street_name
+1870,sap,street_name
+1871,shatter,street_name
+1872,solventless,street_name
+1873,terp sauce,street_name
+1874,thca,street_name
+1875,thca crystal,street_name
+1876,thca crystalline,street_name
+1877,thca powder,street_name
+1878,trichrome,street_name
+1879,wax,street_name
+1880,synthetic cannabinoids,generic_name
+1881,abyss,street_name
+1882,ace of spades,street_name
+1883,ak-47,street_name
+1884,amnesia,street_name
+1885,atomic blast,street_name
+1886,big bang,street_name
+1887,black magic smoke,street_name
+1888,black mamba,street_name
+1889,420,street_name
+1890,blaze,street_name
+1891,bliss,street_name
+1892,blue cheese,street_name
+1893,bombay blue,street_name
+1894,brain freeze,street_name
+1895,buzz haze,street_name
+1896,cherry bomb,street_name
+1897,chill,street_name
+1898,chrome,street_name
+1899,clockwork orange,street_name
+1900,cloud 10,street_name
+1901,cowboy kush,street_name
+1902,crystal skull,street_name
+1903,dead man,street_name
+1904,devil’s venom,street_name
+1905,dr. feel good,street_name
+1906,dragon eye,street_name
+1907,earth blend,street_name
+1908,exodus,street_name
+1909,fake bake,street_name
+1910,fruit candy flavors,street_name
+1911,funky buddha,street_name
+1912,funky monkey,street_name
+1913,garden salad,street_name
+1914,genie,street_name
+1915,g-force,street_name
+1916,gi joe,street_name
+1917,green dream,street_name
+1918,green peace,street_name
+1919,hammer head,street_name
+1920,helix,street_name
+1921,hipster,street_name
+1922,hysteria,street_name
+1923,ice dragon,street_name
+1924,joker,street_name
+1925,juicy leaf,street_name
+1926,jungle juice,street_name
+1927,just chill,street_name
+1928,k2,street_name
+1929,kaos,street_name
+1930,karma,street_name
+1931,kong,street_name
+1932,krazy kandy,street_name
+1933,kryp2nite,street_name
+1934,kush,street_name
+1935,layer cake,street_name
+1936,limitless,street_name
+1937,mad hatter,street_name
+1938,mile high,street_name
+1939,mystique,street_name
+1940,ninja,street_name
+1941,odyssey,street_name
+1942,omg,street_name
+1943,pandora’s box,street_name
+1944,phoenix,street_name
+1945,pineapple express,street_name
+1946,posh,street_name
+1947,potpourri,street_name
+1948,pow,street_name
+1949,rapture,street_name
+1950,red magic,street_name
+1951,rewind,street_name
+1952,scooby snax,street_name
+1953,sexy,street_name
+1954,sky high,street_name
+1955,snake bite,street_name
+1956,solar flare,street_name
+1957,spice,street_name
+1958,spike diamond,street_name
+1959,sweet leaf,street_name
+1960,synthetic marijuana,street_name
+1961,terraband,street_name
+1962,time traveler,street_name
+1963,top gear,street_name
+1964,train wreck,street_name
+1965,viper,street_name
+1966,voodoo child,street_name
+1967,wazabi,street_name
+1968,wicked,street_name
+1969,wizard,street_name
+1970,xtreme,street_name
+1971,yucatan,street_name
+1972,yucatan fire,street_name
+1973,zero gravity,street_name
+1974,zohai,street_name
+1975,zombie,street_name
+1976,synthetic cathinones,generic_name
+1977,bath blow,street_name
+1978,bath salts,street_name
+1979,bliss,street_name
+1980,bloom,street_name
+1981,blue silk,street_name
+1982,bubbles,street_name
+1983,cloud 9,street_name
+1984,cloud nine,street_name
+1985,cosmic beast,street_name
+1986,drone,street_name
+1987,energy-1,street_name
+1988,flakka,street_name
+1989,gravel,street_name
+1990,insect repellent,street_name
+1991,ivory wave,street_name
+1992,jewelry cleaner,street_name
+1993,lunar wave,street_name
+1994,m-cat,street_name
+1995,meow-meow,street_name
+1996,ocean burst,street_name
+1997,phone screen cleaner,street_name
+1998,plant feeder,street_name
+1999,plant food,street_name
+2000,pure ivory,street_name
+2001,purple wave,street_name
+2002,recharge,street_name
+2003,red dove,street_name
+2004,salting,street_name
+2005,scarface,street_name
+2006,snow leopard,street_name
+2007,stardust,street_name
+2008,vanilla sky,street_name
+2009,white dove,street_name
+2010,white knight,street_name
+2011,white lightening,street_name
+2012,white lightning,street_name
+2013,white magic,street_name
+2014,wicked x,street_name
+2015,zoom,street_name
+2016,codeine,generic_name
+2017,captain cody,street_name
+2018,cody,street_name
+2019,schoolboy,street_name
+2020,doors & fours,street_name
+2021,pancakes & syrup,street_name
+2022,loads,street_name
+2023,little c,street_name
+2024,phenergan,brand_name
+2025,purple drank,street_name
+2026,sizzurp,street_name
+2027,texas tea,street_name
+2028,isonipecaine,brand_name
+2029,pethidine,brand_name
+2030,meperidine,generic_name
+2031,demmies,street_name
+2032,pain killer,street_name
+2033,abstral,brand_name
+2034,actiq,brand_name
+2035,avinza,brand_name
+2036,butrans,brand_name
+2037,demerol,brand_name
+2038,dilaudid,brand_name
+2039,dolophine,brand_name
+2040,duragesic,brand_name
+2041,fentora,brand_name
+2042,hysingla,brand_name
+2043,methadose,brand_name
+2044,amidone,street_name
+2045,dollies,street_name
+2046,dolls,street_name
+2047,fizzies,street_name
+2048,red rock,street_name
+2049,tootisie roll,street_name
+2050,morphabond,brand_name
+2051,nucynta er,brand_name
+2052,onsolis,brand_name
+2053,oramorph,brand_name
+2054,oxaydo,brand_name
+2055,roxanol-t,brand_name
+2056,sublimaze,brand_name
+2057,xtampza er,brand_name
+2058,zohydro er,brand_name
+2059,anexsia,brand_name
+2060,co-gesic,brand_name
+2061,embeda,brand_name
+2062,exalgo,brand_name
+2063,hycet,brand_name
+2064,hycodan,brand_name
+2065,hydromet,brand_name
+2066,ibudone,brand_name
+2067,kadian,brand_name
+2068,liquicet,brand_name
+2069,lorcet,brand_name
+2070,lorcet plus,brand_name
+2071,lortab,brand_name
+2072,maxidone,brand_name
+2073,ms contin,brand_name
+2074,duramorph,brand_name
+2075,norco,brand_name
+2076,opana er,brand_name
+2077,biscuits,street_name
+2078,blue heaven,street_name
+2079,mrs. o,street_name
+2080,o bomb,street_name
+2081,octagons,street_name
+2082,stop signs,street_name
+2083,oxycontin,brand_name
+2084,oxycet,brand_name
+2085,palladone,brand_name
+2086,percocet,brand_name
+2087,percodan,brand_name
+2088,reprexain,brand_name
+2089,rezira,brand_name
+2090,roxicet,brand_name
+2091,targiniq er,brand_name
+2092,tussicaps,brand_name
+2093,tussionex,brand_name
+2094,tuzistra xr,brand_name
+2095,tylenol #3 and #4,brand_name
+2096,vicodin,brand_name
+2097,vicodin es,brand_name
+2098,vicodin hp,brand_name
+2099,vicoprofen,brand_name
+2100,vituz,brand_name
+2101,xartemis xr,brand_name
+2102,xodol,brand_name
+2103,zolvit,brand_name
+2104,zutripro,brand_name
+2105,zydone,brand_name
+2106,fentanyl,brand_name
+2107,lysergic acid diethylamide,generic_name
+2108,lsd,street_name
+2109,acid,street_name
+2110,blotter,street_name
+2111,dots,street_name
+2112,electric kool aid,street_name
+2113,lucy in the sky with diamonds,street_name
+2114,purple haze,street_name
+2115,sugar cubes,street_name
+2116,yellow sunshine,street_name
+2117,psilocybin,generic_name
+2118,psilocin,brand_name
+2119,mushrooms,street_name
+2120,shrooms,street_name
+2121,shroomies,street_name
+2122,magic mushrooms,street_name
+2123,alice,street_name
+2124,boomers,street_name
+2125,caps,street_name
+2126,cow patties,street_name
+2127,fungus,street_name
+2128,hongos,street_name
+2129,mushies,street_name
+2130,pizza toppings,street_name
+2131,tweezes,street_name
+2132,lorazepam,generic_name
+2133,antivan,brand_name
+2134,downers,street_name
+2135,sleeping pills,street_name
+2136,tranks,street_name
+2137,triazolam,generic_name
+2138,halcion,brand_name
+2139,downers,street_name
+2140,sleeping pills,street_name
+2141,tranks,street_name
+2142,chlordiazepoxide,generic_name
+2143,librium,brand_name
+2144,downers,street_name
+2145,sleeping pills,street_name
+2146,tranks,street_name
+2147,flunitrazepam,generic_name
+2148,rohypnol,brand_name
+2149,date rape drug,street_name
+2150,forget-me pill,street_name
+2151,la rocha,street_name
+2152,lunch money,street_name
+2153,mexican valium,street_name
+2154,mind eraser,street_name
+2155,roofies,street_name
+2156,wolfies,street_name
+2157,diazepam,generic_name
+2158,valium,brand_name
+2159,jellies,street_name
+2160,moggies,street_name
+2161,vallies,street_name
+2162,ayahuasca,generic_name
+2163,aya,street_name
+2164,hoasca,street_name
+2165,yage,street_name
+2166,dmt,generic_name
+2167,"n,n-dimethyltryptamine",brand_name
+2168,the spirit molecule,street_name
+2169,dimitri,street_name
+2170,ghb,generic_name
+2171,gamma-hydroxybutyric,brand_name
+2172,date rape drug,street_name
+2173,geeb,street_name
+2174,georgia home boy,street_name
+2175,gina,street_name
+2176,goop,street_name
+2177,grievous bodily harm,street_name
+2178,liquid e,street_name
+2179,liquid x,street_name
+2180,scoop,street_name
+2181,ketamine,generic_name
+2182,blind squid,street_name
+2183,cat valium,street_name
+2184,k,street_name
+2185,k-hold,street_name
+2186,special k,street_name
+2187,super acid,street_name
+2188,vitamin k,street_name
+2189,khat,generic_name
+2190,abyssinian tea,street_name
+2191,african salad,street_name
+2192,catha,street_name
+2193,chat,street_name
+2194,kat,street_name
+2195,oat,street_name
+2196,qat,street_name
+2197,kratom,generic_name
+2198,biak-biak,street_name
+2199,herbal speedball,street_name
+2200,ithang,street_name
+2201,kahyam,street_name
+2202,ketum,street_name
+2203,thom,street_name
+2204,mescaline,generic_name
+2205,big chief,street_name
+2206,blue caps,street_name
+2207,buttons,street_name
+2208,cactus,street_name
+2209,mescal,street_name
+2210,san pedro,street_name
+2211,topi,street_name
+2212,phencyclidine,brand_name
+2213,pcp,generic_name
+2214,angel dust,street_name
+2215,butt naked,street_name
+2216,purple rain,street_name
+2217,rocket fuel,street_name
+2218,stardust,street_name
+2219,yellow fever,street_name
+2220,zombie,street_name
+2221,peyote,generic_name
+2222,black button,street_name
+2223,cactus,street_name
+2224,green button,street_name
+2225,half moon,street_name
+2226,nubs,street_name
+2227,shaman,street_name
+2228,tops,street_name
+2229,salvia,generic_name
+2230,salvia divinorum,brand_name
+2231,diviner’s sage,street_name
+2232,magic mint,street_name
+2233,maria pastora,street_name
+2234,sally-d,street_name
+2235,amyl nitrate,generic_name
+2236,ames,street_name
+2237,amies,street_name
+2238,amys,street_name
+2239,pearls,street_name
+2240,poppers,street_name
+2241,isobutyl nitrate,generic_name
+2242,aroma of men,street_name
+2243,bolt,street_name
+2244,climax,street_name
+2245,hardware,street_name
+2246,locker room,street_name
+2247,poppers,street_name
+2248,quicksilver,street_name
+2249,snappers,street_name
+2250,nitrous oxide,generic_name
+2251,buzz bomb,street_name
+2252,hippie crack,street_name
+2253,laughing gas,street_name
+2254,whippets,street_name
+2255,propoxyphene,generic_name
+2256,darvocet,brand_name
+2257,darvon,brand_name
+2258,footballs,street_name
+2259,n’s,street_name
+2260,pink footballs,street_name
+2261,pinks,street_name
+2262,yellow footballs,street_name
+2263,65s,street_name
+2264,tramadol,generic_name
+2265,ultram,brand_name
+2266,chill pills,street_name
+2267,trammies,street_name
+2268,ultras,street_name
+2269,dimenhydrinate,generic_name
+2270,dramamine,brand_name
+2271,dime,street_name
+2272,dime tabs,street_name
+2273,substance d,street_name
+2274,dxm,generic_name
+2275,dextromethorphan,brand_name
+2276,dex,street_name
+2277,dextro,street_name
+2278,drix,street_name
+2279,poor man’s ecstasy,street_name
+2280,red devils,street_name
+2281,robo,street_name
+2282,robotripping,street_name
+2283,triple c,street_name
+2284,tussin,street_name
+2285,pseudoephedrine,generic_name
+2286,sudafed,brand_name
+2287,chalk,street_name
+2288,crank,street_name
+2289,meth,street_name
+2290,zolpidem,generic_name
+2291,ambien,brand_name
+2292,date rape drug,street_name
+2293,forget-me pill,street_name
+2294,mexican valium,street_name
+2295,r2,street_name
+2296,roche,street_name
+2297,roofies,street_name
+2298,roofinol,street_name
+2299,rophies,street_name
+2300,eszopiclone,generic_name
+2301,lunesta,brand_name
+2302,date rape drug,street_name
+2303,forget-me pill,street_name
+2304,mexican valium,street_name
+2305,r2,street_name
+2306,roche,street_name
+2307,roofies,street_name
+2308,roofinol,street_name
+2309,rophies,street_name
+2310,sonata,brand_name
+2311,zaleplon,generic_name
+2312,date rape drug,street_name
+2313,forget-me pill,street_name
+2314,mexican valium,street_name
+2315,r2,street_name
+2316,roche,street_name
+2317,roofies,street_name
+2318,roofinol,street_name
+2319,rophies,street_name
+2320,amobarbital,generic_name
+2321,amytal,brand_name
+2322,barbs,street_name
+2323,red birds,street_name
+2324,reds,street_name
+2325,yellows,street_name
+2326,yellow jackets,street_name
+2327,paroxetine,generic_name
+2328,paxil,brand_name
+2329,bottled smiles,street_name
+2330,happy pill,street_name
+2331,miracle drug,street_name
+2332,wonder drug,street_name
+2333,fluoxetine,generic_name
+2334,prozac,brand_name
+2335,bottled smiles,street_name
+2336,happy pill,street_name
+2337,miracle drug,street_name
+2338,wonder drug,street_name
+2339,sertraline,generic_name
+2340,zoloft,brand_name
+2341,bottled smiles,street_name
+2342,happy pill,street_name
+2343,miracle drug,street_name
+2344,wonder drug,street_name
+2345,phentermine,generic_name
+2346,ionamin,brand_name
+2347,adipex,brand_name
+2348,crank,street_name
+2349,fastin,street_name
+2350,fen-phen,street_name
+2351,nandrolone,generic_name
+2352,testosterone,generic_name
+2353,arnolds,street_name
+2354,gym candy,street_name
+2355,juice,street_name
+2356,muscle builders,street_name
+2357,pumpers,street_name
+2358,roids,street_name
+2359,stackers,street_name
+2360,weight gainers,street_name
+2361,steroids,street_name
+2362,arnolds,street_name
+2363,gym candy,street_name
+2364,juice,street_name
+2365,muscle builders,street_name
+2366,pumpers,street_name
+2367,roids,street_name
+2368,stackers,street_name
+2369,weight gainers,street_name
+2370,steroids,street_name
+2371,hydromorphone,generic_name
+2372,oxymorphone,generic_name
+2373,methadone,generic_name
+2374,tapentadol,generic_name

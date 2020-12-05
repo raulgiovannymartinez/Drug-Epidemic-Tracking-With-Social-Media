@@ -1,0 +1,26 @@
+// All street names related to 'oxycodone'
+MATCH (gn:Generic_Name)-[:SAME_AS]-(an:Alt_Name)
+WHERE gn.name = 'oxycodone'
+RETURN (gn)-[:SAME_AS]-(an)
+
+// Most popular Alt Name related to 'oxycodone'
+MATCH (gn:Generic_Name)-[:SAME_AS]-(an:Alt_Name)-[rr:REDDIT_RELATION]-(rp:Reddit_Post)
+WHERE gn.name = 'oxycodone'
+RETURN an.name, count(rp) AS cnt
+ORDER BY cnt DESC
+
+// Reddit posts related to 'oxycodone' through its Alt Names
+MATCH (gn:Generic_Name)-[:SAME_AS]-(an:Alt_Name)-[rr:REDDIT_RELATION]-(rp:Reddit_Post)
+WHERE gn.name = 'oxycodone'
+RETURN (gn)-[:SAME_AS]-(an)-[rr]-(rp)
+LIMIT 200
+
+// News posts related to 'oxycodone'
+MATCH (gn:Generic_Name)-[nr:USNEWS_RELATION]-(np:USNews_Post)
+WHERE gn.name = 'oxycodone'
+RETURN (gn)-[nr]-(np)
+
+// Most popular Generic Names in news posts
+MATCH (gn:Generic_Name)-[nr:USNEWS_RELATION]-(np:USNews_Post)
+RETURN gn.name, count(np) AS cnt
+ORDER BY cnt DESC

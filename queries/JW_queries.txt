@@ -20,7 +20,25 @@ MATCH (gn:Generic_Name)-[nr:USNEWS_RELATION]-(np:USNews_Post)
 WHERE gn.name = 'oxycodone'
 RETURN (gn)-[nr]-(np)
 
+// Most popular Generic Name in reddit posts
+MATCH (gn:Generic_Name)-[]-()-[rr:REDDIT_RELATION]-(rp:Reddit_Post)
+RETURN gn.name, count(rp) AS cnt
+ORDER BY cnt DESC
+
 // Most popular Generic Names in news posts
 MATCH (gn:Generic_Name)-[nr:USNEWS_RELATION]-(np:USNews_Post)
 RETURN gn.name, count(np) AS cnt
 ORDER BY cnt DESC
+
+// Most popular categories in reddit posts
+MATCH (gn:Generic_Name)-[]-()-[rr:REDDIT_RELATION]-(rp:Reddit_Post)
+RETURN gn.category, count(rp) AS cnt
+ORDER BY cnt DESC
+
+// Most popular categories in news
+// NOTE: VA product category matches to "marijuana", not generic name "marijuana"
+// NOTE: Anesthetics, mucosal refers to cocaine
+MATCH (gn:Generic_Name)-[nr:USNEWS_RELATION]-(np:USNews_Post)
+RETURN gn.category, count(np) AS cnt
+ORDER BY cnt DESC
+

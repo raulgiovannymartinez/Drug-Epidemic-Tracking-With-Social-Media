@@ -49,7 +49,7 @@ CREATE (r)-[:REDDIT_RELATION {proba: csvLine.proba}]->(n);
 // load generic names-alt names relations
 LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vRKyLsPI-P5MryOuy10Z-puw4COJh9_W2igJXc9_s0pSdHCXOyHpwaqCY7QtplgacCfHBSvPcc7IPVL/pub?gid=149684163&single=true&output=csv" AS csvLine
 MATCH (n:Alt_Name {id: toInteger(csvLine.id_alt)}), (gn:Generic_Name {id: toInteger(csvLine.id_generic)})
-CREATE (gn)-[:SAME_AS]->(n);
+CREATE (n)-[:SAME_AS]->(gn);
 
 // load us news data and create news source relationship
 LOAD CSV WITH HEADERS FROM "https://docs.google.com/spreadsheets/d/e/2PACX-1vSq-dJujti2HcWfqC2fBf8bDrXh9ubtiuKgLCfBbh2Lb2fsAt-EHjzabfoJfaHmkjupmtZDyiJnPE-K/pub?output=csv" AS csvLine

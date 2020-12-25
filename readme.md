@@ -9,7 +9,7 @@ DSE203: Data Integration and ETL
 
 ## Key Concepts
 - Entity Matching
-- Graph Databases
+- Graph Databases (Cypher and Neo4J)
 - Data Integration
 
 ## Collaborators
